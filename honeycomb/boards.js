@@ -1,15 +1,14 @@
 // @slapdash.schemaVersion 1
 // @slapdash.name Honeycomb Boards
 // @slapdash.icon 🐝
-// @slapdash.type options
+// @slapdash.type full
 
 const https = require('https')
 const { exit } = require('process')
 
-
 // NOTE: You must define the API key until we figure out a better way to provide
 // it. You can grab the key at https://ui.honeycomb.io/teams/slapdash.
-const API_KEY = ""
+const API_KEY = "09ee6a55bb9ac547e8f55a9e5ae0c24c"
 
 const emojis = ['💩', '👻', '👽', '🤖', '👾', '👐', '🖖', '✌️', '🤟', '🤘', '🤙', '👋', '🐭', '🦕', '🦖', '🐉'];
 
@@ -32,7 +31,7 @@ const req = https.request({
       boards.map(board => ({
         title: board.name,
         subtitle: board.description ?? board.queries.map(query => query.caption).filter(i => !!i),
-        icon: emojis[Math.floor(Math.random() * emojis.length)],
+        icon: emojis[board.name.length % emojis.length],
         action: {
           type: "OPEN_EXTERNAL_URL",
           payload: {

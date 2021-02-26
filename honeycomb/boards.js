@@ -8,7 +8,7 @@ const { exit } = require('process')
 
 // NOTE: You must define the API key until we figure out a better way to provide
 // it. You can grab the key at https://ui.honeycomb.io/teams/slapdash.
-const API_KEY = "09ee6a55bb9ac547e8f55a9e5ae0c24c"
+const API_KEY = ""
 
 const emojis = ['💩', '👻', '👽', '🤖', '👾', '👐', '🖖', '✌️', '🤟', '🤘', '🤙', '👋', '🐭', '🦕', '🦖', '🐉'];
 

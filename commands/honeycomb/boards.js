@@ -1,4 +1,3 @@
-// @slapdash.schemaVersion 1
 // @slapdash.name Honeycomb Boards
 // @slapdash.icon 🐝
 // @slapdash.type full

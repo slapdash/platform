@@ -1,4 +1,3 @@
-// @slapdash.schemaVersion 1
 // @slapdash.name Search Emoji
 // @slapdash.icon 😀
 // @slapdash.type full

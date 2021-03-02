@@ -1,4 +1,3 @@
-// @slapdash.schemaVersion 1
 // @slapdash.name Search in Google
 // @slapdash.icon 🔎
 // @slapdash.type keywords

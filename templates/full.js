@@ -20,16 +20,18 @@ const keywords = (args["keywords"] ?? "")
 // The script must return a list of options. The exact share of Option is TBD
 // and will be changed and formalized soon. Here we can decide whether to use
 // "keywords" or not.
-const response = ['💩', '👻', '🤟', '🤘', '🤙', '👋'].map((emoji, index) => ({
-  title: `emoji ${index + 1}`,
-  icon: emoji,
-  action: {
-    type: "OPEN_EXTERNAL_URL",
-    payload: {
-      url: `https://google.com/search?q=${emoji}`,
-      target: "_blank"
+const response = {
+  view: "list",
+  options: ['💩', '👻', '🤟', '🤘', '🤙', '👋'].map((emoji, index) => ({
+    title: `emoji ${index + 1}`,
+    icon: emoji,
+    action: {
+      type: "open-url",
+      payload: {
+        url: `https://google.com/search?q=${emoji}`,
+      }
     }
-  }
-}))
+  }))
+}
 console.log(JSON.stringify(response))
 

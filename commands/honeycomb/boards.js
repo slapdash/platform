@@ -27,18 +27,21 @@ const req = https.request({
   res.on("end", () => {
     const boards = JSON.parse(Buffer.concat(data).toString())
     console.log(JSON.stringify(
-      boards.map(board => ({
-        title: board.name,
-        subtitle: board.description ?? board.queries.map(query => query.caption).filter(i => !!i),
-        icon: emojis[board.name.length % emojis.length],
-        action: {
-          type: "OPEN_EXTERNAL_URL",
-          payload: {
-            url: `https://ui.honeycomb.io/slapdash/board/${board.id}`,
-            target: "_blank"
-          }
-        }
-      }))
+      {
+        view: "list",
+        options:
+          boards.map(board => ({
+            title: board.name,
+            subtitle: board.description ?? board.queries.map(query => query.caption).filter(i => !!i),
+            icon: emojis[board.name.length % emojis.length],
+            action: {
+              type: "open-url",
+              payload: {
+                url: `https://ui.honeycomb.io/slapdash/board/${board.id}`,
+              }
+            }
+          }))
+      }
     ))
     exit(0);
   })

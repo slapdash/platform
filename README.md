@@ -21,4 +21,4 @@ commands = [
 ]
 ```
 
-5. Launch Slapdash and test your command. You should now see it in the Command Bar.
+5. Launch Slapdash and test your command. You should see it in the Command Bar.

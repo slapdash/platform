@@ -1,6 +1,5 @@
 // @slapdash.name Search Emoji
 // @slapdash.icon 😀
-// @slapdash.type full
 
 const https = require('https')
 const fs = require('fs')

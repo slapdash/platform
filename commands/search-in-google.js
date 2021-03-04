@@ -1,6 +1,5 @@
 // @slapdash.name Search in Google
 // @slapdash.icon 🔎
-// @slapdash.type keywords
 
 const args = process.argv.slice(2).reduce(
   (agg, arg) => {

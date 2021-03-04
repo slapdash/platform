@@ -1,6 +1,5 @@
 // @slapdash.name Honeycomb Boards
 // @slapdash.icon 🐝
-// @slapdash.type full
 
 const https = require('https')
 const { exit } = require('process')

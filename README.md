@@ -1,4 +1,4 @@
-### How to Create Script Command
+### How to Create Local Command
 
 1. Grab a template from [templates](/templates).
 2. Set the name and icon for your command.

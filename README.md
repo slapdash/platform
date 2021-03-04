@@ -1,7 +1,7 @@
 ### How to Create Script Command
 
-1. Grab a template from [templates](/templates) for the command you want to create (learn more about different command types [here](https://www.notion.so/slapdash/Types-ee89422fba6343f081c0e96352a6b02f)).
-2. Change the default template's name and icon.
+1. Grab a template from [templates](/templates).
+2. Set the name and icon for your command.
 3. Develop & Test your command in isolation. If it's a node script, then you can use `node` to run it in your terminal:
 
 ```bash
@@ -17,8 +17,8 @@ node ~/development/my-script-command.js --keywords=hello
 # ~/.slapdash/settings.toml
 
 commands = [
-  "/Users/zuta/development/my-script-command.js",
+  "~/development/my-script-command.js",
 ]
 ```
 
-5. Launch Slapdash and test your command. You should see it in the Command Bar.
+5. Launch [Slapdash](http://slapdash.com/download) and test running your command in the Command Bar.

@@ -31,22 +31,24 @@ const EMOJI_FILE_PATH = path.join(__dirname, "./emoji.json");
   const emojis = JSON.parse(data);
   console.log(
     JSON.stringify({
-      view: "list",
-      options: emojis
-        .filter(e => keywords.length === 0 ? Math.random() > 0.8 : e.short_names.some(n => matches(n)))
-        .slice(0, 30)
-        .map(emoji => {
-          const native = unifiedToNative(emoji.unified)
-          return ({
-            title: emoji.short_name,
-            subtitle: emoji.category.toLowerCase(),
-            icon: native,
-            action: {
-              type: "copy",
-              payload: { value: native }
-            }
+      view: {
+        type: "options",
+        options: emojis
+          .filter(e => keywords.length === 0 ? Math.random() > 0.8 : e.short_names.some(n => matches(n)))
+          .slice(0, 30)
+          .map(emoji => {
+            const native = unifiedToNative(emoji.unified)
+            return ({
+              title: emoji.short_name,
+              subtitle: emoji.category.toLowerCase(),
+              icon: native,
+              action: {
+                type: "copy",
+                value: native
+              }
+            })
           })
-        })
+      }
     })
   );
 })()

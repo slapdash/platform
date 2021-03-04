@@ -8,7 +8,18 @@ const args = process.argv.slice(2).reduce(
   },
   {}
 );
+const keywords = (args["keywords"] ?? "")
 
-const keywords = (args["keywords"] ?? "").split(/\s+/).filter(w => !!w).map(word => word.toLowerCase())
-
-require('child_process').exec(`open https://google.com/search?q=${keywords}`);
+console.log(JSON.stringify({
+  view: {
+    type: "options",
+    options: [{
+      title: `Search: ${keywords || "..."}`,
+      icon: "🔎",
+      action: {
+        type: "open-url",
+        url: `https://google.com/search?q=${keywords}`,
+      }
+    }]
+  }
+}))

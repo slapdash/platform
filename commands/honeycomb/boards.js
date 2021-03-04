@@ -27,19 +27,19 @@ const req = https.request({
     const boards = JSON.parse(Buffer.concat(data).toString())
     console.log(JSON.stringify(
       {
-        view: "list",
-        options:
-          boards.map(board => ({
-            title: board.name,
-            subtitle: board.description ?? board.queries.map(query => query.caption).filter(i => !!i),
-            icon: emojis[board.name.length % emojis.length],
-            action: {
-              type: "open-url",
-              payload: {
+        view: {
+          type: "options",
+          options:
+            boards.map(board => ({
+              title: board.name,
+              subtitle: board.description ?? board.queries.map(query => query.caption).filter(i => !!i),
+              icon: emojis[board.name.length % emojis.length],
+              action: {
+                type: "open-url",
                 url: `https://ui.honeycomb.io/slapdash/board/${board.id}`,
               }
-            }
-          }))
+            }))
+        }
       }
     ))
     exit(0);

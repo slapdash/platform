@@ -23,6 +23,4 @@ commands = [
 
 5. Launch [Slapdash](http://slapdash.com/download) and test running your command in the Command Bar.
 
-### Troubleshooting
-
-If your command doesn't show up in Slapdash make sure your script is saved with the UTF-8 encoding. 
+> :warning: If your command doesn't show up in Slapdash, check that your script is saved with the UTF-8 encoding. 

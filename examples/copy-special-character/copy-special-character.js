@@ -65,7 +65,7 @@ function showAllCharacters() {
  * The view that is shown when someone Tabs on a character.
  */
 function showOptionsForCharacter(character) {
-  const viewsToHex = {
+  const charactersToHex = {
     command: "&#8984;",
     option: "&#8997;",
     control: "&#8963;",
@@ -89,7 +89,7 @@ function showOptionsForCharacter(character) {
           title: "Copy Hex",
           action: {
             type: "copy",
-            value: viewsToHex[character],
+            value: charactersToHex[character],
           },
         },
       ],

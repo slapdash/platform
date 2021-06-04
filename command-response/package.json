@@ -1,0 +1,13 @@
+{
+  "name": "@slapdash/command-response",
+  "version": "0.0.0",
+  "description": "TS types for Command Response",
+  "main": "index.d.ts",
+  "types": "index.d.ts",
+  "author": {
+    "name": "Slapdash Inc.",
+    "email": "hello@slapdash.com",
+    "url": "https://slapdash.com/"
+  },
+  "license": "UNLICENSED"
+}

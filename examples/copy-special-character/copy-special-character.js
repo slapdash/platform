@@ -22,7 +22,7 @@ if (args["character"]) {
 console.log(JSON.stringify(response));
 
 /*
- * The view that is shown when someone runs the command
+ * The view that is shown when someone runs the command.
  */
 function showAllCharacters() {
   const response = {
@@ -47,12 +47,22 @@ function showAllCharacters() {
             type: "copy",
             value: "⌥",
           },
+          moveAction: {
+            type: "add-param",
+            name: "character",
+            value: "option",
+          },
         },
         {
           title: "Control",
           action: {
             type: "copy",
             value: "️️⌃",
+          },
+          moveAction: {
+            type: "add-param",
+            name: "character",
+            value: "control",
           },
         },
       ],
@@ -73,13 +83,9 @@ function showOptionsForCharacter(character) {
   return {
     tokens: [
       {
+        paramName: "character",
         label: character,
         icon: "🎹",
-        removeAction: {
-          type: "remove-param",
-          name: "character",
-          value: character,
-        },
       },
     ],
     view: {

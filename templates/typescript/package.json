@@ -1,0 +1,7 @@
+{
+  "name": "gql-dedup",
+  "main": "./index.ts",
+  "dependencies": {
+    "ts-node": "*"
+  }
+}

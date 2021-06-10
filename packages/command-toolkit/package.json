@@ -1,0 +1,12 @@
+{
+  "name": "@slapdash/command-toolkit",
+  "version": "0.0.0",
+  "description": "A set of tools to facilitate building a Slapdash Command.",
+  "main": "index.js",
+  "author": {
+    "name": "Slapdash Inc.",
+    "email": "hello@slapdash.com",
+    "url": "https://slapdash.com/"
+  },
+  "license": "MIT"
+}

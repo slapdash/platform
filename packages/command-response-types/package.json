@@ -1,6 +1,6 @@
 {
   "name": "@slapdash/command-response-types",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Typescript types for Command Response.",
   "types": "index.d.ts",
   "homepage": "https://github.com/slapdash/commands/tree/main/packages/command-response-types",

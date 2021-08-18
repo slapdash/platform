@@ -105,7 +105,7 @@ Property `CommandResponse.view.options` is the list of options that are displaye
 * **title:** The title for the option.
 * **action:** Option's [Main Action](command-response-view-list.md#options-main-action). This Action is executed when **`Enter`** is pressed on the Option \(or when the option is clicked\).
 * **moveAction:** Optional. Option's [Move Action](command-response-view-list.md#options-move-action) object. This Action is executed when Tab is pressed on the Option.
-* **icon:** Optional. The icon for the option. Can be either an emoji Unicode character or an Image URL.
+* **icon:** Optional. The icon for the option. Can be either an emoji Unicode character, URL \(inclduing data URL\) or inline. See [Customizing Icons](command-response-view-list.md#customizing-icons) for details.
 * **subtitle:** Optional. The subtitle for the option. Can be provided as a string or a list of strings.
 * **group:** Optional. The [Group](command-response-view-list.md#group) this option belongs to.
 
@@ -322,7 +322,7 @@ type OptionMainAction =
       tooltip?: string;
       /** The icon for this action. Either an emoji or an Image URL.
        * By default it will be inferred from the action property. */
-      icon?: string;
+      icon?: Icon;
     };
 ```
 
@@ -373,7 +373,7 @@ type OptionMainAction =
 
 ## Option's Move Action
 
-Property `CommandResponse.view.options[].moveAction` allows to provide a [Move Action](command-response-action.md#actionmoveaddparam) to change the location of the Command Bar.
+Property `CommandResponse.view.options[].moveAction` allows providing a [Move Action](command-response-action.md#actionmoveaddparam) to change the location of the Command Bar.
 
 {% tabs %}
 {% tab title="Masonry View: option with \"main\" and \"move\" Actions" %}
@@ -400,4 +400,37 @@ Property `CommandResponse.view.options[].moveAction` allows to provide a [Move A
 ```
 {% endtab %}
 {% endtabs %}
+
+## Customizing Icons
+
+Slapdash Developer Platform provides multiple ways to fine-tune icons appearence.
+
+```typescript
+export type Icon =
+  | string
+  | {
+      light: string;
+      dark: string;
+    }
+  | {
+      monochrome: string;
+    };
+```
+
+### Supported Image Formats
+
+Slapdash supports loading images over `http://` , `https://`, using[ Data URLs](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Data_URIs) or providing image content inline.
+
+* Emojis can be provided inline: `icon: "🧛‍♂️"`. All Unicode Emoticons are supported.
+* Images accessible over HTTP/HTTPS can be provided as an absolute URL:`icon: "https://slapdash.com/favicon.ico"`. Supports popular image formats.
+* Images can be encoded as [Data URLs](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Data_URIs) and provided inline: `icon: "data:image/jpeg, ... "`. The following image formats are supported: "image/png", "image/jpeg", "image/gif", "image/svg+xml".
+* SVGs can be provided inline without any encoding: `icon: "<svg ... "`
+
+### Customizing Appearance
+
+Slapdash can display images "as is" or automatically use a themed variant of an image.
+
+* By default, images are rendered "as is" without taking the user theme into consideration.
+* Separate images for dark and light themes can be provided by using `dark` and `light` properties: `icon: { light: "🌞", dark: "🌔" }`
+* To theme images automatically they must be provided by using `monochrome` property:`icon: { monochrome: "https:// ... " }`. Recommended for the best user experience. Image theming is implemented by replacing all non-transparent pixels of an image with appropriate color \(usually the text color\). Emojis are not supported.  
 

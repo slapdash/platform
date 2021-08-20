@@ -10,7 +10,7 @@ Commands that run in the cloud can't make any changes to your computer \(it's ju
 
 ## Create Cloud Command
 
-To create a cloud command, run **Create Command** in the Command Bar, choose **Cloud** as a type and paste the **Endpoint URL** of your command.
+To create a cloud command, run **Create Command** in the Command Bar, choose **Cloud** as a type, paste the **Endpoint URL** of your command, give it a name and press **Create Command**. 
 
 ![](../.gitbook/assets/cleanshot-2021-08-20-at-16.22.14.png)
 

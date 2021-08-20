@@ -10,7 +10,7 @@ Even if Slapdash doesn't support your language out of the box, you can just use 
 
 ### Create Local Command
 
-To create a local command, run **Create Command** in the Command Bar, choose **Local Script** as a type and select the script file on your computer.
+To create a local command, run **Create Command** in the Command Bar, choose **Local Script** as a type,  select the script file on your computer, give your command a name and press **Create Command**.
 
 ![](../.gitbook/assets/cleanshot-2021-08-20-at-16.27.46.png)
 

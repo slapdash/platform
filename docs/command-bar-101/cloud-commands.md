@@ -10,13 +10,13 @@ Commands that run in the cloud can't make any changes to your computer \(it's ju
 
 ## Create Cloud Command
 
-To create a cloud command, run **Create Command** in the Command Bar and choose **Hosted at URL endpoint** from the **Command Type** dropdown. Here you'll be able to paste the URL endpoint of your command.
+To create a cloud command, run **Create Command** in the Command Bar, choose **Cloud** as a type and paste the **Endpoint URL** of your command.
 
-![](../.gitbook/assets/screen-shot-2021-06-15-at-5.40.26-pm.png)
+![](../.gitbook/assets/cleanshot-2021-08-20-at-16.22.14.png)
 
 ## Developing & Deploying with Replit
 
-One of our favorite ways to host and develop cloud commands is with [Replit](https://replit.com/).   
+One of our favourite ways to host and develop cloud commands is with [Replit](https://replit.com/).   
   
 We like it because we can use any programming language to write the command, and we can do the development directly in the browser. It's a super quick way to get an HTTPS endpoint up and running with just a few clicks.  
   

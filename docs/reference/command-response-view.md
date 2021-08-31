@@ -10,5 +10,5 @@ The simplest view one can use is text. Simply set the view property to some text
 }
 ```
 
-Read on about other views that can be provided in the Command Response: [List](command-response-view-list.md#list), [Masonry](command-response-view-list.md#masonry) and [Form](command-response-view-form.md). 
+Read on about other views that can be used in the Command Response: [List](command-response-view-list.md#list), [Masonry](command-response-view-list.md#masonry) and [Form](command-response-view-form.md). 
 

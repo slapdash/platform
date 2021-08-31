@@ -4,9 +4,9 @@ Views define, what's shown to the user when the command is executed. The view ca
 
 The simplest view one can use is text. Simply set the view property to some text and it will be shown in the Command Bar.
 
-```text
+```javascript
 {
-  view: "Ahoy, world!"
+  "view": "Ahoy, world!"
 }
 ```
 

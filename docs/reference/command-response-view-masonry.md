@@ -1,6 +1,6 @@
 # Masonry View
 
-Property `CommandResponse.view` of type `Masonry` displays options in the Pinterest-like layout in the Command Bar.
+The Masonry View response tells the Command Bar to displays options in the Pinterest-like layout.
 
 * **type:** `"masonry"`
 * **options:** An array of [MasonryOption](command-response-view-masonry.md#masonryoption) objects.

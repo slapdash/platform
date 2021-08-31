@@ -94,7 +94,7 @@ The List View response tells the Command Bar to display a list of options.
 {% endtab %}
 {% endtabs %}
 
-### ListOption
+## ListOption
 
 Property `CommandResponse.view.options` is the list of options that are displayed in the List View.
 
@@ -145,7 +145,7 @@ Property `CommandResponse.view.options` is the list of options that are displaye
 {% endtab %}
 {% endtabs %}
 
-### Group
+## Group
 
 Property `CommandResponse.view.groups` allows to display options in the List View in groups. Each `Group` can be a string or an object. Provide Group as an object if you want to customize its appearance \(e.g. change its title\).
 

@@ -105,7 +105,7 @@ Property `CommandResponse.view.options` is the list of options that are displaye
 * **title:** The title for the option.
 * **action:** Option's [Main Action](command-response-view-list.md#options-main-action). This Action is executed when **`Enter`** is pressed on the Option \(or when the option is clicked\).
 * **moveAction:** Optional. Option's [Move Action](command-response-view-list.md#options-move-action) object. This Action is executed when Tab is pressed on the Option.
-* **icon:** Optional. The icon for the option. Can be either an emoji Unicode character, URL \(inclduing data URL\) or inline. See [Customizing Icons](command-response-view-list.md#customizing-icons) for details.
+* **icon:** Optional. The [Icon](command-response-icon.md) for the option.
 * **subtitle:** Optional. The subtitle for the option. Can be provided as a string or a list of strings.
 * **group:** Optional. The [Group](command-response-view-list.md#group) this option belongs to.
 

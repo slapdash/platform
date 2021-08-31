@@ -25,6 +25,6 @@
 * [List and Masonry Views](reference/command-response-view-list.md)
 * [Form View](reference/command-response-view-form.md)
 * [Token](reference/command-response-tokens.md)
-* [Icon](reference/icon.md)
+* [Icon](reference/command-response-icon.md)
 * [Config](reference/command-response-config.md)
 

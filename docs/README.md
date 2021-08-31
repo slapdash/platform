@@ -23,9 +23,10 @@
 * [Command Response](reference/command-response.md)
 * [Action](reference/command-response-action.md)
 * [View](reference/command-response-view.md)
-* [List and Masonry Views](reference/command-response-view-list.md)
+* [List View](reference/command-response-view-list.md)
+* [Masonry View](reference/command-response-view-masonry.md)
 * [Form View](reference/command-response-view-form.md)
-* [Token](reference/command-response-tokens.md)
+* [Tokens](reference/command-response-tokens.md)
 * [Icon](reference/command-response-icon.md)
 * [Config](reference/command-response-config.md)
 

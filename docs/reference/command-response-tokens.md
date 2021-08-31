@@ -1,4 +1,4 @@
-# Token
+# Tokens
 
 Tokens allow customizing how the command's parameters are displayed in the input of the Command Bar.
 

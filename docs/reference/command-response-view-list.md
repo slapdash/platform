@@ -1,10 +1,6 @@
-# List and Masonry Views
+# List View
 
-Views define, what's shown to the user when the command is executed. There are 3 different views that can be displayed in the Command Bar: [List](command-response-view-list.md#list), [Masonry](command-response-view-list.md#masonry) and [Form](command-response-view-form.md). The view can be provided at the root of the [Command Response](command-response.md) using the `CommandReponse.view` property.
-
-## List
-
-Property `CommandResponse.view` of type `List` displays a list of options in the Command Bar.
+The List View response tells the Command Bar to display a list of options.
 
 * **type:** `"list"`
 * **options:** An array of [ListOption](command-response-view-list.md#listoption) objects.
@@ -247,54 +243,6 @@ Property `CommandResponse.view.groups` allows to display options in the List Vie
         "action": {
           "type": "show-toast",
           "message": "https://www.google.com/"
-        }
-      }
-    ]
-  }
-}
-```
-{% endtab %}
-{% endtabs %}
-
-## Masonry
-
-Property `CommandResponse.view` of type `Masonry` displays options in the Pinterest-like layout in the Command Bar.
-
-* **type:** `"masonry"`
-* **options:** An array of [MasonryOption](command-response-view-list.md#masonryoption) objects.
-
-### MasonryOption
-
-For MasonryView, property `CommandResponse.view.options` contains the list of MasonryOption objects.
-
-* **imageURL:** The image URL for this option.
-* **action:** Option's [Main Action](command-response-view-list.md#options-main-action) object.
-* **moveAction:** Optional. Option's [Move Action](command-response-view-list.md#options-move-action) object.
-
-{% tabs %}
-{% tab title="Masonry View: option with Main and Move Actions" %}
-```typescript
-{
-  "view": {
-    "type": "masonry",
-    "options": [
-      {
-        "imageURL": "https://images.unsplash.com/photo-1481819613568-3701cbc70156",
-        "action": {
-          "type": "open-url",
-          "url": "https://images.unsplash.com/photo-1481819613568-3701cbc70156"
-        },
-        "moveAction": {
-          "type": "add-param",
-          "name": "image",
-          "value": "moon"
-        }
-      },
-      {
-        "imageURL": "https://images.unsplash.com/photo-1512361180836-1ecddb33f2dd",
-        "action": {
-          "type": "copy",
-          "value": "Sky"
         }
       }
     ]

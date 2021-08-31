@@ -401,36 +401,3 @@ Property `CommandResponse.view.options[].moveAction` allows providing a [Move Ac
 {% endtab %}
 {% endtabs %}
 
-## Customizing Icons
-
-Slapdash Developer Platform provides multiple ways to fine-tune icons appearence.
-
-```typescript
-export type Icon =
-  | string
-  | {
-      light: string;
-      dark: string;
-    }
-  | {
-      monochrome: string;
-    };
-```
-
-### Supported Image Formats
-
-Slapdash supports loading images over `http://` , `https://`, using[ Data URLs](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Data_URIs) or providing image content inline.
-
-* Emojis can be provided inline: `icon: "🧛‍♂️"`. All Unicode Emoticons are supported.
-* Images accessible over HTTP/HTTPS can be provided as an absolute URL:`icon: "https://slapdash.com/favicon.ico"`. Supports popular image formats.
-* Images can be encoded as [Data URLs](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Data_URIs) and provided inline: `icon: "data:image/jpeg, ... "`. The following image formats are supported: "image/png", "image/jpeg", "image/gif", "image/svg+xml".
-* SVGs can be provided inline without any encoding: `icon: "<svg ... "`
-
-### Customizing Appearance
-
-Slapdash can display images "as is" or automatically use a themed variant of an image.
-
-* By default, images are rendered "as is" without taking the user theme into consideration.
-* Separate images for dark and light themes can be provided by using `dark` and `light` properties: `icon: { light: "🌞", dark: "🌔" }`
-* To theme images automatically they must be provided by using `monochrome` property:`icon: { monochrome: "https:// ... " }`. Recommended for the best user experience. Image theming is implemented by replacing all non-transparent pixels of an image with appropriate color \(usually the text color\). Emojis are not supported.  
-

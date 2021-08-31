@@ -25,7 +25,7 @@ The most basic thing a command can do is return an Action as the [Command Respon
 const response = {
   action: {
     type: "open-url",
-    url: "<https://slapdash.com/>"
+    url: "https://slapdash.com/"
   }
 }
 

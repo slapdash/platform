@@ -45,6 +45,7 @@ const response = {
   }
 }
 
+// Print the response as JSON string
 console.log(JSON.stringify(response));
 ```
 

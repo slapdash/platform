@@ -5,6 +5,30 @@ The Masonry View response tells the Command Bar to displays options in the Pinte
 * **type:** `"masonry"`
 * **options:** An array of [MasonryOption](command-response-view-masonry.md#masonryoption) objects.
 
+```javascript
+{
+  "view": {
+    "type": "masonry",
+    "options": [
+      {
+        "imageURL": "https://images.unsplash.com/photo-1481819613568-3701cbc70156",
+        "action": {
+          "type": "copy",
+          "value": "Moon"
+        }
+      },
+      {
+        "imageURL": "https://images.unsplash.com/photo-1614642264762-d0a3b8bf3700",
+        "action": {
+          "type": "copy",
+          "value": "Sun"
+        }
+      }
+    ]
+  }
+}
+```
+
 ## MasonryOption
 
 For MasonryView, property `CommandResponse.view.options` contains the list of MasonryOption objects.
@@ -13,9 +37,7 @@ For MasonryView, property `CommandResponse.view.options` contains the list of Ma
 * **action:** Option's [Main Action](command-response-view-list.md#options-main-action) object.
 * **moveAction:** Optional. Option's [Move Action](command-response-view-list.md#options-move-action) object.
 
-{% tabs %}
-{% tab title="Masonry View: option with Main and Move Actions" %}
-```typescript
+```javascript
 {
   "view": {
     "type": "masonry",
@@ -43,8 +65,4 @@ For MasonryView, property `CommandResponse.view.options` contains the list of Ma
   }
 }
 ```
-{% endtab %}
-{% endtabs %}
-
-## 
 

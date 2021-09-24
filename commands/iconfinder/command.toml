@@ -1,0 +1,7 @@
+name = "Iconfinder"
+description = "Search for icons from Iconfinder and copy & paste them directly to other apps."
+endpointURL = "https://www.taraszubyk.com/api/slapdash/iconfinder"
+sourceCodeURL = "https://github.com/zuta/slapdash-commands/blob/master/api/slapdash/iconfinder.ts"
+
+author.name = "Taras Zubyk"
+author.profileURL = "https://twitter.com/_zuta_"

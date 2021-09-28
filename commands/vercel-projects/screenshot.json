@@ -1,0 +1,92 @@
+{
+    "view": {
+      "type": "list",
+      "options": [
+        {
+          "title": "personal",
+          "subtitle": [
+            "Other",
+            "9/18/2021, 1:08 PM"
+          ],
+          "icon": "https://raw.githubusercontent.com/vercel/vercel/main/packages/frameworks/logos/other.svg",
+          "action": {
+            "type": "open-url",
+            "url": "https://vercel.com/7UAPNpiiUIMtL4zu7SUB3PH7/personal"
+          },
+          "moveAction": {
+            "type": "add-param",
+            "name": "project",
+            "value": "prj_vCyLt3GKoeU42uqYUMZnejF3CCT7"
+          }
+        },
+        {
+          "title": "slapdash-commands",
+          "subtitle": [
+            "Other",
+            "8/23/2021, 3:49 PM"
+          ],
+          "icon": "https://raw.githubusercontent.com/vercel/vercel/main/packages/frameworks/logos/other.svg",
+          "action": {
+            "type": "open-url",
+            "url": "https://vercel.com/7UAPNpiiUIMtL4zu7SUB3PH7/slapdash-commands"
+          },
+          "moveAction": {
+            "type": "add-param",
+            "name": "project",
+            "value": "prj_4wXdt9R4apulKVNcaNMBigynhvGk"
+          }
+        },
+        {
+          "title": "create-react-app-demo",
+          "subtitle": [
+            "Create React App",
+            "8/22/2021, 5:05 PM"
+          ],
+          "icon": "https://raw.githubusercontent.com/vercel/vercel/main/packages/frameworks/logos/react.svg",
+          "action": {
+            "type": "open-url",
+            "url": "https://vercel.com/7UAPNpiiUIMtL4zu7SUB3PH7/create-react-app-demo"
+          },
+          "moveAction": {
+            "type": "add-param",
+            "name": "project",
+            "value": "prj_8LBYKa2K7xOgAgD3Bnvja2i3GL9v"
+          }
+        },
+        {
+          "title": "vite-vercel-demo",
+          "subtitle": [
+            "Vite",
+            "8/11/2021, 1:27 PM"
+          ],
+          "icon": "https://raw.githubusercontent.com/vercel/vercel/main/packages/frameworks/logos/vite.svg",
+          "action": {
+            "type": "open-url",
+            "url": "https://vercel.com/7UAPNpiiUIMtL4zu7SUB3PH7/vite-vercel-demo"
+          },
+          "moveAction": {
+            "type": "add-param",
+            "name": "project",
+            "value": "prj_Ild3OBfVZPzyXdCVMj51xUVCoBSY"
+          }
+        },
+        {
+          "title": "nextjs-vercel-demo",
+          "subtitle": [
+            "Next.js",
+            "8/11/2021, 1:13 PM"
+          ],
+          "icon": "https://raw.githubusercontent.com/vercel/vercel/main/packages/frameworks/logos/next.svg",
+          "action": {
+            "type": "open-url",
+            "url": "https://vercel.com/7UAPNpiiUIMtL4zu7SUB3PH7/nextjs-vercel-demo"
+          },
+          "moveAction": {
+            "type": "add-param",
+            "name": "project",
+            "value": "prj_Uy5WADx4WeztDYTfLRqbyWIORjCw"
+          }
+        }
+      ]
+    }
+  }

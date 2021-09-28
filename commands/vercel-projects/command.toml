@@ -1,0 +1,7 @@
+name = "Vercel Projects"
+description = "Quickly search & jump to a Vercel project."
+endpointURL = "https://www.taraszubyk.com/api/slapdash/vercel-projects"
+sourceCodeURL = "https://github.com/zuta/slapdash-commands/blob/master/api/slapdash/vercel-projects.ts"
+
+author.name = "Taras Zubyk"
+author.profileURL = "https://twitter.com/_zuta_"

@@ -1,0 +1,7 @@
+name = "Parse User-Agent"
+description = "Parse a User-Agent string by pasting it into the Command Bar."
+endpointURL = "https://www.taraszubyk.com/api/slapdash/parse-user-agent"
+sourceCodeURL = "https://github.com/zuta/slapdash-commands/blob/master/api/slapdash/parse-user-agent.ts"
+
+author.name = "Taras Zubyk"
+author.profileURL = "https://twitter.com/_zuta_"

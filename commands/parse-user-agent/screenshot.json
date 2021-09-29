@@ -1,0 +1,7 @@
+{
+    "keywords": "Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 Mobile/14E304 Safari/602.1",
+    "response": {
+        "inputPlaceholder": "Paste a User-Agent string",
+        "view": "OS: iOS 10.3.1\n\nBrowser: Mobile Safari 10.0\n\nDevice: Apple iPhone mobile\n\n"
+    }
+}

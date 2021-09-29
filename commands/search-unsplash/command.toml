@@ -1,0 +1,7 @@
+name = "Search Unsplash"
+description = "Search free high quality photos from Unsplash."
+endpointURL = "https://www.taraszubyk.com/api/slapdash/unsplash-search"
+sourceCodeURL = "https://github.com/zuta/slapdash-commands/blob/master/api/slapdash/unsplash-search.ts"
+
+author.name = "Taras Zubyk"
+author.profileURL = "https://twitter.com/_zuta_"

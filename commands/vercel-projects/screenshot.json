@@ -1,4 +1,6 @@
 {
+  "keywords": "dem",
+  "response": {
     "view": {
       "type": "list",
       "options": [
@@ -90,3 +92,4 @@
       ]
     }
   }
+}

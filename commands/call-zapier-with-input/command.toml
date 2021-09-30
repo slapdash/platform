@@ -1,0 +1,19 @@
+name = "Call Zapier with Input"
+description = ""
+endpointURL = "https://call-zapier-with-input.ivankanevski.repl.co"
+sourceCodeURL = "https://replit.com/@IvanKanevski/call-zapier-with-input"
+
+language = "python"
+categories = ["Automation"]
+
+author.name = "Ivan Kanevski"
+author.profileURL = "https://kanevski.org/"
+
+readme = """
+The first time you run this command, it will ask you for a webhook URL
+for a Zapier zap. 
+
+On subsequent runs, the command will prompt you for input. You'll be able
+to enter whatever text and after hitting Enter, the Zapier webhook URL
+will be hit with the input you provided.
+"""

@@ -1,0 +1,17 @@
+name = "Convert Opacity to Hex"
+description = "Converts CSS opacity in percent to its hex value."
+endpointURL = "https://kanevski.org/commands/opacity-to-hex"
+
+language = "typescript"
+categories = ["Developer Tools", "Calculator"]
+
+author.name = "Ivan Kanevski"
+author.profileURL = "https://kanevski.org/"
+
+readme = """
+A simple calculator that converts a numeric percentage value representing opacity
+to its hex representation.
+
+Helpful if you want to represent transparency with hex. For example, setting the color
+black (#000000) with 50% opacity, you would prepend 80, which is the hex value for 50 (#80000000).
+"""

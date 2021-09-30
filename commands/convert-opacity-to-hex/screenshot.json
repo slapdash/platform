@@ -1,0 +1,19 @@
+{
+    "keywords": "48",
+    "response": {
+        "inputPlaceholder": "",
+        "view": {
+            "ranking": false,
+            "type": "list",
+            "options": [
+                {
+                    "title": "Copy Hex: 7A ",
+                    "action": {
+                        "type": "copy",
+                        "value": "7A"
+                    }
+                }
+            ]
+        }
+    }
+}

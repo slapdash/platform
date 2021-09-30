@@ -5,3 +5,9 @@ sourceCodeURL = "https://github.com/zuta/slapdash-commands/blob/master/api/slapd
 
 author.name = "Taras Zubyk"
 author.profileURL = "https://twitter.com/_zuta_"
+
+readme = """
+This command parses a [User-Agent](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/User-Agent) string entered into the Command Bar input and displays data in a structured way separating the browser, OS and device type. 
+
+For the best experience, you can assign an alias or a keyboard shortcut to get to the command faster.
+"""

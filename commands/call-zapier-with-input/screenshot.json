@@ -3,20 +3,18 @@
     "response": {
         "inputPlaceholder": "",
         "view": {
-            "view": {
-                "options": [
-                    {
-                        "action": {
-                            "name": "submit",
-                            "type": "add-param",
-                            "value": "email@example.com"
-                        },
-                        "title": "Run Zap with input: email@example.com"
-                    }
-                ],
-                "ranking": false,
-                "type": "list"
-            }
+            "options": [
+                {
+                    "action": {
+                        "name": "submit",
+                        "type": "add-param",
+                        "value": "email@example.com"
+                    },
+                    "title": "Run Zap with input: email@example.com"
+                }
+            ],
+            "ranking": false,
+            "type": "list"
         }
     }
 }

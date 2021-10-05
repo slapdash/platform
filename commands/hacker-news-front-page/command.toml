@@ -1,0 +1,9 @@
+name = "Hacker News Front Page"
+description = "Scan through the Hacker News front page and jump to posts or comments."
+endpointURL = "https://www.taraszubyk.com/api/slapdash/hn-front-page"
+
+language = "typescript"
+categories = ["News"]
+
+author.name = "Taras Zubyk"
+author.profileURL = "https://twitter.com/_zuta_/"

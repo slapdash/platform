@@ -1,0 +1,410 @@
+{
+    "keywords": "new",
+    "response": {
+        "view": {
+            "type": "list",
+            "options": [
+                {
+                    "title": "We Need to Take CO2 Out of the Sky",
+                    "subtitle": [
+                        "jseliger",
+                        "25 Points",
+                        "18 Comments"
+                    ],
+                    "icon": {
+                        "monochrome": "<svg width=\"64\" height=\"64\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M34.7273 0H8v64h49V22.8572L34.7273 0zm0 6.464l15.974 16.3932h-15.974V6.464zm17.8182 52.9645h-40.091V4.57147h17.8182V27.4285h22.2728v32zm-35.6364-22.857h31.1818V32H16.9091v4.5715zm0 9.1428h31.1818v-4.5715H16.9091v4.5715zm0 9.1429h31.1818v-4.5715H16.9091v4.5715z\" fill=\"#000\"/></svg>"
+                    },
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://www.orbuch.com/carbon-removal/"
+                    },
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "page",
+                        "value": "https://news.ycombinator.com/item?id=28765742"
+                    }
+                },
+                {
+                    "title": "Detecting Photoshopped Faces by Scripting Photoshop (2019)",
+                    "subtitle": [
+                        "dgellow",
+                        "5 Points",
+                        "0 Comments"
+                    ],
+                    "icon": {
+                        "monochrome": "<svg width=\"64\" height=\"64\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M34.7273 0H8v64h49V22.8572L34.7273 0zm0 6.464l15.974 16.3932h-15.974V6.464zm17.8182 52.9645h-40.091V4.57147h17.8182V27.4285h22.2728v32zm-35.6364-22.857h31.1818V32H16.9091v4.5715zm0 9.1428h31.1818v-4.5715H16.9091v4.5715zm0 9.1429h31.1818v-4.5715H16.9091v4.5715z\" fill=\"#000\"/></svg>"
+                    },
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://arxiv.org/abs/1906.05856"
+                    },
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "page",
+                        "value": "https://news.ycombinator.com/item?id=28765735"
+                    }
+                },
+                {
+                    "title": "Qventus (YC W15) Is Hiring a Senior Full Stack Engineer",
+                    "subtitle": [
+                        "ifc",
+                        "1 Points",
+                        "0 Comments"
+                    ],
+                    "icon": {
+                        "monochrome": "<svg width=\"64\" height=\"64\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M34.7273 0H8v64h49V22.8572L34.7273 0zm0 6.464l15.974 16.3932h-15.974V6.464zm17.8182 52.9645h-40.091V4.57147h17.8182V27.4285h22.2728v32zm-35.6364-22.857h31.1818V32H16.9091v4.5715zm0 9.1428h31.1818v-4.5715H16.9091v4.5715zm0 9.1429h31.1818v-4.5715H16.9091v4.5715z\" fill=\"#000\"/></svg>"
+                    },
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://jobs.lever.co/qventus/3f29db7c-a1c6-4c67-abf6-fb0d5b965bba"
+                    },
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "page",
+                        "value": "https://news.ycombinator.com/item?id=28765551"
+                    }
+                },
+                {
+                    "title": "New York Public Library ends all late fees",
+                    "subtitle": [
+                        "EastOfTruth",
+                        "63 Points",
+                        "62 Comments"
+                    ],
+                    "icon": {
+                        "monochrome": "<svg width=\"64\" height=\"64\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M34.7273 0H8v64h49V22.8572L34.7273 0zm0 6.464l15.974 16.3932h-15.974V6.464zm17.8182 52.9645h-40.091V4.57147h17.8182V27.4285h22.2728v32zm-35.6364-22.857h31.1818V32H16.9091v4.5715zm0 9.1428h31.1818v-4.5715H16.9091v4.5715zm0 9.1429h31.1818v-4.5715H16.9091v4.5715z\" fill=\"#000\"/></svg>"
+                    },
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://www.npr.org/2021/10/05/1043412502/library-fees-eliminated-new-york"
+                    },
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "page",
+                        "value": "https://news.ycombinator.com/item?id=28765345"
+                    }
+                },
+                {
+                    "title": "Towards Learning to Play Piano with Dexterous Hands and Touch",
+                    "subtitle": [
+                        "ofou",
+                        "4 Points",
+                        "0 Comments"
+                    ],
+                    "icon": {
+                        "monochrome": "<svg width=\"64\" height=\"64\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M34.7273 0H8v64h49V22.8572L34.7273 0zm0 6.464l15.974 16.3932h-15.974V6.464zm17.8182 52.9645h-40.091V4.57147h17.8182V27.4285h22.2728v32zm-35.6364-22.857h31.1818V32H16.9091v4.5715zm0 9.1428h31.1818v-4.5715H16.9091v4.5715zm0 9.1429h31.1818v-4.5715H16.9091v4.5715z\" fill=\"#000\"/></svg>"
+                    },
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://arxiv.org/abs/2106.02040"
+                    },
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "page",
+                        "value": "https://news.ycombinator.com/item?id=28765254"
+                    }
+                },
+                {
+                    "title": "Show HN: ChessCoach – A neural chess engine that comments on each player's moves",
+                    "subtitle": [
+                        "cbutner",
+                        "42 Points",
+                        "17 Comments"
+                    ],
+                    "icon": {
+                        "monochrome": "<svg width=\"64\" height=\"64\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M34.7273 0H8v64h49V22.8572L34.7273 0zm0 6.464l15.974 16.3932h-15.974V6.464zm17.8182 52.9645h-40.091V4.57147h17.8182V27.4285h22.2728v32zm-35.6364-22.857h31.1818V32H16.9091v4.5715zm0 9.1428h31.1818v-4.5715H16.9091v4.5715zm0 9.1429h31.1818v-4.5715H16.9091v4.5715z\" fill=\"#000\"/></svg>"
+                    },
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://chrisbutner.github.io/ChessCoach/"
+                    },
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "page",
+                        "value": "https://news.ycombinator.com/item?id=28765183"
+                    }
+                },
+                {
+                    "title": "A USB Fan Controller that now works under Linux",
+                    "subtitle": [
+                        "arm",
+                        "34 Points",
+                        "2 Comments"
+                    ],
+                    "icon": {
+                        "monochrome": "<svg width=\"64\" height=\"64\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M34.7273 0H8v64h49V22.8572L34.7273 0zm0 6.464l15.974 16.3932h-15.974V6.464zm17.8182 52.9645h-40.091V4.57147h17.8182V27.4285h22.2728v32zm-35.6364-22.857h31.1818V32H16.9091v4.5715zm0 9.1428h31.1818v-4.5715H16.9091v4.5715zm0 9.1429h31.1818v-4.5715H16.9091v4.5715z\" fill=\"#000\"/></svg>"
+                    },
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://blog.ktz.me/a-usb-fan-controller-that-now-works-under-linux/"
+                    },
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "page",
+                        "value": "https://news.ycombinator.com/item?id=28765113"
+                    }
+                },
+                {
+                    "title": "The most counterintuitive facts in all of mathematics, CS, and physics",
+                    "subtitle": [
+                        "raviparikh",
+                        "51 Points",
+                        "2 Comments"
+                    ],
+                    "icon": {
+                        "monochrome": "<svg width=\"64\" height=\"64\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M34.7273 0H8v64h49V22.8572L34.7273 0zm0 6.464l15.974 16.3932h-15.974V6.464zm17.8182 52.9645h-40.091V4.57147h17.8182V27.4285h22.2728v32zm-35.6364-22.857h31.1818V32H16.9091v4.5715zm0 9.1428h31.1818v-4.5715H16.9091v4.5715zm0 9.1429h31.1818v-4.5715H16.9091v4.5715z\" fill=\"#000\"/></svg>"
+                    },
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://axisofordinary.substack.com/p/the-most-counterintuitive-facts-in"
+                    },
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "page",
+                        "value": "https://news.ycombinator.com/item?id=28764416"
+                    }
+                },
+                {
+                    "title": "YubiKey Bio Series",
+                    "subtitle": [
+                        "chris_overseas",
+                        "49 Points",
+                        "14 Comments"
+                    ],
+                    "icon": {
+                        "monochrome": "<svg width=\"64\" height=\"64\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M34.7273 0H8v64h49V22.8572L34.7273 0zm0 6.464l15.974 16.3932h-15.974V6.464zm17.8182 52.9645h-40.091V4.57147h17.8182V27.4285h22.2728v32zm-35.6364-22.857h31.1818V32H16.9091v4.5715zm0 9.1428h31.1818v-4.5715H16.9091v4.5715zm0 9.1429h31.1818v-4.5715H16.9091v4.5715z\" fill=\"#000\"/></svg>"
+                    },
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://www.yubico.com/blog/put-your-finger-on-the-pulse-of-whats-new-with-the-yubikey-bio-series/"
+                    },
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "page",
+                        "value": "https://news.ycombinator.com/item?id=28764329"
+                    }
+                },
+                {
+                    "title": "Asahi Linux for M1 Macs: progress report for September 2021",
+                    "subtitle": [
+                        "fanf2",
+                        "341 Points",
+                        "111 Comments"
+                    ],
+                    "icon": {
+                        "monochrome": "<svg width=\"64\" height=\"64\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M34.7273 0H8v64h49V22.8572L34.7273 0zm0 6.464l15.974 16.3932h-15.974V6.464zm17.8182 52.9645h-40.091V4.57147h17.8182V27.4285h22.2728v32zm-35.6364-22.857h31.1818V32H16.9091v4.5715zm0 9.1428h31.1818v-4.5715H16.9091v4.5715zm0 9.1429h31.1818v-4.5715H16.9091v4.5715z\" fill=\"#000\"/></svg>"
+                    },
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://asahilinux.org/2021/10/progress-report-september-2021/"
+                    },
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "page",
+                        "value": "https://news.ycombinator.com/item?id=28762744"
+                    }
+                },
+                {
+                    "title": "As Far from Heaven as Possible",
+                    "subtitle": [
+                        "samclemens",
+                        "8 Points",
+                        "0 Comments"
+                    ],
+                    "icon": {
+                        "monochrome": "<svg width=\"64\" height=\"64\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M34.7273 0H8v64h49V22.8572L34.7273 0zm0 6.464l15.974 16.3932h-15.974V6.464zm17.8182 52.9645h-40.091V4.57147h17.8182V27.4285h22.2728v32zm-35.6364-22.857h31.1818V32H16.9091v4.5715zm0 9.1428h31.1818v-4.5715H16.9091v4.5715zm0 9.1429h31.1818v-4.5715H16.9091v4.5715z\" fill=\"#000\"/></svg>"
+                    },
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://www.laphamsquarterly.org/roundtable/far-heaven-possible"
+                    },
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "page",
+                        "value": "https://news.ycombinator.com/item?id=28762456"
+                    }
+                },
+                {
+                    "title": "It is easier to educate a Do-er than to motivate the educated",
+                    "subtitle": [
+                        "tosh",
+                        "154 Points",
+                        "61 Comments"
+                    ],
+                    "icon": {
+                        "monochrome": "<svg width=\"64\" height=\"64\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M34.7273 0H8v64h49V22.8572L34.7273 0zm0 6.464l15.974 16.3932h-15.974V6.464zm17.8182 52.9645h-40.091V4.57147h17.8182V27.4285h22.2728v32zm-35.6364-22.857h31.1818V32H16.9091v4.5715zm0 9.1428h31.1818v-4.5715H16.9091v4.5715zm0 9.1429h31.1818v-4.5715H16.9091v4.5715z\" fill=\"#000\"/></svg>"
+                    },
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://twitter.com/id_aa_carmack/status/1445424833181925376"
+                    },
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "page",
+                        "value": "https://news.ycombinator.com/item?id=28762362"
+                    }
+                },
+                {
+                    "title": "Tab Unloading in Firefox 93",
+                    "subtitle": [
+                        "mthermidor",
+                        "264 Points",
+                        "130 Comments"
+                    ],
+                    "icon": {
+                        "monochrome": "<svg width=\"64\" height=\"64\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M34.7273 0H8v64h49V22.8572L34.7273 0zm0 6.464l15.974 16.3932h-15.974V6.464zm17.8182 52.9645h-40.091V4.57147h17.8182V27.4285h22.2728v32zm-35.6364-22.857h31.1818V32H16.9091v4.5715zm0 9.1428h31.1818v-4.5715H16.9091v4.5715zm0 9.1429h31.1818v-4.5715H16.9091v4.5715z\" fill=\"#000\"/></svg>"
+                    },
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://hacks.mozilla.org/2021/10/tab-unloading-in-firefox-93/"
+                    },
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "page",
+                        "value": "https://news.ycombinator.com/item?id=28762155"
+                    }
+                },
+                {
+                    "title": "JavaScript Restrictor",
+                    "subtitle": [
+                        "rlv-dan",
+                        "62 Points",
+                        "12 Comments"
+                    ],
+                    "icon": {
+                        "monochrome": "<svg width=\"64\" height=\"64\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M34.7273 0H8v64h49V22.8572L34.7273 0zm0 6.464l15.974 16.3932h-15.974V6.464zm17.8182 52.9645h-40.091V4.57147h17.8182V27.4285h22.2728v32zm-35.6364-22.857h31.1818V32H16.9091v4.5715zm0 9.1428h31.1818v-4.5715H16.9091v4.5715zm0 9.1429h31.1818v-4.5715H16.9091v4.5715z\" fill=\"#000\"/></svg>"
+                    },
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://polcak.github.io/jsrestrictor/"
+                    },
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "page",
+                        "value": "https://news.ycombinator.com/item?id=28761897"
+                    }
+                },
+                {
+                    "title": "The New Timescale Cloud",
+                    "subtitle": [
+                        "neom",
+                        "52 Points",
+                        "22 Comments"
+                    ],
+                    "icon": {
+                        "monochrome": "<svg width=\"64\" height=\"64\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M34.7273 0H8v64h49V22.8572L34.7273 0zm0 6.464l15.974 16.3932h-15.974V6.464zm17.8182 52.9645h-40.091V4.57147h17.8182V27.4285h22.2728v32zm-35.6364-22.857h31.1818V32H16.9091v4.5715zm0 9.1428h31.1818v-4.5715H16.9091v4.5715zm0 9.1429h31.1818v-4.5715H16.9091v4.5715z\" fill=\"#000\"/></svg>"
+                    },
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://blog.timescale.com/blog/announcing-the-new-timescale-cloud-and-a-new-vision-for-the-future-of-database-services-in-the-cloud/amp/"
+                    },
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "page",
+                        "value": "https://news.ycombinator.com/item?id=28761566"
+                    }
+                },
+                {
+                    "title": "Timescale Announces New Database Cloud",
+                    "subtitle": [
+                        "manigandham",
+                        "79 Points",
+                        "25 Comments"
+                    ],
+                    "icon": {
+                        "monochrome": "<svg width=\"64\" height=\"64\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M34.7273 0H8v64h49V22.8572L34.7273 0zm0 6.464l15.974 16.3932h-15.974V6.464zm17.8182 52.9645h-40.091V4.57147h17.8182V27.4285h22.2728v32zm-35.6364-22.857h31.1818V32H16.9091v4.5715zm0 9.1428h31.1818v-4.5715H16.9091v4.5715zm0 9.1429h31.1818v-4.5715H16.9091v4.5715z\" fill=\"#000\"/></svg>"
+                    },
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://blog.timescale.com/blog/announcing-the-new-timescale-cloud-and-a-new-vision-for-the-future-of-database-services-in-the-cloud/"
+                    },
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "page",
+                        "value": "https://news.ycombinator.com/item?id=28761453"
+                    }
+                },
+                {
+                    "title": "Advice from YC founders and partners",
+                    "subtitle": [
+                        "robertgaal",
+                        "84 Points",
+                        "17 Comments"
+                    ],
+                    "icon": {
+                        "monochrome": "<svg width=\"64\" height=\"64\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M34.7273 0H8v64h49V22.8572L34.7273 0zm0 6.464l15.974 16.3932h-15.974V6.464zm17.8182 52.9645h-40.091V4.57147h17.8182V27.4285h22.2728v32zm-35.6364-22.857h31.1818V32H16.9091v4.5715zm0 9.1428h31.1818v-4.5715H16.9091v4.5715zm0 9.1429h31.1818v-4.5715H16.9091v4.5715z\" fill=\"#000\"/></svg>"
+                    },
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://quest.audio/t/8nzavsX7VY/inside-y-combinator"
+                    },
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "page",
+                        "value": "https://news.ycombinator.com/item?id=28761358"
+                    }
+                },
+                {
+                    "title": " Facebook Whistleblower Leaks Thousands of Pages of Incriminating Internal Docs",
+                    "subtitle": [
+                        "sizzle",
+                        "786 Points",
+                        "502 Comments"
+                    ],
+                    "icon": {
+                        "monochrome": "<svg width=\"64\" height=\"64\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M34.7273 0H8v64h49V22.8572L34.7273 0zm0 6.464l15.974 16.3932h-15.974V6.464zm17.8182 52.9645h-40.091V4.57147h17.8182V27.4285h22.2728v32zm-35.6364-22.857h31.1818V32H16.9091v4.5715zm0 9.1428h31.1818v-4.5715H16.9091v4.5715zm0 9.1429h31.1818v-4.5715H16.9091v4.5715z\" fill=\"#000\"/></svg>"
+                    },
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://www.npr.org/2021/10/04/1042921981/facebook-whistleblower-renewing-scrutiny-of-social-media-giant"
+                    },
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "page",
+                        "value": "https://news.ycombinator.com/item?id=28761294"
+                    }
+                },
+                {
+                    "title": "Stripe Press",
+                    "subtitle": [
+                        "Brajeshwar",
+                        "263 Points",
+                        "76 Comments"
+                    ],
+                    "icon": {
+                        "monochrome": "<svg width=\"64\" height=\"64\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M34.7273 0H8v64h49V22.8572L34.7273 0zm0 6.464l15.974 16.3932h-15.974V6.464zm17.8182 52.9645h-40.091V4.57147h17.8182V27.4285h22.2728v32zm-35.6364-22.857h31.1818V32H16.9091v4.5715zm0 9.1428h31.1818v-4.5715H16.9091v4.5715zm0 9.1429h31.1818v-4.5715H16.9091v4.5715z\" fill=\"#000\"/></svg>"
+                    },
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://press.stripe.com"
+                    },
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "page",
+                        "value": "https://news.ycombinator.com/item?id=28761235"
+                    }
+                },
+                {
+                    "title": "Open Tax Solver",
+                    "subtitle": [
+                        "cdjk",
+                        "83 Points",
+                        "19 Comments"
+                    ],
+                    "icon": {
+                        "monochrome": "<svg width=\"64\" height=\"64\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M34.7273 0H8v64h49V22.8572L34.7273 0zm0 6.464l15.974 16.3932h-15.974V6.464zm17.8182 52.9645h-40.091V4.57147h17.8182V27.4285h22.2728v32zm-35.6364-22.857h31.1818V32H16.9091v4.5715zm0 9.1428h31.1818v-4.5715H16.9091v4.5715zm0 9.1429h31.1818v-4.5715H16.9091v4.5715z\" fill=\"#000\"/></svg>"
+                    },
+                    "action": {
+                        "type": "open-url",
+                        "url": "http://opentaxsolver.sourceforge.net/"
+                    },
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "page",
+                        "value": "https://news.ycombinator.com/item?id=28760442"
+                    }
+                }
+            ]
+        }
+    }
+}

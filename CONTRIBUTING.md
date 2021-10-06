@@ -1,12 +1,12 @@
 # Contributing
 
-Thank you for your interest in contributing to Slapdash Development Platform.
+Thank you for your interest in contributing to Slapdash Platform.
 
 Our repo adheres to the Contributor Covenant [code of conduct](CODE_OF_CONDUCT.md).
 By participating, you are expected to uphold this code. Please report unacceptable
 behavior to <engineering@slapdash.com>.
 
-Here you'll find a set of guidelines for contributing to Slapdash Development Platform.
+Here you'll find a set of guidelines for contributing to Slapdash Platform.
 These are just guidelines, not rules, use your best judgment and feel free to
 propose changes to this document in a pull request.
 

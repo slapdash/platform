@@ -1,5 +1,5 @@
 name = "Call Zapier with Input"
-description = ""
+description = "Configurable command to call a Zap webhook and pass data"
 endpointURL = "https://call-zapier-with-input.ivankanevski.repl.co"
 sourceCodeURL = "https://replit.com/@IvanKanevski/call-zapier-with-input"
 

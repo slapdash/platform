@@ -1,6 +1,7 @@
 name = "Hacker News Front Page"
 description = "Scan through the Hacker News front page and jump to posts or comments."
 endpointURL = "https://www.taraszubyk.com/api/slapdash/hn-front-page"
+sourceCodeURL = "https://github.com/zuta/slapdash-commands/blob/master/api/slapdash/hn-front-page.ts"
 
 language = "typescript"
 categories = ["News"]

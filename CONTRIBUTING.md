@@ -14,6 +14,10 @@ propose changes to this document in a pull request.
 
 Please make sure that your pull request makes it easy for the reviewer to understand what the change is about. Keep your change focused.
 
+### Add New Command
+
+To add a new command please follow the tutorial at https://developers.slapdash.com/command-bar-101/publish-command.
+
 ## Issues
 
 Feel free to file new issues for bug reports and suggestions. 

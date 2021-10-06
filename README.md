@@ -10,7 +10,7 @@ Documentation is published to [developers.slapdash.com](https://developers.slapd
 
 Commands built by the community can be found in the [commands directory](commands/). All these commands are featured at https://slapdash.com/developers where everyone can discover them and add to their Slapdash accounts.
 
-If you want to publish your command, please follow the tutorial at https://developers.slapdash.com/command-bar-101/publish-command.
+If you want to publish your command, please follow [our tutorial](https://developers.slapdash.com/command-bar-101/publish-command).
 
 ### Language-specific Templates
 

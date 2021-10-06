@@ -1,3 +1,7 @@
+---
+description: Share your command with the Slapdash community
+---
+
 # Publish Command
 
 Once you're happy with your command you may want to share it with others. 
@@ -26,15 +30,17 @@ Each command folder needs to have three files: `command.toml`, `icon.svg` and `s
 
 This is a simple [TOML](https://toml.io/) file that contains metadata about your command. 
 
-* `name` – **required**. 
-* `description` – **required**. Short, one-sentence description.
-* `endpointURL` – **required**. Publicly accessible HTTP\(S\) endpoint for your command.
-* `author.name` – **required**. Full name of the command's author. 
-* `author.profileURL` – **required**. Link to the author's public profile. For example, a link to a Github or Twitter profile.
-* `categories` – optional. List of categories the command belongs to. You can grab them from the [list below](publish-command.md#categories) or put something else. 
-* `readme` – optional. Long-form explanation of the command. You can use Markdown if you want.
-* `language` – optional**.** Programming language that was used to build the command. For example, "TypeScript" or "Python".
-* `sourceCodeURL` – optional. Link to the source code of your command. For example, a link to a public Github repository. 
+| Name | Details |
+| :--- | :--- |
+| name | **Required.** Name of the command, prefer &lt;Verb&gt; &lt;Noun&gt; convention |
+| description | **Required.** Short, one-sentence description |
+| endpointURL | **Required.** Publicly accessible HTTPS endpoint for your command |
+| author.name | **Required.** Full name of the command's author |
+| author.profileURL | **Required.** Link to the author's public profile. For example, a link to a Github or Twitter profile |
+| categories | List of categories the command belongs to. You can grab them from the [list below](publish-command.md#categories) or put something else |
+| readme | Long-form explanation of the command. You can use Markdown if you want |
+| language | Language that was used to build the command. For example, "TypeScript" or "Python" |
+| sourceCodeURL | Link to the source code of your command. For example, a link to a public Github repository. |
 
 #### `icon.svg` or `icon.monochrome.svg`
 

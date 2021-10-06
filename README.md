@@ -1,4 +1,4 @@
-## Slapdash Development Platform
+## Slapdash Platform
 
 This repository contains documentation, tools and examples for extending Slapdash.
 

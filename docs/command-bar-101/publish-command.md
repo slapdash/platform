@@ -2,15 +2,15 @@
 
 Once you're happy with your command you may want to share it with others. 
 
-A published command will get a dedicated page on [slapdash.com](https://slapdash.com/) allowing anyone to discover it and add it to their Slapdash account.
-
-All commands built by the community can be seen at [https://slapdash.com/developers](https://slapdash.com/developers). 
+A published command will appear as a "Community Command" on the [Slapdash developer site](https://slapdash.com/developers), allowing anyone to discover it and add it to their Slapdash account.
 
 ## Publish Cloud Command
 
-To publish a command you need to fork [https://github.com/slapdash/platform](https://github.com/slapdash/platform),  create a new folder inside [commands](https://github.com/slapdash/platform/tree/main/commands) and then open a Pull Request. Once your PR is merged, your command will appear on [slapdash.com](https://slapdash.com/).
+To publish a command, you need to fork the [slapdash/platform](https://github.com/slapdash/platform) repository, create a new folder inside [commands](https://github.com/slapdash/platform/tree/main/commands) and then open a Pull Request. Once your PR is merged, your command will appear on the Slapdash site, allowing anyone to install it.  
+  
+Each command gets its own folder and needs to follow some simple conventions. Here's an example of how a new command might be added to the repository. 
 
-This is the folder structure you should follow. Please name your command folder using the [kebab case style](https://en.wikipedia.org/wiki/Letter_case#Special_case_styles) \(lowercase and hyphen used as a separator\).
+Please name your command folder using the [kebab case style](https://en.wikipedia.org/wiki/Letter_case#Special_case_styles) \(lowercase and hyphen used as a separator\).
 
 ```text
 commands
@@ -19,6 +19,8 @@ commands
     ├── icon.svg
     └── screenshot.json
 ```
+
+Each command folder needs to have three files: `command.toml`, `icon.svg` and `screenshot.json`. You can copy other commands as examples, or read about the role of each file below.
 
 #### `command.toml`
 
@@ -36,13 +38,13 @@ This is a simple [TOML](https://toml.io/) file that contains metadata about your
 
 #### `icon.svg` or `icon.monochrome.svg`
 
-`icon.svg` – your command's icon. If you want Slapdash to automatically change the icon's color based on the selected theme, use `icon.monochrome.svg`. 
+This is the icon that will be used when alongside your command, when it appears in the Command bar. If you want Slapdash to automatically change the icon's color based on the selected theme, use `icon.monochrome.svg`.
 
-We recommend a 64x64 px icon with no padding around it. Check out the [Search Iconfinder](https://slapdash.com/commands/search-iconfinder) command that can help you find the icon. 
+We recommend a 64x64 px icon with no padding around it. If you need help finding an icon, you can try using the [Search Iconfinder](https://slapdash.com/commands/search-iconfinder) command. 
 
 #### `screenshot.json`
 
-This file is added by Slapdash employees so you don't need to provide it. It is a simple JSON file that contains one of the Command Responses that your command returned as well as some other metadata.
+This file is added by Slapdash employees so you don't need to provide it. It is a simple JSON file that contains one of the Command Responses that your command returned as well as some other metadata to help visualize the command on the Slapdash site.
 
 ## Publish Local Command
 
@@ -50,7 +52,7 @@ There is currently no way to publish a Local Command but we're actively working 
 
 ## Categories
 
-If you're not sure what category to put your command in, here is a list you can choose from. 
+If you're not sure what category to put your command in, don't sweat it, we'll help categorize it. Here are some potential categories you might want to consider \(or, just make up your own\).
 
 * Automation
 * Books

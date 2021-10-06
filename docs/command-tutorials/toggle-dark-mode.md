@@ -4,7 +4,7 @@ description: A Mac OS command that uses AppleScript
 
 # Toggle Dark Mode
 
-![Run Toggle Dark Mode in Command Bar](../.gitbook/assets/toggle-dark-mode%20%281%29%20%282%29.gif)
+![Run Toggle Dark Mode in Command Bar](../.gitbook/assets/toggle-dark-mode%20%281%29%20%282%29%20%282%29.gif)
 
 This is an example that will only work on macOS because it uses AppleScript. It's an example of a command that doesn't return a response: it just does its thing and exits.
 

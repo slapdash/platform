@@ -1,15 +1,6 @@
 name = "Parse User-Agent"
 description = "Parse a User-Agent string by pasting it into the Command Bar."
 endpointURL = "https://www.taraszubyk.com/api/slapdash/parse-user-agent"
-sourceCodeURL = "https://github.com/zuta/slapdash-commands/blob/master/api/slapdash/parse-user-agent.ts"
-language = "typescript"
-categories = ["Developer Tools"]
 
 author.name = "Taras Zubyk"
 author.profileURL = "https://twitter.com/_zuta_"
-
-readme = """
-This command parses a [User-Agent](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/User-Agent) string entered into the Command Bar input and displays data in a structured way separating the browser, OS and device type. 
-
-For the best experience, you can assign an alias or a keyboard shortcut to get to the command faster.
-"""

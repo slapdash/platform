@@ -4,13 +4,13 @@ This repository contains documentation, tools and examples for extending Slapdas
 
 ### Documentation
 
-Documentation is published to [developers.slapdash.com](https://developers.slapdash.com) via GitBook and is backed by the [docs directory](docs/) in this repository.
+Documentation is published to [platform.slapdash.com](https://platform.slapdash.com) via GitBook and is backed by the [docs directory](docs/) in this repository.
 
 ### Publish Command
 
-Commands built by the community can be found in the [commands directory](commands/). All these commands are featured at https://slapdash.com/developers where everyone can discover them and add to their Slapdash accounts.
+Commands built by the community can be found in the [commands directory](commands/). All these commands are [featured on Slapdash](https://slapdash.com/developers)  where everyone can discover them and add to their Slapdash accounts.
 
-If you want to publish your command, please follow [our tutorial](https://developers.slapdash.com/command-bar-101/publish-command).
+If you want to publish your command, [check out the instructions](https://developers.slapdash.com/command-bar-101/publish-command).
 
 ### Language-specific Templates
 

@@ -44,13 +44,13 @@ This is a simple [TOML](https://toml.io/) file that contains metadata about your
 
 #### `icon.svg` or `icon.monochrome.svg`
 
-This is the icon that will be used when alongside your command, when it appears in the Command bar. If you want Slapdash to automatically change the icon's color based on the selected theme, use `icon.monochrome.svg`.
+This is the icon that will be used alongside your command, when it appears in the Command bar. If you want Slapdash to automatically change the icon's color based on the selected theme, use `icon.monochrome.svg`.
 
 We recommend a 64x64 px icon with no padding around it. If you need help finding an icon, you can try using the [Search Iconfinder](https://slapdash.com/commands/search-iconfinder) command. 
 
 #### `screenshot.json`
 
-This file is added by Slapdash employees so you don't need to provide it. It is a simple JSON file that contains one of the Command Responses that your command returned as well as some other metadata to help visualize the command on the Slapdash site.
+This file is added by Slapdash employees so you don't need to provide it. It is a simple JSON file that contains one of the [Command Responses](../reference/command-response.md) that your command returned as well as some other metadata to help visualize the command on the Slapdash site.
 
 ## Publish Local Command
 

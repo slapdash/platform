@@ -12,5 +12,5 @@ Otherwise, we fully encourage you to throw caution to the wind and just [start b
 
 #### **Get Help**
 
-We're here to help and if you want to reach us, just click `?` in Slapdash to send us a message. Or, email us at [hello@slapdash.com](mailto:hello@slapdash.com)
+We're here to help and if you want to reach us, just click `?` in Slapdash to send us a message. Or, email us at [hello@slapdash.com](mailto:hello@slapdash.com).
 

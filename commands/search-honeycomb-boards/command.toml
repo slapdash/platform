@@ -1,0 +1,9 @@
+name = "Search Honeycomb Boards"
+description = "Quickly jump to your team's Honeycomb Boards"
+endpointURL = "https://www.taraszubyk.com/api/slapdash/honeycomb-boards"
+sourceCodeURL = "https://github.com/zuta/slapdash-commands/blob/master/api/slapdash/honeycomb-boards.ts"
+language = "typescript"
+categories = ["Developer Tools"]
+
+author.name = "Taras Zubyk"
+author.profileURL = "https://twitter.com/_zuta_"

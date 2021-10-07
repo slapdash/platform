@@ -3,7 +3,7 @@
 Actions tell the Command Bar to perform a side effect \(e.g. open a URL or copy something to the clipboard\). They can be used in two places:
 
 * at the root of [Command Response](command-response.md) as `CommandResponse.action`
-* in the Option of the [List or Masonry view](command-response-view-list.md) as `CommandResponse.view.options[].action`
+* in the Option of the [List View](command-response-view-list.md) or [Masonry View](command-response-view-masonry.md) as `CommandResponse.view.options[].action`
 
 ```typescript
 export type Action =

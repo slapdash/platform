@@ -7,3 +7,11 @@ categories = ["Developer Tools"]
 
 author.name = "Taras Zubyk"
 author.profileURL = "https://twitter.com/_zuta_"
+
+readme = """
+The command gets you to your [Vercel](https://vercel.com/) project in a blink of an eye. 
+
+First, provide the access token that you can create on the [Vercel account page](https://vercel.com/account/tokens), then
+run the command, type the project's name and press `ENTER`. If you want to jump to the latest project's deployment instead, press `TAB`
+and you'll have options to open it in the browser or copy its URL.
+"""

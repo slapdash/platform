@@ -7,3 +7,14 @@ categories = ["Design"]
 
 author.name = "Taras Zubyk"
 author.profileURL = "https://twitter.com/_zuta_"
+
+readme = """
+The command lets you quickly search icons from [Iconfinder](https://www.iconfinder.com/).
+
+The first time you run the command, you will be asked to set up some search filters. For instance,
+you'll be able to choose whether to include Premium icons or limit your search to Vector icons only. 
+Once the command is configured, you can start searching the icons by typing the keywords into the Command Bar's input field.
+
+For Vector icons, when you press `ENTER` the icon will be pasted directly into the active app. It works great with design tools such as [Figma](https://figma.com/).
+Pressing `TAB` on the icon will give you more options to choose from, e.g. open in [Iconfinder]((https://www.iconfinder.com/)) or copy the URL.
+"""

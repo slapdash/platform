@@ -16,5 +16,5 @@ you'll be able to choose whether to include Premium icons or limit your search t
 Once the command is configured, you can start searching the icons by typing the keywords into the Command Bar's input field.
 
 For Vector icons, when you press `ENTER` the icon is pasted directly into the active app. It works great with design tools such as [Figma](https://figma.com/).
-Pressing `TAB` will give you more options to choose from, e.g. open in [Iconfinder]((https://www.iconfinder.com/)) or copy the URL.
+Pressing `TAB` will give you more options to choose from, e.g. open the icon page in [Iconfinder]((https://www.iconfinder.com/)) or copy the URL.
 """

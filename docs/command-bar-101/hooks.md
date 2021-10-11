@@ -50,7 +50,7 @@ Show the command for Github URLs only
 
 ## Define Hooks
 
-You can define Hooks using HTTP Headers for [Cloud Commands](cloud-commands.md) or code comments for [Local Commands](local-commands.md#create-local-command). In both cases, the hooks must be string representations of the JSON object. You can define a single Hook or multiple Hooks using an array.
+You can define Hooks using HTTP Headers for [Cloud Commands](cloud-commands.md) or code comments for [Local Commands](local-commands.md). In both cases, the hooks must be string representations of the JSON object. You can define a single Hook or multiple Hooks using an array.
 
 ### Cloud Commands
 

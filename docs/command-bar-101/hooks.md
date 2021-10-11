@@ -12,7 +12,7 @@ Hooks let you achieve this. There is currently only one hook supported – URL H
 
 URL hook allows you to "attach" your command to the "Active Tab" group in the Command Bar. This group appears at the top of the Command Bar root when there is a browser tab in focus.  
 
-![](<../.gitbook/assets/image (3).png>)
+!["Active Tab" group in the Command Bar](<../.gitbook/assets/image (3).png>)
 
 When your command is run, the page URL will be passed in the `url` parameter. 
 

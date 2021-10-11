@@ -10,11 +10,11 @@ Hooks let you achieve this. There is currently only one hook supported – URL H
 
 ## URL Hook
 
-URL hook allows you to "attach" your command to the "Active Tab" group in the Command Bar. This group appears at the top of the Command Bar root when there is a browser tab in focus.  
+URL hook allows you to "attach" your command to the "Active Tab" group in the Command Bar. This group appears at the top of the Command Bar root when there is a browser tab in focus.
 
 !["Active Tab" group in the Command Bar](<../.gitbook/assets/image (3).png>)
 
-When your command is run, the page URL will be passed in the `url` parameter. 
+When your command is run, the page URL will be passed in the `url` parameter.
 
 A URL Hook is a JSON object with the following properties:
 
@@ -50,11 +50,11 @@ Show the command for Github URLs only
 
 ## Define Hooks
 
-You can define Hooks using HTTP Headers for [Cloud Commands](cloud-commands.md) or code comments for [Local Commands](local-commands.md). In both cases, the hooks must be string representations of the JSON object. You can define a single Hook or multiple Hooks using an array. 
+You can define Hooks using HTTP Headers for [Cloud Commands](cloud-commands.md) or code comments for [Local Commands](local-commands.md). In both cases, the hooks must be string representations of the JSON object. You can define a single Hook or multiple Hooks using an array.
 
 ### Cloud Commands
 
-Your endpoint can define Hooks by sending a custom HTTP header – `X-Slapdash-Hooks`. For example, in Node.JS this can look like:
+Your endpoint can define Hooks by sending a custom HTTP header – `X-Slapdash-Hooks`. For example, in NodeJS this can look like:
 
 ```javascript
 async function myCommand(req, res) {
@@ -77,4 +77,3 @@ To specify Hooks for Local Commands, you can use code comments in the following 
 // You command logic is here.
 ```
 {% endcode %}
-

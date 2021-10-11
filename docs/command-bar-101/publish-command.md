@@ -10,13 +10,13 @@ A published command will appear as a "Community Command" on the [Slapdash develo
 
 ## Publish Cloud Command
 
-To publish a command, you need to fork the [slapdash/platform](https://github.com/slapdash/platform) repository, create a new folder inside [commands](https://github.com/slapdash/platform/tree/main/commands) and then open a Pull Request. Once your PR is merged, your command will appear on the Slapdash site, allowing anyone to install it.  
-  
+To publish a command, you need to fork the [slapdash/platform](https://github.com/slapdash/platform) repository, create a new folder inside [commands](https://github.com/slapdash/platform/tree/main/commands) and then open a Pull Request. Once your PR is merged, your command will appear on the Slapdash site, allowing anyone to install it.\
+\
 Each command gets its own folder and needs to follow some simple conventions. Here's an example of how a new command might be added to the repository. 
 
-Please name your command folder using the [kebab case style](https://en.wikipedia.org/wiki/Letter_case#Special_case_styles) \(lowercase and hyphen used as a separator\).
+Please name your command folder using the [kebab case style](https://en.wikipedia.org/wiki/Letter_case#Special_case_styles) (lowercase and hyphen used as a separator).
 
-```text
+```
 commands
 └── my-command-name
     ├── command.toml
@@ -24,23 +24,23 @@ commands
     └── screenshot.json
 ```
 
-Each command folder needs to have three files: `command.toml`, `icon.svg` and `screenshot.json`. You can copy other commands as examples, or read about the role of each file below.
+Each command folder needs to have three files: `command.toml`, `icon.svg `and `screenshot.json`. You can copy other commands as examples, or read about the role of each file below.
 
 #### `command.toml`
 
-This is a simple [TOML](https://toml.io/) file that contains metadata about your command. 
+This is a simple [TOML](https://toml.io) file that contains metadata about your command. 
 
-| Name | Details |
-| :--- | :--- |
-| name | **Required.** Name of the command, prefer &lt;Verb&gt; &lt;Noun&gt; convention |
-| description | **Required.** Short, one-sentence description |
-| endpointURL | **Required.** Publicly accessible HTTPS endpoint for your command |
-| author.name | **Required.** Full name of the command's author |
-| author.profileURL | **Required.** Link to the author's public profile. For example, a link to a Github or Twitter profile. |
-| categories | List of categories the command belongs to. You can grab them from the [list below](publish-command.md#categories) or put something else. |
-| readme | Long-form explanation of the command. You can use Markdown if you want. |
-| language | Language that was used to build the command. For example, "TypeScript" or "Python". |
-| sourceCodeURL | Link to the source code of your command. For example, a link to a public Github repository. |
+| Name              | Details                                                                                                                                  |
+| ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| name              | **Required.** Name of the command, prefer \<Verb> \<Noun> convention                                                                     |
+| description       | **Required. **Short, one-sentence description                                                                                            |
+| endpointURL       | **Required. **Publicly accessible HTTPS endpoint for your command                                                                        |
+| author.name       | **Required. **Full name of the command's author                                                                                          |
+| author.profileURL | **Required. **Link to the author's public profile. For example, a link to a Github or Twitter profile.                                   |
+| categories        | List of categories the command belongs to. You can grab them from the [list below](publish-command.md#categories) or put something else. |
+| readme            | Long-form explanation of the command. You can use Markdown if you want.                                                                  |
+| language          | Language that was used to build the command. For example, "TypeScript" or "Python".                                                      |
+| sourceCodeURL     | Link to the source code of your command. For example, a link to a public Github repository.                                              |
 
 #### `icon.svg` or `icon.monochrome.svg`
 
@@ -58,7 +58,7 @@ There is currently no way to publish a Local Command but we're actively working 
 
 ## Categories
 
-If you're not sure what category to put your command in, don't sweat it, we'll help categorize it. Here are some potential categories you might want to consider \(or, just make up your own\).
+If you're not sure what category to put your command in, don't sweat it, we'll help categorize it. Here are some potential categories you might want to consider (or, just make up your own).
 
 * Automation
 * Books
@@ -85,4 +85,3 @@ If you're not sure what category to put your command in, don't sweat it, we'll h
 * Sports
 * Travel
 * Utilities
-

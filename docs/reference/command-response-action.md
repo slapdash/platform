@@ -1,6 +1,6 @@
 # Action
 
-Actions tell the Command Bar to perform a side effect \(e.g. open a URL or copy something to the clipboard\). They can be used in two places:
+Actions tell the Command Bar to perform a side effect (e.g. open a URL or copy something to the clipboard). They can be used in two places:
 
 * at the root of [Command Response](command-response.md) as `CommandResponse.action`
 * in the Option of the [List View](command-response-view-list.md) or [Masonry View](command-response-view-masonry.md) as `CommandResponse.view.options[].action`
@@ -21,7 +21,7 @@ type ActionMove = ActionMoveAddParam;
 Opens a given URL using the system's default handler.
 
 * **type:** `"open-url"`
-* **url:** The URL to open. You can use any valid URI schema. For example, "https://", "file://", "ssh://", "slack://" \(native app\).
+* **url:** The URL to open. You can use any valid URI schema. For example, "https://", "file://", "ssh://", "slack://" (native app).
 
 {% tabs %}
 {% tab title="Open a URL in the browser" %}
@@ -164,7 +164,7 @@ Copies some text to the clipboard.
 
 ## ActionShowToast
 
-Shows a message in a toast \(an ephemeral message displayed on the screen\).
+Shows a message in a toast (an ephemeral message displayed on the screen).
 
 * **type:** `"show-toast"`
 * **message:** The message that will be displayed in a toast.
@@ -201,7 +201,7 @@ Typically, the "add-param" Action is used in the `moveAction` property of some [
 * **value:** The value of the parameter.
 
 {% tabs %}
-{% tab title="Masonry View: option with \"main\" and \"move\" Actions" %}
+{% tab title="Masonry View: option with "main" and "move" Actions" %}
 ```typescript
 {
   "view": {
@@ -225,6 +225,4 @@ Typically, the "add-param" Action is used in the `moveAction` property of some [
 ```
 {% endtab %}
 {% endtabs %}
-
-
 

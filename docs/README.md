@@ -11,6 +11,7 @@
 * [Cloud Commands](command-bar-101/cloud-commands.md)
 * [Build Your First Command](command-bar-101/setup-your-first-command.md)
 * [Publish Command](command-bar-101/publish-command.md)
+* [Hooks](command-bar-101/hooks.md)
 
 ## Command Tutorials
 
@@ -30,4 +31,3 @@
 * [Tokens](reference/command-response-tokens.md)
 * [Icon](reference/command-response-icon.md)
 * [Config](reference/command-response-config.md)
-

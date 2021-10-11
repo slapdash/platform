@@ -4,7 +4,7 @@ The List View response tells the Command Bar to display a list of options.
 
 * **type:** `"list"`
 * **options:** An array of [ListOption](command-response-view-list.md#listoption) objects.
-* **groups:** Optional. An array of [Group](command-response-view-list.md#group) objects \(or strings\). Can be used to define the order in which they appear and customize how they are displayed.
+* **groups:** Optional. An array of [Group](command-response-view-list.md#group) objects (or strings). Can be used to define the order in which they appear and customize how they are displayed.
 * **ranking:** Optional. The default value is `true`, i.e the Command Bar's default ranking will be used. If you wish to return different options as the user types in the Command Bar, set `ranking` to `false`. Then Slapdash will run your command with a special parameter `keywords` that you can use to decide what options to return back.
 
 {% tabs %}
@@ -99,9 +99,9 @@ The List View response tells the Command Bar to display a list of options.
 Property `CommandResponse.view.options` is the list of options that are displayed in the List View.
 
 * **title:** The title for the option.
-* **action:** Option's [Main Action](command-response-view-list.md#options-main-action). This Action is executed when **`Enter`** is pressed on the Option \(or when the option is clicked\).
+* **action:** Option's [Main Action](command-response-view-list.md#options-main-action). This Action is executed when **`Enter`** is pressed on the Option (or when the option is clicked).
 * **moveAction:** Optional. Option's [Move Action](command-response-view-list.md#options-move-action) object. This Action is executed when Tab is pressed on the Option.
-* **icon:** Optional. The [Icon](command-response-icon.md) for the option.
+* **icon: **Optional. The [Icon](command-response-icon.md) for the option.
 * **subtitle:** Optional. The subtitle for the option. Can be provided as a string or a list of strings.
 * **group:** Optional. The [Group](command-response-view-list.md#group) this option belongs to.
 
@@ -147,7 +147,7 @@ Property `CommandResponse.view.options` is the list of options that are displaye
 
 ## Group
 
-Property `CommandResponse.view.groups` allows to display options in the List View in groups. Each `Group` can be a string or an object. Provide Group as an object if you want to customize its appearance \(e.g. change its title\).
+Property `CommandResponse.view.groups` allows to display options in the List View in groups. Each `Group` can be a string or an object. Provide Group as an object if you want to customize its appearance (e.g. change its title).
 
 {% tabs %}
 {% tab title="List View: custom order for groups" %}
@@ -275,7 +275,7 @@ type OptionMainAction =
 ```
 
 {% tabs %}
-{% tab title="List View: custom affordances for the option\'s \"main\" Action" %}
+{% tab title="List View: custom affordances for the option's "main" Action" %}
 ```typescript
 {
   "view": {
@@ -299,7 +299,7 @@ type OptionMainAction =
 ```
 {% endtab %}
 
-{% tab title="List View: default affordances for the option\'s \"main\" Action" %}
+{% tab title="List View: default affordances for the option's "main" Action" %}
 ```typescript
 {
   "view": {
@@ -324,7 +324,7 @@ type OptionMainAction =
 Property `CommandResponse.view.options[].moveAction` allows providing a [Move Action](command-response-action.md#actionmoveaddparam) to change the location of the Command Bar.
 
 {% tabs %}
-{% tab title="Masonry View: option with \"main\" and \"move\" Actions" %}
+{% tab title="Masonry View: option with "main" and "move" Actions" %}
 ```typescript
 {
   "view": {
@@ -348,4 +348,3 @@ Property `CommandResponse.view.options[].moveAction` allows providing a [Move Ac
 ```
 {% endtab %}
 {% endtabs %}
-

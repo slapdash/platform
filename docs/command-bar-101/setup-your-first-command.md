@@ -2,7 +2,7 @@
 
 Slapdash works great in the browser, but for the best development experience, we recommend using the [Slapdash desktop app](https://slapdash.com/download).
 
-There are [two types of commands](commands.md#local-vs-cloud-commands): **Local Commands**, which are** **scripts that run on your computer, and **Cloud Commands**, which are commands that are hosted on the web. Developing is easier and faster with files on your computer, so that's the type of command we'll be writing here.
+There are [two types of commands](commands.md#local-vs-cloud-commands): **Local Commands**, which are scripts that run on your computer, and **Cloud Commands**, which are commands that are hosted on the web. Developing is easier and faster with files on your computer, so that's the type of command we'll be writing here.
 
 This example command will be written in JavaScript, but in practice, you can use [whatever language](local-commands.md#language-support) you are comfortable with.
 

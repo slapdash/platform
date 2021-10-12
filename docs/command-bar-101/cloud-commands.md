@@ -10,13 +10,13 @@ Commands that run in the cloud can't make any changes to your computer (it's jus
 
 ## Create Cloud Command
 
-To create a cloud command, run **Create Command** in the Command Bar, choose **Cloud** as a type, paste the **Endpoint URL **of your command, give it a name and press **Create Command**. 
+To create a cloud command, run **Create Command** in the Command Bar, choose **Cloud** as a type, paste the **Endpoint URL** of your command, give it a name and press **Create Command**.
 
 ![](../.gitbook/assets/cleanshot-2021-08-20-at-16.22.14.png)
 
 ## Developing & Deploying with Replit
 
-One of our favourite ways to host and develop cloud commands is with [Replit](https://replit.com). \
+One of our favourite ways to host and develop cloud commands is with [Replit](https://replit.com).\
 \
 We like it because we can use any programming language to write the command, and we can do the development directly in the browser. It's a super quick way to get an HTTPS endpoint up and running with just a few clicks.\
 \
@@ -37,9 +37,8 @@ Find the endpoint URL in the top-right panel. This is the URL you will use to cr
 
 \
 **Deploying & Sharing Command**\
-****\
-****By default, Repls aren't always running. If you plan to use the command often or to share it with others, you'll need to make sure the Repl is set to be **Always On.**\
-
+\*\*\*\*\
+\*\*\*\*By default, Repls aren't always running. If you plan to use the command often or to share it with others, you'll need to make sure the Repl is set to be **Always On.**\\
 
 ## Deploying with Vercel
 

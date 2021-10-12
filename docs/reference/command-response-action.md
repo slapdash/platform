@@ -215,7 +215,7 @@ Typically, the "add-param" Action is used in the `moveAction` property of some [
 * **value:** The value of the parameter.
 
 {% tabs %}
-{% tab title="Masonry View: option with " %}
+{% tab title="Masonry View: option with Main and Move Actions" %}
 ```typescript
 {
   "view": {

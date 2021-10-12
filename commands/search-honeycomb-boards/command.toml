@@ -7,3 +7,12 @@ categories = ["Developer Tools"]
 
 author.name = "Taras Zubyk"
 author.profileURL = "https://twitter.com/_zuta_"
+
+readme = """
+When you run the command for the first time, it will ask you to provide an API Key to access your
+team's [Honeycomb Boards](https://honeycomb.io/). You can generate a new API Key on your team's [Settings Page in Honeycomb](https://ui.honeycomb.io/teams).
+Make sure to enable access to Honeycomb Boards when creating the key.
+
+Once the command is set up, you will see a list of Honeycomb Boards for your team. Each option
+in the list represents a single Honeycomb Board giving you some additional information about the charts that the board contains.
+"""

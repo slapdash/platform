@@ -11,7 +11,7 @@ author.profileURL = "https://kanevski.org/"
 
 readme = """
 The first time you run this command, it will ask you for a webhook URL
-for a Zapier zap. 
+for a [Zapier](https://zapier.com/) zap. 
 
 On subsequent runs, the command will prompt you for input. You'll be able
 to enter whatever text and after hitting Enter, the Zapier webhook URL

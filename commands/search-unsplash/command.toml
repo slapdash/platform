@@ -1,5 +1,5 @@
 name = "Search Unsplash"
-description = "Search free high quality photos from Unsplash."
+description = "Search free high-quality photos from Unsplash"
 endpointURL = "https://www.taraszubyk.com/api/slapdash/unsplash-search"
 sourceCodeURL = "https://github.com/zuta/slapdash-commands/blob/master/api/slapdash/unsplash-search.ts"
 language = "typescript"
@@ -7,3 +7,10 @@ categories = ["Design"]
 
 author.name = "Taras Zubyk"
 author.profileURL = "https://twitter.com/_zuta_"
+
+readme = """
+Use this command to seach free, high-resolution photos from [Unsplash](https://unsplash.com/).
+Simply type the keywords and jump to the photo you liked. A very useful tool when preparing a presentation or building a website. 
+
+All photos are displayed in the [Pinterest](https://pinterest.com/)-like layout – Masonry View - which gives you a beatiful preview of each photo.
+"""

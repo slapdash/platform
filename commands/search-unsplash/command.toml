@@ -10,7 +10,7 @@ author.profileURL = "https://twitter.com/_zuta_"
 
 readme = """
 Use this command to seach free, high-resolution photos from [Unsplash](https://unsplash.com/).
-Simply type the keywords and jump to the photo you liked. A very useful tool when preparing a presentation or building a website. 
+Simply type the keywords and jump to the photo you liked. A very useful tool when preparing a presentation or writing a blog post. 
 
 All photos are displayed in the [Pinterest](https://pinterest.com/)-like layout – Masonry View - which gives you a beatiful preview of each photo.
 """

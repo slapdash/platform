@@ -101,7 +101,7 @@ Property `CommandResponse.view.options` is the list of options that are displaye
 * **title:** The title for the option.
 * **action:** Option's [Main Action](command-response-view-list.md#options-main-action). This Action is executed when **`Enter`** is pressed on the Option (or when the option is clicked).
 * **moveAction:** Optional. Option's [Move Action](command-response-view-list.md#options-move-action) object. This Action is executed when Tab is pressed on the Option.
-* **icon: **Optional. The [Icon](command-response-icon.md) for the option.
+* **icon**: Optional. The [Icon](command-response-icon.md) for the option.
 * **subtitle:** Optional. The subtitle for the option. Can be provided as a string or a list of strings.
 * **group:** Optional. The [Group](command-response-view-list.md#group) this option belongs to.
 
@@ -254,7 +254,7 @@ Property `CommandResponse.view.groups` allows to display options in the List Vie
 
 ## Option's Main Action
 
-The Main Action for an Option can be provided as the plain [Action](command-response-action.md) object or as a special object that allows to customize how the action is visualised by the Command Bar. 
+The Main Action for an Option can be provided as the plain [Action](command-response-action.md) object or as a special object that allows to customize how the action is visualised by the Command Bar.
 
 ```typescript
 type OptionMainAction =
@@ -275,7 +275,7 @@ type OptionMainAction =
 ```
 
 {% tabs %}
-{% tab title="List View: custom affordances for the option's "main" Action" %}
+{% tab title="List View: custom affordances for the option" %}
 ```typescript
 {
   "view": {
@@ -299,7 +299,7 @@ type OptionMainAction =
 ```
 {% endtab %}
 
-{% tab title="List View: default affordances for the option's "main" Action" %}
+{% tab title="List View: default affordances for the option" %}
 ```typescript
 {
   "view": {
@@ -324,7 +324,7 @@ type OptionMainAction =
 Property `CommandResponse.view.options[].moveAction` allows providing a [Move Action](command-response-action.md#actionmoveaddparam) to change the location of the Command Bar.
 
 {% tabs %}
-{% tab title="Masonry View: option with "main" and "move" Actions" %}
+{% tab title="Masonry View: option with " %}
 ```typescript
 {
   "view": {

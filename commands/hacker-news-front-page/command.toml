@@ -8,3 +8,11 @@ categories = ["News"]
 
 author.name = "Taras Zubyk"
 author.profileURL = "https://twitter.com/_zuta_/"
+
+readme = """
+This command uses the [RSS Feed](https://hnrss.org/frontpage) of the [Hacker News](https://news.ycombinator.com/) front page to let you quickly scan 
+through the latest posts. 
+
+Each option in the list displays the post's title, information about the author and some insights e.g. the number of comments that were made on Hacker News.
+You can choose to jump directly to the post or the comments section on Hacker News.
+"""

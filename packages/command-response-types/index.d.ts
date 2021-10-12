@@ -23,7 +23,7 @@ export type Action =
 
 export interface ActionOpenURL {
   type: "open-url";
-  url: string;
+  url: string | string[];
 }
 
 export interface ActionPaste {

@@ -1,6 +1,6 @@
 # How it Works
 
-The Command Bar is a keyboard-centric interface for controlling your computer and cloud apps; with an emphasis on agency, speed and usability. The name is a combination of _command_ line and search _bar_. 
+The Command Bar is a keyboard-centric interface for controlling your computer and cloud apps; with an emphasis on agency, speed and usability. The name is a combination of _command_ line and search _bar_.
 
 Like a command-line shell (i.e. bash, zsh), you can type your way to perform any task. Similarly, it’s also customizable and programmable.
 
@@ -16,7 +16,7 @@ When the Command Bar is open, you interact with it by typing. As you type, the C
 
 Hit **`Enter`** or click on an option to do something. Hitting **`Enter`** on a search result will open it. Hitting **`Enter`** on a command will run it.
 
-More precisely, hitting **`Enter`** runs the** Action **associated with the selected option. Every option will always have an Action.
+More precisely, hitting **`Enter`** runs the Action associated with the selected option. Every option will always have an Action.
 
 ![The Command Bar has returned some commands and search results that match keywords.](../.gitbook/assets/screen_shot\_2021-05-25\_at\_10.19.37\_pm.png)
 

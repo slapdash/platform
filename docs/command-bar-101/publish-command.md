@@ -4,7 +4,7 @@ description: Share your command with the Slapdash community
 
 # Publish Command
 
-Once you're happy with your command you may want to share it with others. 
+Once you're happy with your command you may want to share it with others.
 
 A published command will appear as a "Community Command" on the [Slapdash developer site](https://slapdash.com/developers), allowing anyone to discover it and add it to their Slapdash account.
 
@@ -12,7 +12,7 @@ A published command will appear as a "Community Command" on the [Slapdash develo
 
 To publish a command, you need to fork the [slapdash/platform](https://github.com/slapdash/platform) repository, create a new folder inside [commands](https://github.com/slapdash/platform/tree/main/commands) and then open a Pull Request. Once your PR is merged, your command will appear on the Slapdash site, allowing anyone to install it.\
 \
-Each command gets its own folder and needs to follow some simple conventions. Here's an example of how a new command might be added to the repository. 
+Each command gets its own folder and needs to follow some simple conventions. Here's an example of how a new command might be added to the repository.
 
 Please name your command folder using the [kebab case style](https://en.wikipedia.org/wiki/Letter_case#Special_case_styles) (lowercase and hyphen used as a separator).
 
@@ -28,15 +28,15 @@ Each command folder needs to have three files: `command.toml`, `icon.svg `and `s
 
 #### `command.toml`
 
-This is a simple [TOML](https://toml.io) file that contains metadata about your command. 
+This is a simple [TOML](https://toml.io) file that contains metadata about your command.
 
 | Name              | Details                                                                                                                                  |
 | ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
 | name              | **Required.** Name of the command, prefer \<Verb> \<Noun> convention                                                                     |
-| description       | **Required. **Short, one-sentence description                                                                                            |
-| endpointURL       | **Required. **Publicly accessible HTTPS endpoint for your command                                                                        |
-| author.name       | **Required. **Full name of the command's author                                                                                          |
-| author.profileURL | **Required. **Link to the author's public profile. For example, a link to a Github or Twitter profile.                                   |
+| description       | **Required**. Short, one-sentence description                                                                                            |
+| endpointURL       | **Required**. Publicly accessible HTTPS endpoint for your command                                                                        |
+| author.name       | **Required**. Full name of the command's author                                                                                          |
+| author.profileURL | **Required**. Link to the author's public profile. For example, a link to a Github or Twitter profile.                                   |
 | categories        | List of categories the command belongs to. You can grab them from the [list below](publish-command.md#categories) or put something else. |
 | readme            | Long-form explanation of the command. You can use Markdown if you want.                                                                  |
 | language          | Language that was used to build the command. For example, "TypeScript" or "Python".                                                      |
@@ -46,7 +46,7 @@ This is a simple [TOML](https://toml.io) file that contains metadata about your 
 
 This is the icon that will be used alongside your command, when it appears in the Command bar. If you want Slapdash to automatically change the icon's color based on the selected theme, use `icon.monochrome.svg`.
 
-We recommend a 64x64 px icon with no padding around it. If you need help finding an icon, you can try using the [Search Iconfinder](https://slapdash.com/commands/search-iconfinder) command. 
+We recommend a 64x64 px icon with no padding around it. If you need help finding an icon, you can try using the [Search Iconfinder](https://slapdash.com/commands/search-iconfinder) command.
 
 #### `screenshot.json`
 

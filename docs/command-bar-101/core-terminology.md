@@ -2,7 +2,7 @@
 
 ## Input and View
 
-When then Command Bar is open, there are two parts: the **Input** and the **View**. The Input is where you type and the View shows the UI, which reacts to what’s typed inside the input.
+When the Command Bar is open, there are two parts: the **Input** and the **View**. The Input is where you type and the View shows the UI, which reacts to what’s typed inside the input.
 
 Here’s an example of a Command Bar that has an Input, a math expression, and a View, the calculated result of the expression.
 
@@ -12,7 +12,7 @@ Here’s an example of a Command Bar that has an Input, a math expression, and a
 
 Although the View can technically be anything, most often it is built with a collection of UI components called an **Option**.
 
-Each Option has an** Action** associated with, which is performed by hitting **`Enter`** with the Option selected. An action can be something like:
+Each Option has an Action associated with, which is performed by hitting **`Enter`** with the Option selected. An action can be something like:
 
 * Open a URL
 * Copy text to Clipboard
@@ -27,7 +27,7 @@ Every Option has an Action, but some options may also have a **Move Action**. Th
 
 The Command Bar has a notion of location, or an address. Similar to how a browser has the address of which page is open. For every address, there is a Command that is responsible for generating the View.
 
-Even when you first open the Command Bar, it points to a special location: root. Under the hood, there is a command, managed by Slapdash, that is responsible for generating the UI for this location. \
+Even when you first open the Command Bar, it points to a special location: root. Under the hood, there is a command, managed by Slapdash, that is responsible for generating the UI for this location.\
 \
 In the case of the root location, Slapdash will match all your available commands, search connected applications and even parse natural language expressions.
 

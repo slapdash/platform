@@ -16,7 +16,7 @@ You can use it to tell Slapdash to [copy something](../reference/command-respons
 
 ### Local vs. Cloud Commands
 
-There are two types of commands: [Local Commands](local-commands.md), which are\*\* \*\*scripts that run on your computer, and [Cloud Commands](cloud-commands.md), which are commands that are hosted on the web.
+There are two types of commands: [Local Commands](local-commands.md), which are scripts that run on your computer, and [Cloud Commands](cloud-commands.md), which are commands that are hosted on the web.
 
 They are mostly the same, but they do offer some trade-offs:
 

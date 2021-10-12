@@ -1,3 +1,9 @@
+### `1.0.4` — Oct 12, 2021
+
+###### NEW
+
+- Action `"open-url"` now accepts an array of strings in `url` property. Allows to open multiple URLs at once.
+
 ### `1.0.3` — Aug 18, 2021
 
 ###### NEW

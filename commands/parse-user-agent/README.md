@@ -1,0 +1,1 @@
+https://slapdash.com/commands/parse-user-agent

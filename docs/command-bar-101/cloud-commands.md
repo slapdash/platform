@@ -37,8 +37,7 @@ Find the endpoint URL in the top-right panel. This is the URL you will use to cr
 
 \
 **Deploying & Sharing Command**\
-\*\*\*\*\
-\*\*\*\*By default, Repls aren't always running. If you plan to use the command often or to share it with others, you'll need to make sure the Repl is set to be **Always On.**\\
+By default, Repls aren't always running. If you plan to use the command often or to share it with others, you'll need to make sure the Repl is set to be **Always On.**
 
 ## Deploying with Vercel
 

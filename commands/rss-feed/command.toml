@@ -1,5 +1,5 @@
 name = "RSS Feed"
-description = "Search & explore any RSS Feed directly from the Command Bar"
+description = "Quickly search and explore any RSS Feed"
 endpointURL = "https://RSS-Feed.taraszubyk.repl.co"
 sourceCodeURL = "https://replit.com/@taraszubyk/RSS-Feed"
 

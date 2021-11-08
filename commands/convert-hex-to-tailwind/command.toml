@@ -1,4 +1,4 @@
-name = "Convert hex color to Tailwind preset"
+name = "Convert Hex Color to Tailwind Preset"
 description = "Command to convert hex color to Tailwind preset"
 endpointURL = "https://tailwind-color-finder.vercel.app/api/slapdash/hex-to-tailwind-command"
 sourceCodeURL = "https://github.com/TedisAgolli/tailwind-color-finder/blob/master/pages/api/slapdash/hex-to-tailwind-command.js"

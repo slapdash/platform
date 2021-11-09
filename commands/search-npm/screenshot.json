@@ -1,0 +1,561 @@
+{
+    "keywords": "react",
+    "response": {
+        "inputPlaceholder": "Type to search NPM packages",
+        "view": {
+            "type": "list",
+            "ranking": false,
+            "options": [
+                {
+                    "title": "react – React is a JavaScript library for building user interfaces.",
+                    "subtitle": [
+                        "22 Mar 2021",
+                        "★177K",
+                        "Quality 86%",
+                        "Popularity 92%",
+                        "Maintenance 97%"
+                    ],
+                    "icon": {
+                        "monochrome": "<svg width=\"24\" height=\"24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"m12.89 1.45 8 4c.3332.16558.6136.42083.8097.73704.1961.31622.3001.68088.3003 1.05296v9.53c-.0002.3721-.1042.7367-.3003 1.053-.1961.3162-.4765.5714-.8097.737l-8 4c-.2779.139-.5843.2114-.895.2114s-.6171-.0724-.895-.2114l-8-4c-.33287-.1677-.61225-.4251-.80661-.7432-.19437-.318-.29598-.6841-.29339-1.0568V7.24c.0002-.37208.10419-.73674.30028-1.05296.19609-.31621.47651-.57146.80972-.73704l8-4c.2766-.13742.5812-.20894.89-.20894.3088 0 .6134.07152.89.20894v0Z\" stroke=\"#000\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M2.32 6.16 12 11l9.68-4.84M12 22.76V11M7 3.5l10 5\" stroke=\"#000\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg>"
+                    },
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://www.npmjs.com/package/react"
+                    },
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "package",
+                        "value": "react"
+                    }
+                },
+                {
+                    "title": "react-redux – Official React bindings for Redux",
+                    "subtitle": [
+                        "25 Oct 2021",
+                        "★21K",
+                        "Quality 94%",
+                        "Popularity 76%",
+                        "Maintenance 100%"
+                    ],
+                    "icon": {
+                        "monochrome": "<svg width=\"24\" height=\"24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"m12.89 1.45 8 4c.3332.16558.6136.42083.8097.73704.1961.31622.3001.68088.3003 1.05296v9.53c-.0002.3721-.1042.7367-.3003 1.053-.1961.3162-.4765.5714-.8097.737l-8 4c-.2779.139-.5843.2114-.895.2114s-.6171-.0724-.895-.2114l-8-4c-.33287-.1677-.61225-.4251-.80661-.7432-.19437-.318-.29598-.6841-.29339-1.0568V7.24c.0002-.37208.10419-.73674.30028-1.05296.19609-.31621.47651-.57146.80972-.73704l8-4c.2766-.13742.5812-.20894.89-.20894.3088 0 .6134.07152.89.20894v0Z\" stroke=\"#000\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M2.32 6.16 12 11l9.68-4.84M12 22.76V11M7 3.5l10 5\" stroke=\"#000\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg>"
+                    },
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://www.npmjs.com/package/react-redux"
+                    },
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "package",
+                        "value": "react-redux"
+                    }
+                },
+                {
+                    "title": "@testing-library/react – Simple and complete React DOM testing utilities that encourage good testing practices.",
+                    "subtitle": [
+                        "3 Oct 2021",
+                        "★15K",
+                        "Quality 85%",
+                        "Popularity 74%",
+                        "Maintenance 100%"
+                    ],
+                    "icon": {
+                        "monochrome": "<svg width=\"24\" height=\"24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"m12.89 1.45 8 4c.3332.16558.6136.42083.8097.73704.1961.31622.3001.68088.3003 1.05296v9.53c-.0002.3721-.1042.7367-.3003 1.053-.1961.3162-.4765.5714-.8097.737l-8 4c-.2779.139-.5843.2114-.895.2114s-.6171-.0724-.895-.2114l-8-4c-.33287-.1677-.61225-.4251-.80661-.7432-.19437-.318-.29598-.6841-.29339-1.0568V7.24c.0002-.37208.10419-.73674.30028-1.05296.19609-.31621.47651-.57146.80972-.73704l8-4c.2766-.13742.5812-.20894.89-.20894.3088 0 .6134.07152.89.20894v0Z\" stroke=\"#000\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M2.32 6.16 12 11l9.68-4.84M12 22.76V11M7 3.5l10 5\" stroke=\"#000\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg>"
+                    },
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://www.npmjs.com/package/%40testing-library%2Freact"
+                    },
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "package",
+                        "value": "@testing-library/react"
+                    }
+                },
+                {
+                    "title": "@babel/preset-react – Babel preset for all React plugins.",
+                    "subtitle": [
+                        "3 Feb 2021",
+                        "★38K",
+                        "Quality 90%",
+                        "Popularity 80%",
+                        "Maintenance 83%"
+                    ],
+                    "icon": {
+                        "monochrome": "<svg width=\"24\" height=\"24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"m12.89 1.45 8 4c.3332.16558.6136.42083.8097.73704.1961.31622.3001.68088.3003 1.05296v9.53c-.0002.3721-.1042.7367-.3003 1.053-.1961.3162-.4765.5714-.8097.737l-8 4c-.2779.139-.5843.2114-.895.2114s-.6171-.0724-.895-.2114l-8-4c-.33287-.1677-.61225-.4251-.80661-.7432-.19437-.318-.29598-.6841-.29339-1.0568V7.24c.0002-.37208.10419-.73674.30028-1.05296.19609-.31621.47651-.57146.80972-.73704l8-4c.2766-.13742.5812-.20894.89-.20894.3088 0 .6134.07152.89.20894v0Z\" stroke=\"#000\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M2.32 6.16 12 11l9.68-4.84M12 22.76V11M7 3.5l10 5\" stroke=\"#000\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg>"
+                    },
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://www.npmjs.com/package/%40babel%2Fpreset-react"
+                    },
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "package",
+                        "value": "@babel/preset-react"
+                    }
+                },
+                {
+                    "title": "react-hook-form – Performant, flexible and extensible forms library for React Hooks",
+                    "subtitle": [
+                        "7 Nov 2021",
+                        "★23K",
+                        "Quality 100%",
+                        "Popularity 60%",
+                        "Maintenance 100%"
+                    ],
+                    "icon": {
+                        "monochrome": "<svg width=\"24\" height=\"24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"m12.89 1.45 8 4c.3332.16558.6136.42083.8097.73704.1961.31622.3001.68088.3003 1.05296v9.53c-.0002.3721-.1042.7367-.3003 1.053-.1961.3162-.4765.5714-.8097.737l-8 4c-.2779.139-.5843.2114-.895.2114s-.6171-.0724-.895-.2114l-8-4c-.33287-.1677-.61225-.4251-.80661-.7432-.19437-.318-.29598-.6841-.29339-1.0568V7.24c.0002-.37208.10419-.73674.30028-1.05296.19609-.31621.47651-.57146.80972-.73704l8-4c.2766-.13742.5812-.20894.89-.20894.3088 0 .6134.07152.89.20894v0Z\" stroke=\"#000\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M2.32 6.16 12 11l9.68-4.84M12 22.76V11M7 3.5l10 5\" stroke=\"#000\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg>"
+                    },
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://www.npmjs.com/package/react-hook-form"
+                    },
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "package",
+                        "value": "react-hook-form"
+                    }
+                },
+                {
+                    "title": "rxjs – Reactive Extensions for modern JavaScript",
+                    "subtitle": [
+                        "6 Oct 2021",
+                        "★25K",
+                        "Quality 94%",
+                        "Popularity 91%",
+                        "Maintenance 94%"
+                    ],
+                    "icon": {
+                        "monochrome": "<svg width=\"24\" height=\"24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"m12.89 1.45 8 4c.3332.16558.6136.42083.8097.73704.1961.31622.3001.68088.3003 1.05296v9.53c-.0002.3721-.1042.7367-.3003 1.053-.1961.3162-.4765.5714-.8097.737l-8 4c-.2779.139-.5843.2114-.895.2114s-.6171-.0724-.895-.2114l-8-4c-.33287-.1677-.61225-.4251-.80661-.7432-.19437-.318-.29598-.6841-.29339-1.0568V7.24c.0002-.37208.10419-.73674.30028-1.05296.19609-.31621.47651-.57146.80972-.73704l8-4c.2766-.13742.5812-.20894.89-.20894.3088 0 .6134.07152.89.20894v0Z\" stroke=\"#000\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M2.32 6.16 12 11l9.68-4.84M12 22.76V11M7 3.5l10 5\" stroke=\"#000\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg>"
+                    },
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://www.npmjs.com/package/rxjs"
+                    },
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "package",
+                        "value": "rxjs"
+                    }
+                },
+                {
+                    "title": "@material-ui/core – React components that implement Google's Material Design.",
+                    "subtitle": [
+                        "27 Apr 2021",
+                        "★68K",
+                        "Quality 91%",
+                        "Popularity 73%",
+                        "Maintenance 100%"
+                    ],
+                    "icon": {
+                        "monochrome": "<svg width=\"24\" height=\"24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"m12.89 1.45 8 4c.3332.16558.6136.42083.8097.73704.1961.31622.3001.68088.3003 1.05296v9.53c-.0002.3721-.1042.7367-.3003 1.053-.1961.3162-.4765.5714-.8097.737l-8 4c-.2779.139-.5843.2114-.895.2114s-.6171-.0724-.895-.2114l-8-4c-.33287-.1677-.61225-.4251-.80661-.7432-.19437-.318-.29598-.6841-.29339-1.0568V7.24c.0002-.37208.10419-.73674.30028-1.05296.19609-.31621.47651-.57146.80972-.73704l8-4c.2766-.13742.5812-.20894.89-.20894.3088 0 .6134.07152.89.20894v0Z\" stroke=\"#000\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M2.32 6.16 12 11l9.68-4.84M12 22.76V11M7 3.5l10 5\" stroke=\"#000\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg>"
+                    },
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://www.npmjs.com/package/%40material-ui%2Fcore"
+                    },
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "package",
+                        "value": "@material-ui/core"
+                    }
+                },
+                {
+                    "title": "react-dev-utils – webpack utilities used by Create React App",
+                    "subtitle": [
+                        "8 Mar 2021",
+                        "★90K",
+                        "Quality 73%",
+                        "Popularity 79%",
+                        "Maintenance 92%"
+                    ],
+                    "icon": {
+                        "monochrome": "<svg width=\"24\" height=\"24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"m12.89 1.45 8 4c.3332.16558.6136.42083.8097.73704.1961.31622.3001.68088.3003 1.05296v9.53c-.0002.3721-.1042.7367-.3003 1.053-.1961.3162-.4765.5714-.8097.737l-8 4c-.2779.139-.5843.2114-.895.2114s-.6171-.0724-.895-.2114l-8-4c-.33287-.1677-.61225-.4251-.80661-.7432-.19437-.318-.29598-.6841-.29339-1.0568V7.24c.0002-.37208.10419-.73674.30028-1.05296.19609-.31621.47651-.57146.80972-.73704l8-4c.2766-.13742.5812-.20894.89-.20894.3088 0 .6134.07152.89.20894v0Z\" stroke=\"#000\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M2.32 6.16 12 11l9.68-4.84M12 22.76V11M7 3.5l10 5\" stroke=\"#000\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg>"
+                    },
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://www.npmjs.com/package/react-dev-utils"
+                    },
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "package",
+                        "value": "react-dev-utils"
+                    }
+                },
+                {
+                    "title": "react-dropzone – Simple HTML5 drag-drop zone with React.js",
+                    "subtitle": [
+                        "23 Sept 2021",
+                        "★8.5K",
+                        "Quality 95%",
+                        "Popularity 59%",
+                        "Maintenance 100%"
+                    ],
+                    "icon": {
+                        "monochrome": "<svg width=\"24\" height=\"24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"m12.89 1.45 8 4c.3332.16558.6136.42083.8097.73704.1961.31622.3001.68088.3003 1.05296v9.53c-.0002.3721-.1042.7367-.3003 1.053-.1961.3162-.4765.5714-.8097.737l-8 4c-.2779.139-.5843.2114-.895.2114s-.6171-.0724-.895-.2114l-8-4c-.33287-.1677-.61225-.4251-.80661-.7432-.19437-.318-.29598-.6841-.29339-1.0568V7.24c.0002-.37208.10419-.73674.30028-1.05296.19609-.31621.47651-.57146.80972-.73704l8-4c.2766-.13742.5812-.20894.89-.20894.3088 0 .6134.07152.89.20894v0Z\" stroke=\"#000\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M2.32 6.16 12 11l9.68-4.84M12 22.76V11M7 3.5l10 5\" stroke=\"#000\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg>"
+                    },
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://www.npmjs.com/package/react-dropzone"
+                    },
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "package",
+                        "value": "react-dropzone"
+                    }
+                },
+                {
+                    "title": "react-i18next – Internationalization for react done right. Using the i18next i18n ecosystem.",
+                    "subtitle": [
+                        "28 Oct 2021",
+                        "★6.8K",
+                        "Quality 100%",
+                        "Popularity 56%",
+                        "Maintenance 100%"
+                    ],
+                    "icon": {
+                        "monochrome": "<svg width=\"24\" height=\"24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"m12.89 1.45 8 4c.3332.16558.6136.42083.8097.73704.1961.31622.3001.68088.3003 1.05296v9.53c-.0002.3721-.1042.7367-.3003 1.053-.1961.3162-.4765.5714-.8097.737l-8 4c-.2779.139-.5843.2114-.895.2114s-.6171-.0724-.895-.2114l-8-4c-.33287-.1677-.61225-.4251-.80661-.7432-.19437-.318-.29598-.6841-.29339-1.0568V7.24c.0002-.37208.10419-.73674.30028-1.05296.19609-.31621.47651-.57146.80972-.73704l8-4c.2766-.13742.5812-.20894.89-.20894.3088 0 .6134.07152.89.20894v0Z\" stroke=\"#000\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M2.32 6.16 12 11l9.68-4.84M12 22.76V11M7 3.5l10 5\" stroke=\"#000\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg>"
+                    },
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://www.npmjs.com/package/react-i18next"
+                    },
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "package",
+                        "value": "react-i18next"
+                    }
+                },
+                {
+                    "title": "react-bootstrap – Bootstrap 5 components built with React",
+                    "subtitle": [
+                        "29 Oct 2021",
+                        "Quality 89%",
+                        "Popularity 61%",
+                        "Maintenance 100%"
+                    ],
+                    "icon": {
+                        "monochrome": "<svg width=\"24\" height=\"24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"m12.89 1.45 8 4c.3332.16558.6136.42083.8097.73704.1961.31622.3001.68088.3003 1.05296v9.53c-.0002.3721-.1042.7367-.3003 1.053-.1961.3162-.4765.5714-.8097.737l-8 4c-.2779.139-.5843.2114-.895.2114s-.6171-.0724-.895-.2114l-8-4c-.33287-.1677-.61225-.4251-.80661-.7432-.19437-.318-.29598-.6841-.29339-1.0568V7.24c.0002-.37208.10419-.73674.30028-1.05296.19609-.31621.47651-.57146.80972-.73704l8-4c.2766-.13742.5812-.20894.89-.20894.3088 0 .6134.07152.89.20894v0Z\" stroke=\"#000\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M2.32 6.16 12 11l9.68-4.84M12 22.76V11M7 3.5l10 5\" stroke=\"#000\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg>"
+                    },
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://www.npmjs.com/package/react-bootstrap"
+                    },
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "package",
+                        "value": "react-bootstrap"
+                    }
+                },
+                {
+                    "title": "react-popper – Official library to use Popper on React projects",
+                    "subtitle": [
+                        "25 Mar 2021",
+                        "★2K",
+                        "Quality 95%",
+                        "Popularity 59%",
+                        "Maintenance 99%"
+                    ],
+                    "icon": {
+                        "monochrome": "<svg width=\"24\" height=\"24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"m12.89 1.45 8 4c.3332.16558.6136.42083.8097.73704.1961.31622.3001.68088.3003 1.05296v9.53c-.0002.3721-.1042.7367-.3003 1.053-.1961.3162-.4765.5714-.8097.737l-8 4c-.2779.139-.5843.2114-.895.2114s-.6171-.0724-.895-.2114l-8-4c-.33287-.1677-.61225-.4251-.80661-.7432-.19437-.318-.29598-.6841-.29339-1.0568V7.24c.0002-.37208.10419-.73674.30028-1.05296.19609-.31621.47651-.57146.80972-.73704l8-4c.2766-.13742.5812-.20894.89-.20894.3088 0 .6134.07152.89.20894v0Z\" stroke=\"#000\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M2.32 6.16 12 11l9.68-4.84M12 22.76V11M7 3.5l10 5\" stroke=\"#000\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg>"
+                    },
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://www.npmjs.com/package/react-popper"
+                    },
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "package",
+                        "value": "react-popper"
+                    }
+                },
+                {
+                    "title": "mobx-react – React bindings for MobX. Create fully reactive components.",
+                    "subtitle": [
+                        "11 Oct 2021",
+                        "★24K",
+                        "Quality 97%",
+                        "Popularity 57%",
+                        "Maintenance 100%"
+                    ],
+                    "icon": {
+                        "monochrome": "<svg width=\"24\" height=\"24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"m12.89 1.45 8 4c.3332.16558.6136.42083.8097.73704.1961.31622.3001.68088.3003 1.05296v9.53c-.0002.3721-.1042.7367-.3003 1.053-.1961.3162-.4765.5714-.8097.737l-8 4c-.2779.139-.5843.2114-.895.2114s-.6171-.0724-.895-.2114l-8-4c-.33287-.1677-.61225-.4251-.80661-.7432-.19437-.318-.29598-.6841-.29339-1.0568V7.24c.0002-.37208.10419-.73674.30028-1.05296.19609-.31621.47651-.57146.80972-.73704l8-4c.2766-.13742.5812-.20894.89-.20894.3088 0 .6134.07152.89.20894v0Z\" stroke=\"#000\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M2.32 6.16 12 11l9.68-4.84M12 22.76V11M7 3.5l10 5\" stroke=\"#000\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg>"
+                    },
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://www.npmjs.com/package/mobx-react"
+                    },
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "package",
+                        "value": "mobx-react"
+                    }
+                },
+                {
+                    "title": "@emotion/react – > Simple styling in React.",
+                    "subtitle": [
+                        "17 Oct 2021",
+                        "★13K",
+                        "Quality 91%",
+                        "Popularity 62%",
+                        "Maintenance 99%"
+                    ],
+                    "icon": {
+                        "monochrome": "<svg width=\"24\" height=\"24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"m12.89 1.45 8 4c.3332.16558.6136.42083.8097.73704.1961.31622.3001.68088.3003 1.05296v9.53c-.0002.3721-.1042.7367-.3003 1.053-.1961.3162-.4765.5714-.8097.737l-8 4c-.2779.139-.5843.2114-.895.2114s-.6171-.0724-.895-.2114l-8-4c-.33287-.1677-.61225-.4251-.80661-.7432-.19437-.318-.29598-.6841-.29339-1.0568V7.24c.0002-.37208.10419-.73674.30028-1.05296.19609-.31621.47651-.57146.80972-.73704l8-4c.2766-.13742.5812-.20894.89-.20894.3088 0 .6134.07152.89.20894v0Z\" stroke=\"#000\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M2.32 6.16 12 11l9.68-4.84M12 22.76V11M7 3.5l10 5\" stroke=\"#000\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg>"
+                    },
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://www.npmjs.com/package/%40emotion%2Freact"
+                    },
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "package",
+                        "value": "@emotion/react"
+                    }
+                },
+                {
+                    "title": "classnames – A simple utility for conditionally joining classNames together",
+                    "subtitle": [
+                        "2 Apr 2021",
+                        "★14K",
+                        "Quality 85%",
+                        "Popularity 82%",
+                        "Maintenance 100%"
+                    ],
+                    "icon": {
+                        "monochrome": "<svg width=\"24\" height=\"24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"m12.89 1.45 8 4c.3332.16558.6136.42083.8097.73704.1961.31622.3001.68088.3003 1.05296v9.53c-.0002.3721-.1042.7367-.3003 1.053-.1961.3162-.4765.5714-.8097.737l-8 4c-.2779.139-.5843.2114-.895.2114s-.6171-.0724-.895-.2114l-8-4c-.33287-.1677-.61225-.4251-.80661-.7432-.19437-.318-.29598-.6841-.29339-1.0568V7.24c.0002-.37208.10419-.73674.30028-1.05296.19609-.31621.47651-.57146.80972-.73704l8-4c.2766-.13742.5812-.20894.89-.20894.3088 0 .6134.07152.89.20894v0Z\" stroke=\"#000\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M2.32 6.16 12 11l9.68-4.84M12 22.76V11M7 3.5l10 5\" stroke=\"#000\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg>"
+                    },
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://www.npmjs.com/package/classnames"
+                    },
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "package",
+                        "value": "classnames"
+                    }
+                },
+                {
+                    "title": "@mdx-js/react – React implementation for MDX",
+                    "subtitle": [
+                        "1 Dec 2020",
+                        "★11K",
+                        "Quality 87%",
+                        "Popularity 62%",
+                        "Maintenance 100%"
+                    ],
+                    "icon": {
+                        "monochrome": "<svg width=\"24\" height=\"24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"m12.89 1.45 8 4c.3332.16558.6136.42083.8097.73704.1961.31622.3001.68088.3003 1.05296v9.53c-.0002.3721-.1042.7367-.3003 1.053-.1961.3162-.4765.5714-.8097.737l-8 4c-.2779.139-.5843.2114-.895.2114s-.6171-.0724-.895-.2114l-8-4c-.33287-.1677-.61225-.4251-.80661-.7432-.19437-.318-.29598-.6841-.29339-1.0568V7.24c.0002-.37208.10419-.73674.30028-1.05296.19609-.31621.47651-.57146.80972-.73704l8-4c.2766-.13742.5812-.20894.89-.20894.3088 0 .6134.07152.89.20894v0Z\" stroke=\"#000\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M2.32 6.16 12 11l9.68-4.84M12 22.76V11M7 3.5l10 5\" stroke=\"#000\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg>"
+                    },
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://www.npmjs.com/package/%40mdx-js%2Freact"
+                    },
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "package",
+                        "value": "@mdx-js/react"
+                    }
+                },
+                {
+                    "title": "eslint-plugin-react – React specific linting rules for ESLint",
+                    "subtitle": [
+                        "30 Sept 2021",
+                        "★7.3K",
+                        "Quality 95%",
+                        "Popularity 78%",
+                        "Maintenance 67%"
+                    ],
+                    "icon": {
+                        "monochrome": "<svg width=\"24\" height=\"24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"m12.89 1.45 8 4c.3332.16558.6136.42083.8097.73704.1961.31622.3001.68088.3003 1.05296v9.53c-.0002.3721-.1042.7367-.3003 1.053-.1961.3162-.4765.5714-.8097.737l-8 4c-.2779.139-.5843.2114-.895.2114s-.6171-.0724-.895-.2114l-8-4c-.33287-.1677-.61225-.4251-.80661-.7432-.19437-.318-.29598-.6841-.29339-1.0568V7.24c.0002-.37208.10419-.73674.30028-1.05296.19609-.31621.47651-.57146.80972-.73704l8-4c.2766-.13742.5812-.20894.89-.20894.3088 0 .6134.07152.89.20894v0Z\" stroke=\"#000\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M2.32 6.16 12 11l9.68-4.84M12 22.76V11M7 3.5l10 5\" stroke=\"#000\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg>"
+                    },
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://www.npmjs.com/package/eslint-plugin-react"
+                    },
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "package",
+                        "value": "eslint-plugin-react"
+                    }
+                },
+                {
+                    "title": "react-table – Hooks for building lightweight, fast and extendable datagrids for React",
+                    "subtitle": [
+                        "25 Apr 2021",
+                        "★14K",
+                        "Quality 98%",
+                        "Popularity 54%",
+                        "Maintenance 100%"
+                    ],
+                    "icon": {
+                        "monochrome": "<svg width=\"24\" height=\"24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"m12.89 1.45 8 4c.3332.16558.6136.42083.8097.73704.1961.31622.3001.68088.3003 1.05296v9.53c-.0002.3721-.1042.7367-.3003 1.053-.1961.3162-.4765.5714-.8097.737l-8 4c-.2779.139-.5843.2114-.895.2114s-.6171-.0724-.895-.2114l-8-4c-.33287-.1677-.61225-.4251-.80661-.7432-.19437-.318-.29598-.6841-.29339-1.0568V7.24c.0002-.37208.10419-.73674.30028-1.05296.19609-.31621.47651-.57146.80972-.73704l8-4c.2766-.13742.5812-.20894.89-.20894.3088 0 .6134.07152.89.20894v0Z\" stroke=\"#000\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M2.32 6.16 12 11l9.68-4.84M12 22.76V11M7 3.5l10 5\" stroke=\"#000\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg>"
+                    },
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://www.npmjs.com/package/react-table"
+                    },
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "package",
+                        "value": "react-table"
+                    }
+                },
+                {
+                    "title": "reselect – Selectors for Redux.",
+                    "subtitle": [
+                        "26 Oct 2021",
+                        "★18K",
+                        "Quality 96%",
+                        "Popularity 69%",
+                        "Maintenance 100%"
+                    ],
+                    "icon": {
+                        "monochrome": "<svg width=\"24\" height=\"24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"m12.89 1.45 8 4c.3332.16558.6136.42083.8097.73704.1961.31622.3001.68088.3003 1.05296v9.53c-.0002.3721-.1042.7367-.3003 1.053-.1961.3162-.4765.5714-.8097.737l-8 4c-.2779.139-.5843.2114-.895.2114s-.6171-.0724-.895-.2114l-8-4c-.33287-.1677-.61225-.4251-.80661-.7432-.19437-.318-.29598-.6841-.29339-1.0568V7.24c.0002-.37208.10419-.73674.30028-1.05296.19609-.31621.47651-.57146.80972-.73704l8-4c.2766-.13742.5812-.20894.89-.20894.3088 0 .6134.07152.89.20894v0Z\" stroke=\"#000\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M2.32 6.16 12 11l9.68-4.84M12 22.76V11M7 3.5l10 5\" stroke=\"#000\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg>"
+                    },
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://www.npmjs.com/package/reselect"
+                    },
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "package",
+                        "value": "reselect"
+                    }
+                },
+                {
+                    "title": "react-fast-compare – Fastest deep equal comparison for React. Great for React.memo & shouldComponentUpdate. Also really fast general-purpose deep comparison.",
+                    "subtitle": [
+                        "28 May 2020",
+                        "★1.1K",
+                        "Quality 100%",
+                        "Popularity 54%",
+                        "Maintenance 100%"
+                    ],
+                    "icon": {
+                        "monochrome": "<svg width=\"24\" height=\"24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"m12.89 1.45 8 4c.3332.16558.6136.42083.8097.73704.1961.31622.3001.68088.3003 1.05296v9.53c-.0002.3721-.1042.7367-.3003 1.053-.1961.3162-.4765.5714-.8097.737l-8 4c-.2779.139-.5843.2114-.895.2114s-.6171-.0724-.895-.2114l-8-4c-.33287-.1677-.61225-.4251-.80661-.7432-.19437-.318-.29598-.6841-.29339-1.0568V7.24c.0002-.37208.10419-.73674.30028-1.05296.19609-.31621.47651-.57146.80972-.73704l8-4c.2766-.13742.5812-.20894.89-.20894.3088 0 .6134.07152.89.20894v0Z\" stroke=\"#000\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M2.32 6.16 12 11l9.68-4.84M12 22.76V11M7 3.5l10 5\" stroke=\"#000\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg>"
+                    },
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://www.npmjs.com/package/react-fast-compare"
+                    },
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "package",
+                        "value": "react-fast-compare"
+                    }
+                },
+                {
+                    "title": "react-markdown – Render Markdown as React components",
+                    "subtitle": [
+                        "21 Oct 2021",
+                        "★7.8K",
+                        "Quality 96%",
+                        "Popularity 54%",
+                        "Maintenance 100%"
+                    ],
+                    "icon": {
+                        "monochrome": "<svg width=\"24\" height=\"24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"m12.89 1.45 8 4c.3332.16558.6136.42083.8097.73704.1961.31622.3001.68088.3003 1.05296v9.53c-.0002.3721-.1042.7367-.3003 1.053-.1961.3162-.4765.5714-.8097.737l-8 4c-.2779.139-.5843.2114-.895.2114s-.6171-.0724-.895-.2114l-8-4c-.33287-.1677-.61225-.4251-.80661-.7432-.19437-.318-.29598-.6841-.29339-1.0568V7.24c.0002-.37208.10419-.73674.30028-1.05296.19609-.31621.47651-.57146.80972-.73704l8-4c.2766-.13742.5812-.20894.89-.20894.3088 0 .6134.07152.89.20894v0Z\" stroke=\"#000\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M2.32 6.16 12 11l9.68-4.84M12 22.76V11M7 3.5l10 5\" stroke=\"#000\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg>"
+                    },
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://www.npmjs.com/package/react-markdown"
+                    },
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "package",
+                        "value": "react-markdown"
+                    }
+                },
+                {
+                    "title": "react-scripts – Configuration and scripts for Create React App.",
+                    "subtitle": [
+                        "22 Feb 2021",
+                        "★90K",
+                        "Quality 68%",
+                        "Popularity 77%",
+                        "Maintenance 92%"
+                    ],
+                    "icon": {
+                        "monochrome": "<svg width=\"24\" height=\"24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"m12.89 1.45 8 4c.3332.16558.6136.42083.8097.73704.1961.31622.3001.68088.3003 1.05296v9.53c-.0002.3721-.1042.7367-.3003 1.053-.1961.3162-.4765.5714-.8097.737l-8 4c-.2779.139-.5843.2114-.895.2114s-.6171-.0724-.895-.2114l-8-4c-.33287-.1677-.61225-.4251-.80661-.7432-.19437-.318-.29598-.6841-.29339-1.0568V7.24c.0002-.37208.10419-.73674.30028-1.05296.19609-.31621.47651-.57146.80972-.73704l8-4c.2766-.13742.5812-.20894.89-.20894.3088 0 .6134.07152.89.20894v0Z\" stroke=\"#000\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M2.32 6.16 12 11l9.68-4.84M12 22.76V11M7 3.5l10 5\" stroke=\"#000\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg>"
+                    },
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://www.npmjs.com/package/react-scripts"
+                    },
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "package",
+                        "value": "react-scripts"
+                    }
+                },
+                {
+                    "title": "react-query – Hooks for managing, caching and syncing asynchronous and remote data in React",
+                    "subtitle": [
+                        "6 Nov 2021",
+                        "★23K",
+                        "Quality 97%",
+                        "Popularity 55%",
+                        "Maintenance 100%"
+                    ],
+                    "icon": {
+                        "monochrome": "<svg width=\"24\" height=\"24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"m12.89 1.45 8 4c.3332.16558.6136.42083.8097.73704.1961.31622.3001.68088.3003 1.05296v9.53c-.0002.3721-.1042.7367-.3003 1.053-.1961.3162-.4765.5714-.8097.737l-8 4c-.2779.139-.5843.2114-.895.2114s-.6171-.0724-.895-.2114l-8-4c-.33287-.1677-.61225-.4251-.80661-.7432-.19437-.318-.29598-.6841-.29339-1.0568V7.24c.0002-.37208.10419-.73674.30028-1.05296.19609-.31621.47651-.57146.80972-.73704l8-4c.2766-.13742.5812-.20894.89-.20894.3088 0 .6134.07152.89.20894v0Z\" stroke=\"#000\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M2.32 6.16 12 11l9.68-4.84M12 22.76V11M7 3.5l10 5\" stroke=\"#000\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg>"
+                    },
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://www.npmjs.com/package/react-query"
+                    },
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "package",
+                        "value": "react-query"
+                    }
+                },
+                {
+                    "title": "@babel/plugin-transform-react-display-name – Add displayName to React.createClass calls",
+                    "subtitle": [
+                        "30 Jun 2020",
+                        "★37K",
+                        "Quality 96%",
+                        "Popularity 68%",
+                        "Maintenance 89%"
+                    ],
+                    "icon": {
+                        "monochrome": "<svg width=\"24\" height=\"24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"m12.89 1.45 8 4c.3332.16558.6136.42083.8097.73704.1961.31622.3001.68088.3003 1.05296v9.53c-.0002.3721-.1042.7367-.3003 1.053-.1961.3162-.4765.5714-.8097.737l-8 4c-.2779.139-.5843.2114-.895.2114s-.6171-.0724-.895-.2114l-8-4c-.33287-.1677-.61225-.4251-.80661-.7432-.19437-.318-.29598-.6841-.29339-1.0568V7.24c.0002-.37208.10419-.73674.30028-1.05296.19609-.31621.47651-.57146.80972-.73704l8-4c.2766-.13742.5812-.20894.89-.20894.3088 0 .6134.07152.89.20894v0Z\" stroke=\"#000\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M2.32 6.16 12 11l9.68-4.84M12 22.76V11M7 3.5l10 5\" stroke=\"#000\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg>"
+                    },
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://www.npmjs.com/package/%40babel%2Fplugin-transform-react-display-name"
+                    },
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "package",
+                        "value": "@babel/plugin-transform-react-display-name"
+                    }
+                },
+                {
+                    "title": "react-toastify – React notification made easy",
+                    "subtitle": [
+                        "24 Sept 2021",
+                        "★7.8K",
+                        "Quality 99%",
+                        "Popularity 51%",
+                        "Maintenance 100%"
+                    ],
+                    "icon": {
+                        "monochrome": "<svg width=\"24\" height=\"24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"m12.89 1.45 8 4c.3332.16558.6136.42083.8097.73704.1961.31622.3001.68088.3003 1.05296v9.53c-.0002.3721-.1042.7367-.3003 1.053-.1961.3162-.4765.5714-.8097.737l-8 4c-.2779.139-.5843.2114-.895.2114s-.6171-.0724-.895-.2114l-8-4c-.33287-.1677-.61225-.4251-.80661-.7432-.19437-.318-.29598-.6841-.29339-1.0568V7.24c.0002-.37208.10419-.73674.30028-1.05296.19609-.31621.47651-.57146.80972-.73704l8-4c.2766-.13742.5812-.20894.89-.20894.3088 0 .6134.07152.89.20894v0Z\" stroke=\"#000\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M2.32 6.16 12 11l9.68-4.84M12 22.76V11M7 3.5l10 5\" stroke=\"#000\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg>"
+                    },
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://www.npmjs.com/package/react-toastify"
+                    },
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "package",
+                        "value": "react-toastify"
+                    }
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,18 @@
+name = "Search NPM"
+description = "Quickly search for node packages on NPM."
+endpointURL = "https://www.taraszubyk.com/api/slapdash/search-npm"
+sourceCodeURL = "https://github.com/zuta/slapdash-commands/blob/master/api/slapdash/search-npm.ts"
+language = "typescript"
+categories = ["Developer Tools"]
+
+author.name = "Taras Zubyk"
+author.profileURL = "https://twitter.com/_zuta_"
+
+readme = """
+The command lets you search node packages from the [NPM Registry](https://www.npmjs.com/).
+
+It is built on top of the [npms API](https://npms.io/). In addition to Github Stars, each package will have the scores for Popularity, Quality and
+Maintenance. These should help you evaluate the health and freshness of the package. If you're curious how these scores are calculated check out npms [About Page](https://npms.io/about).
+
+Pressing `ENTER` will open a package on NPM, but if you want to jump to the package repository or its home page, press `TAB` and choose the option you want.
+"""

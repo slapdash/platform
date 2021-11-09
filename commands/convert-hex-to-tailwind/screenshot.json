@@ -1,0 +1,22 @@
+{
+    "keywords": "fff",
+    "response": {
+        "view": {
+            "ranking": false,
+            "type": "list",
+            "options": [
+                {
+                    "title": "Copy Tailwind: trueGray-50 ",
+                    "action": {
+                        "type": "copy",
+                        "value": "trueGray-50"
+                    },
+                    "subtitle": [
+                        "DeltaE: 1.73",
+                        "Perceptible through close observation"
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -10,10 +10,10 @@ author.name = "Tedis Agolli"
 author.profileURL = "https://twitter.com/TedisAgolli"
 
 readme = """
-Pass a valid hex color, e.g. #fff and the command will return the closest
-Tailwind preset; in this case true-gray-50
+Pass a valid hex color, e.g. `#fff` and the command will return the closest
+Tailwind preset; in this case `true-gray-50`.
 
 Below the color you will see the Delta-E, which is the difference between the two colors.
-There will also a plain language explanation of the Delta-E, such as "Perceptible through close observation".
-Here is a source explaining [Delta-E](http://zschuessler.github.io/DeltaE/learn/)
+There will also be a plain language explanation of the Delta-E, such as "Perceptible through close observation".
+Here is a source explaining [Delta-E](http://zschuessler.github.io/DeltaE/learn/).
 """

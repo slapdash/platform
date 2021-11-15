@@ -105,6 +105,7 @@ export interface Form {
   submitLabel?: string;
   cancelLabel?: string;
   method?: "get" | "post";
+  error?: string | null;
 }
 
 export type FormValues = {
@@ -183,7 +184,7 @@ export type Icon =
 //
 
 export interface Config {
-  form: Pick<Form, "fields">;
+  form: Pick<Form, "fields" | "error">;
 }
 
 //

@@ -1,3 +1,3 @@
-# Command Response
+# Command Response Types
 
-<https://developers.slapdash.com/reference/command-response>
+TypeScript types for the [Command Response specification](https://platform.slapdash.com/reference/command-response).

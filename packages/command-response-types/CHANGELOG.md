@@ -1,3 +1,7 @@
+### `1.0.5` — Nov 15, 2021
+
+- It's now possible to show a top-level error in the form view using the new `error` property.
+
 ### `1.0.4` — Oct 12, 2021
 
 ###### NEW

@@ -6,14 +6,15 @@ The delivery method depends on the type of your command. For [Local Commands](..
 
 ## Form
 
-Property `CommandResponse.view` of type `Form` allows to show a custom form in the Command Bar.
+Property `CommandResponse.view` of type `Form` allows showing a custom form in the Command Bar.
 
 * **type:** `"form"`
 * **fields:** An array of [FormField](command-response-view-form.md#formfield) objects. By default, each field will be displayed in a separate row. If you want some fields to be displayed in the same row – put them in a nested array, the available space will be evenly split between them. See examples below for more details.
-* **title:** Optional. Title of the form shown above it.
+* **title:** Optional. Title of the form.
 * **submitLabel:** Optional. Text label for the submit button.
 * **cancelLabel:** Optional. Text label for the cancel button.
-* **method:** Optional. `"get"` or `"post"` \(default\). HTTP request method that will be used to submit the form. This is only relevant to [Cloud Commands](../command-bar-101/cloud-commands.md).
+* **method:** Optional. `"get"` or `"post"` (default). HTTP request method that will be used to submit the form. This is only relevant to [Cloud Commands](../command-bar-101/cloud-commands.md).
+* **error**. Optional. The error message to show for the whole form.&#x20;
 
 {% tabs %}
 {% tab title="Simple form to order a drink" %}
@@ -187,7 +188,7 @@ Defines a field which lets the user easily select a date from a calendar style U
 * **defaultValue:** Optional. Default value for this field as a Date string.
 * **error:** Optional. If set, shows an error message under the field.
 * **helpText:** Optional. A Markdown text which will be displayed under the field.
-* **timeSelect:** Optional, `true` or `false` \(default\). Whether the field allows selecting the time too.
+* **timeSelect:** Optional, `true` or `false` (default). Whether the field allows selecting the time too.
 
 {% tabs %}
 {% tab title="Simple date field" %}
@@ -218,7 +219,7 @@ Defines a field that allows the user to select one or multiple options.
 * **label:** Label for the field.
 * **options:** A list of strings or [SelectOption](command-response-view-form.md#selectoption) objects that a user can select from.
 * **required:** Optional, `true` or `false`. Whether this field is required.
-* **defaultValue:** Optional. Default value for this field. If the field allows selecting multiple values \(see `multiple`\), an array of strings can be provided.
+* **defaultValue:** Optional. Default value for this field. If the field allows selecting multiple values (see `multiple`), an array of strings can be provided.
 * **error:** Optional. If set, shows an error message under the field.
 * **helpText:** Optional. A Markdown text which will be displayed under the field.
 * **multiple:** Optional, `true` or `false`. Whether the field allow selecting single or multiple options.
@@ -309,4 +310,3 @@ Allows to customize options for [SelectField](command-response-view-form.md#sele
 ```
 {% endtab %}
 {% endtabs %}
-

@@ -9,9 +9,9 @@ This example command will be written in JavaScript, but in practice, you can use
 ## **Create the Command**
 
 * Create an empty file with a `.js` extension (for example: `ahoy-world.js`)
-* Run **Create Command** in the Command Bar and choose **Custom**
+* Run **Create New Command** in the Command Bar and choose **Local Script**
+* Choose the file you created by pressing **Select File**
 * Give the command a name, for example, "Run Demo"
-* Choose **Script on my computer** as **Command Type** and select the file you created
 
 ## Do Something with the Command
 

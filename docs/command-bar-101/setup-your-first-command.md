@@ -6,20 +6,20 @@ There are [two types of commands](commands.md#local-vs-cloud-commands): **Local 
 
 This example command will be written in JavaScript, but in practice, you can use [whatever language](local-commands.md#language-support) you are comfortable with.
 
-## **Create Command**
+### Create Command
 
 * Create an empty file with a `.js` extension (for example: `ahoy-world.js`)
 * Run **Create New Command** in the Command Bar and choose **Local Script**
 * Choose the file you created by clicking the **Select File **button**.**
 * Give the command a name, for example, "Run Demo"
 
-## Do Something with the Command
+### Do Something with the Command
 
 For the Command to do something or show something in the Command Bar, it just needs to print some text. Specifically, the text needs to be JSON that matches the shape of the [Command Response Specification](../reference/command-response.md).
 
 The most basic thing a command can do is return an Action as the [Command Response](../reference/command-response.md). An Action just tells the Command Bar to do some operation and exit. The simplest one is to just open a URL.
 
-### **Make Your Command Open a URL**
+#### **Make Your Command Open a URL**
 
 ```javascript
 const response = {
@@ -35,7 +35,7 @@ console.log(JSON.stringify(response));
 
 Another type of Action is to add something to your clipboard. You can see other Actions in the [Command Response Reference](../reference/command-response-action.md).
 
-### **Make Your Command Add Some Text to Your Clipboard**
+#### **Make Your Command Add Some Text to Your Clipboard**
 
 ```javascript
 const response = {

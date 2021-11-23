@@ -10,7 +10,7 @@ This example command will be written in JavaScript, but in practice, you can use
 
 * Create an empty file with a `.js` extension (for example: `ahoy-world.js`)
 * Run **Create New Command** in the Command Bar and choose **Local Script**
-* Choose the file you created by pressing **Select File**
+* Choose the file you created by clicking the **Select File **button**.**
 * Give the command a name, for example, "Run Demo"
 
 ## Do Something with the Command

@@ -6,7 +6,7 @@ There are [two types of commands](commands.md#local-vs-cloud-commands): **Local 
 
 This example command will be written in JavaScript, but in practice, you can use [whatever language](local-commands.md#language-support) you are comfortable with.
 
-## **Create the Command**
+## **Create Command**
 
 * Create an empty file with a `.js` extension (for example: `ahoy-world.js`)
 * Run **Create New Command** in the Command Bar and choose **Local Script**

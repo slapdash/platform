@@ -304,6 +304,6 @@ If the first line looks like `#!/path/to/binary` or just `#!binary`, Slapdash ca
 
 If there is no shebang directive, Slapdash will try to infer the language binary from the file's extension. For example, if it's a `*.rb` file, Slapdash will look for the installed Ruby binary.
 
-For JavaScript and TypeScript scripts, when resolving relative binary paths, Slapdash will check the current directory's `node_modules/.bin` folder. This helps to run scripts that are part of some npm packages, so tools like `ts-node` can be easily found.
+For JavaScript and TypeScript scripts, Slapdash will check the current directory's `node_modules/.bin` folder (if it exists) to look for tools like `ts-node`.
 
 Finally, Slapdash will use the OS's `PATH` environment variable to resolve the binary.

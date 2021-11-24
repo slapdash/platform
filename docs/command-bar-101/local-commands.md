@@ -6,7 +6,7 @@ description: Commands that run scripts on your computer.
 
 Local commands are just scripts that run on your computer. Slapdash knows how to run scripts in the most popular languages.
 
-Even if Slapdash doesn't support your language out of the box, you can just [use shebang syntax](local-commands.md#locating-language-binaries), or create a bash wrapper to call into your program.
+Even if Slapdash doesn't support your language out of the box, you can just [use shebang syntax](../../templates/custom-shebang-not-bash.sh), or create a bash wrapper to call into your program.
 
 ## Create Local Command
 

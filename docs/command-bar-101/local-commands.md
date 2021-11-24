@@ -10,7 +10,7 @@ Even if Slapdash doesn't support your language out of the box, you can just use 
 
 ## Create Local Command
 
-To create a local command, run **Create Command** in the Command Bar, choose **Local Script** as a type, select the script file on your computer, give your command a name and press **Create Command**.
+To create a local command, run **Create New Command** in the Command Bar, choose **Local Script** as a type, select the script file on your computer, give your command a name and press **Create Command**.
 
 ![](../.gitbook/assets/cleanshot-2021-08-20-at-16.27.46.png)
 
@@ -32,11 +32,11 @@ In practice, you can use a shebang directive to point to an interpreter of your 
 
 ### AppleScript
 
-Support for AppleScript is baked into Mac OS. Just create a `my-command.applescript` file anywhere and start experimenting!
+Support for AppleScript is baked into macOS. Just create a `command.applescript` file anywhere and start experimenting!
 
 Here's an example of an AppleScript command which [toggles the Mac OS system dark mode](../command-tutorials/toggle-dark-mode.md).
 
-```
+```applescript
 #!/usr/bin/osascript
 
 tell application "System Events"
@@ -48,9 +48,13 @@ end tell
 
 ### JavaScript
 
-Slapdash runs JavaScript commands via [NodeJS](https://nodejs.org).
+Slapdash runs JavaScript commands using [Node](https://nodejs.org).&#x20;
+
+Here is an example of a JavaScript command that displays a list with two options:
 
 ```javascript
+// command.js
+
 const response = {
   view: {
     type: "list",
@@ -76,14 +80,25 @@ const response = {
 console.log(JSON.stringify(response));
 ```
 
+When you run the command in the Command Bar, Slapdash will execute the underlying script:
+
+```bash
+node command.js
+```
+
 ### TypeScript
 
-Slapdash runs TypeScript commands via [NodeJS](https://nodejs.org) and [ts-node](https://www.npmjs.com/package/ts-node) TypeScript utility.
+Slapdash runs TypeScript commands using [NodeJS](https://nodejs.org) and [ts-node](https://www.npmjs.com/package/ts-node).
 
-If you are developing your command inside a package, Slapdash will also look inside `node_modules` for the `ts-node` executable.
+If you are building a command inside some package, Slapdash will also look inside its `node_modules` for the `ts-node` executable. If it can't find `ts-node` there it will look for `ts-node` in the global node modules location on your computer.&#x20;
 
 ```typescript
-const response = {
+// command.ts
+
+// Optionally, import our npm package to get TS types for Command Response.
+import { CommandResponse } from "@slapdash/command-response-types";
+
+const response: CommandResponse = {
   view: {
     type: "list",
     options: [
@@ -106,6 +121,12 @@ const response = {
 };
 
 console.log(JSON.stringify(response));
+```
+
+When you run the command in the Command Bar, Slapdash will execute the underlying script:
+
+```bash
+ts-node command.ts
 ```
 
 ### Bash

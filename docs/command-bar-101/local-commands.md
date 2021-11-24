@@ -8,9 +8,9 @@ Local commands are just scripts that run on your computer. Slapdash knows how to
 
 Even if Slapdash doesn't support your language out of the box, you can just use shebang syntax, or create a bash wrapper to call into your program.
 
-### Create Local Command
+## Create Local Command
 
-To create a local command, run **Create Command** in the Command Bar, choose **Local Script** as a type,  select the script file on your computer, give your command a name and press **Create Command**.
+To create a local command, run **Create Command** in the Command Bar, choose **Local Script** as a type, select the script file on your computer, give your command a name and press **Create Command**.
 
 ![](../.gitbook/assets/cleanshot-2021-08-20-at-16.27.46.png)
 
@@ -36,7 +36,7 @@ Support for AppleScript is baked into Mac OS. Just create a `my-command.applescr
 
 Here's an example of an AppleScript command which [toggles the Mac OS system dark mode](../command-tutorials/toggle-dark-mode.md).
 
-```text
+```
 #!/usr/bin/osascript
 
 tell application "System Events"
@@ -48,7 +48,7 @@ end tell
 
 ### JavaScript
 
-Slapdash runs JavaScript commands via [NodeJS](https://nodejs.org). 
+Slapdash runs JavaScript commands via [NodeJS](https://nodejs.org).
 
 ```javascript
 const response = {
@@ -110,7 +110,7 @@ console.log(JSON.stringify(response));
 
 ### Bash
 
-You already have [bash](https://en.wikipedia.org/wiki/Bash_%28Unix_shell%29) \(or [zsh](https://en.wikipedia.org/wiki/Z_shell)\) on your Mac. No need to install anything. Just create e.g. `my-command.sh` file anywhere and start bashing:
+You already have [bash](https://en.wikipedia.org/wiki/Bash\_\(Unix\_shell\)) (or [zsh](https://en.wikipedia.org/wiki/Z\_shell)) on your Mac. No need to install anything. Just create e.g. `my-command.sh` file anywhere and start bashing:
 
 ```bash
 #!/bin/bash
@@ -170,11 +170,11 @@ print(json.dumps({
 }))
 ```
 
-You can use Python v2 too: just change the [shebang line](https://en.wikipedia.org/wiki/Shebang_%28Unix%29) to `#!python2` as usual.
+You can use Python v2 too: just change the [shebang line](https://en.wikipedia.org/wiki/Shebang\_\(Unix\)) to `#!python2` as usual.
 
 ### Ruby
 
-macOS should have Ruby pre-installed \(or you can install it with `brew install ruby`\). Put the following to e.g. `my-command.rb`:
+macOS should have Ruby pre-installed (or you can install it with `brew install ruby`). Put the following to e.g. `my-command.rb`:
 
 ```ruby
 #!/usr/bin/env ruby
@@ -269,7 +269,7 @@ echo json_encode([
 
 [PowerShell](https://en.wikipedia.org/wiki/PowerShell) is already pre-installed on Windows. Just create a file with a `.ps1` extension. Here's an example that will empty your recycling bin.
 
-```text
+```
 Clear-RecycleBin -Force
 ```
 
@@ -285,5 +285,4 @@ If there is no shebang directive, Slapdash will try to infer the language binary
 
 When resolving relative binary paths, Slapdash will check the current directory's `node_modules/.bin` folder. This is a bit of sugar for the JavaScript ecosystem, letting Slapdash find tools like `ts-node` that could be installed locally to the javascript package of the command.
 
-Finally, Slapdash will use the OS's `PATH` environment variable to resolve the binary. 
-
+Finally, Slapdash will use the OS's `PATH` environment variable to resolve the binary.

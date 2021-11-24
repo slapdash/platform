@@ -1,5 +1,5 @@
 ---
-description: Commands that are scripts that run on your computer.
+description: Scripts that run on your computer.
 ---
 
 # Local Commands

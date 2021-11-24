@@ -6,7 +6,7 @@ description: Commands that run scripts on your computer.
 
 Local commands are just scripts that run on your computer. Slapdash knows how to run scripts in the most popular languages.
 
-Even if Slapdash doesn't support your language out of the box, you can just use shebang syntax, or create a bash wrapper to call into your program.
+Even if Slapdash doesn't support your language out of the box, you can just [use shebang syntax](local-commands.md#locating-language-binaries), or create a bash wrapper to call into your program.
 
 ## Create Local Command
 
@@ -131,7 +131,7 @@ ts-node command.ts
 
 ### Bash
 
-You already have [bash](https://en.wikipedia.org/wiki/Bash\_\(Unix\_shell\)) (or [zsh](https://en.wikipedia.org/wiki/Z\_shell)) on your Mac. No need to install anything. Just create e.g. `my-command.sh` file anywhere and start bashing:
+You already have [bash](https://en.wikipedia.org/wiki/Bash\_\(Unix\_shell\)) (or [zsh](https://en.wikipedia.org/wiki/Z\_shell)) on your Mac. No need to install anything. Just create e.g. `command.sh` file anywhere and start bashing:
 
 ```bash
 #!/bin/bash
@@ -161,7 +161,7 @@ echo '{
 
 ### Python
 
-macOS has both Python v2 and Python v3 pre-installed, so you can just use it by default. Put the following to e.g. `my-command.py`:
+macOS has both Python v2 and Python v3 pre-installed, so you can just use it by default. Put the following to e.g. `command.py`:
 
 ```python
 #!python3
@@ -195,7 +195,7 @@ You can use Python v2 too: just change the [shebang line](https://en.wikipedia.o
 
 ### Ruby
 
-macOS should have Ruby pre-installed (or you can install it with `brew install ruby`). Put the following to e.g. `my-command.rb`:
+macOS should have Ruby pre-installed (or you can install it with `brew install ruby`). Put the following to e.g. `command.rb`:
 
 ```ruby
 #!/usr/bin/env ruby
@@ -226,7 +226,7 @@ print JSON.generate({
 
 ### Perl
 
-Perl is conveniently pre-installed on macOS. If you still remember how to write in Perl put the following to `my-command.pl`:
+Perl is conveniently pre-installed on macOS. If you still remember how to write in Perl put the following to `command.pl`:
 
 ```perl
 #!/usr/bin/perl -w
@@ -258,7 +258,7 @@ print encode_json({
 
 ### PHP
 
-Some version of PHP is pre-installed on macOS, so it should work out of the box. Put the following to e.g. `my-command.php`:
+Some version of PHP is pre-installed on macOS, so it should work out of the box. Put the following to e.g. `command.php`:
 
 ```php
 #!php
@@ -302,8 +302,8 @@ First, we check the first line of the script, the same way it's done in Unix-lik
 
 If the first line looks like `#!/path/to/binary` or just `#!binary`, Slapdash calls the referenced interpreter to execute the command.
 
-If there is no shebang directive, Slapdash will try to infer the language binary from the file's extension. For example, if it's a `*.rb` file, Slapdash will try to find the installed Ruby to run the command.
+If there is no shebang directive, Slapdash will try to infer the language binary from the file's extension. For example, if it's a `*.rb` file, Slapdash will look for the installed Ruby binary.
 
-When resolving relative binary paths, Slapdash will check the current directory's `node_modules/.bin` folder. This is a bit of sugar for the JavaScript ecosystem, letting Slapdash find tools like `ts-node` that could be installed locally to the javascript package of the command.
+For JavaScript and TypeScript scripts, when resolving relative binary paths, Slapdash will check the current directory's `node_modules/.bin` folder. This helps to run scripts that are part of some npm packages, so tools like `ts-node` can be easily found.
 
 Finally, Slapdash will use the OS's `PATH` environment variable to resolve the binary.

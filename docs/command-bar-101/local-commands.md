@@ -298,12 +298,7 @@ Clear-RecycleBin -Force
 
 When searching for a programming language binary to execute the command script, we use the following approach:
 
-First, we check the first line of the script, the same way it's done in Unix-like systems by looking for the shebang directive.
-
-If the first line looks like `#!/path/to/binary` or just `#!binary`, Slapdash calls the referenced interpreter to execute the command.
-
-If there is no shebang directive, Slapdash will try to infer the language binary from the file's extension. For example, if it's a `*.rb` file, Slapdash will look for the installed Ruby binary.
-
-For JavaScript and TypeScript scripts, Slapdash will check the current directory's `node_modules/.bin` folder (if it exists) to look for tools like `ts-node`.
-
-Finally, Slapdash will use the OS's `PATH` environment variable to resolve the binary.
+1. We check the first line of the script, the same way it's done in Unix-like systems by looking for the shebang directive. If the first line looks like `#!/path/to/binary` or just `#!binary`, Slapdash calls the referenced interpreter to execute the command.
+2. If there is no shebang directive, Slapdash will try to infer the language binary from the file's extension. For example, if it's a `*.rb` file, Slapdash will look for the installed Ruby binary.
+3. If the script is within an npm package (JavaScript/TypeScript), Slapdash will check the current directory's `node_modules/.bin` folder to look for tools like `ts-node`.
+4. Finally, Slapdash will use the OS's `PATH` environment variable to resolve the binary.

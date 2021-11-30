@@ -1,0 +1,18 @@
+name = "Github Stars"
+description = "Search across Github Repositories that you have starred before"
+endpointURL = "https://www.taraszubyk.com/api/slapdash/github-stars"
+sourceCodeURL = "https://github.com/zuta/slapdash-commands/blob/master/api/slapdash/github-stars.ts"
+
+language = "typescript"
+categories = ["Developer Tools"]
+
+author.name = "Taras Zubyk"
+author.profileURL = "https://twitter.com/_zuta_/"
+
+readme = """
+The command shows the last repositories you have starred on Github and allows you to quickly search across them.
+
+To use the command, you'll need to generate a [Github Personal Access Token](https://github.com/settings/tokens/new). When you run the command for the first time it will ask you to provide this access token.
+
+Press `ENTER` to open the repository on Github or press `TAB` to see more options (e.g. open the repo's homepage).
+"""

@@ -1,0 +1,16 @@
+name = "Clerk Docs"
+description = "Command to search through Clerk documentation and open them in your browser."
+endpointUrl = "https://slapcommands.deta.dev/docsearch/clerk"
+sourceCodeUrl = "https://github.com/AnishDe12020/slapcommands/blob/main/src/shared/docsearch/clerk-docs.js"
+language = "javascript"
+categories = ["Developer Tools", "Productivity", "Documentation"]
+
+author.name = "Anish De"
+author.profileUrl = "https://github.com/AnishDe12020"
+
+readme = """
+This command lets you search through the Clerk documentation and open it
+up on your browser.
+
+It is also available as a local command, details here - https://github.com/AnishDe12020/slapcommands
+"""

@@ -1,0 +1,16 @@
+name = "Chakra UI Docs"
+description = "Command to search through Chakra UI documentation and open them in your browser."
+endpointUrl = "https://slapcommands.deta.dev/docsearch/chakra-ui"
+sourceCodeUrl = "https://github.com/AnishDe12020/slapcommands/blob/main/src/shared/docsearch/chakra-ui-docs.js"
+language = "javascript"
+categories = ["Developer Tools", "Productivity", "Documentation"]
+
+author.name = "Anish De"
+author.profileUrl = "https://github.com/AnishDe12020"
+
+readme = """
+This command lets you search through the Chakra UI documentation and open it
+up on your browser.
+
+It is also available as a local command, details here - https://github.com/AnishDe12020/slapcommands
+"""

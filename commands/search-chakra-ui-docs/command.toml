@@ -1,4 +1,4 @@
-name = "Chakra UI Docs"
+name = "Search Chakra UI Docs"
 description = "Command to search through Chakra UI documentation and open them in your browser."
 endpointUrl = "https://slapcommands.deta.dev/docsearch/chakra-ui"
 sourceCodeUrl = "https://github.com/AnishDe12020/slapcommands/blob/main/src/shared/docsearch/chakra-ui-docs.js"

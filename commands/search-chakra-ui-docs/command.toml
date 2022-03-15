@@ -9,8 +9,9 @@ author.name = "Anish De"
 author.profileUrl = "https://github.com/AnishDe12020"
 
 readme = """
-This command lets you search through the Chakra UI documentation and open it
-up on your browser.
+This command lets you search through the [Chakra UI documentation](https://chakra-ui.com/guides/first-steps) and open it
+up on your browser. You can also copy the URL to the documentation and also
+paste the URL to the documentation to your current application.
 
 It is also available as a local command, details here - https://github.com/AnishDe12020/slapcommands
 """

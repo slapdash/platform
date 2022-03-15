@@ -1,0 +1,1 @@
+https://slapdash.com/commands/search-chakra-ui-docs

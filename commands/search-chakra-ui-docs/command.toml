@@ -1,6 +1,6 @@
 name = "Search Chakra UI Docs"
 description = "Command to search through Chakra UI documentation and open them in your browser."
-endpointUrl = "https://slapcommands.deta.dev/docsearch/chakra-ui"
+endpointUrl = "https://slapcommands.vercel.app/api/docsearch/chakra-ui"
 sourceCodeUrl = "https://github.com/AnishDe12020/slapcommands/blob/main/src/shared/docsearch/chakra-ui-docs.js"
 language = "javascript"
 categories = ["Developer Tools", "Productivity", "Documentation"]

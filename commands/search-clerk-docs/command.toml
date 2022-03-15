@@ -1,6 +1,6 @@
 name = "Search Clerk Docs"
 description = "Command to search through Clerk documentation and open them in your browser."
-endpointUrl = "https://slapcommands.deta.dev/docsearch/clerk"
+endpointUrl = "https://slapcommands.vercel.app/api/docsearch/clerk"
 sourceCodeUrl = "https://github.com/AnishDe12020/slapcommands/blob/main/src/shared/docsearch/clerk-docs.js"
 language = "javascript"
 categories = ["Developer Tools", "Productivity", "Documentation"]

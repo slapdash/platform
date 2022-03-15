@@ -1,6 +1,6 @@
 name = "Search Next.js Docs"
 description = "Command to search through Next.js documentation and open them in your browser."
-endpointUrl = "https://slapcommands.deta.dev/docsearch/nextjs"
+endpointUrl = "https://slapcommands.vercel.app/api/docsearch/next-js"
 sourceCodeUrl = "https://github.com/AnishDe12020/slapcommands/blob/main/src/shared/docsearch/nextjs-docs.js"
 language = "javascript"
 categories = ["Developer Tools", "Productivity", "Documentation"]

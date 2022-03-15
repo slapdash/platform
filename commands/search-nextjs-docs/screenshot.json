@@ -1,0 +1,1550 @@
+{
+    "keywords": "co",
+    "response": {
+        "view": {
+            "type": "list",
+            "options": [
+                {
+                    "title": "Adding Amp Components",
+                    "subtitle": "Advanced Features → Amp Support → Adding Amp Components",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://nextjs.org/docs/advanced-features/amp-support/adding-amp-components"
+                    },
+                    "icon": "https://nextjs.org/static/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Adding Amp Components&https://nextjs.org/docs/advanced-features/amp-support/adding-amp-components"
+                    }
+                },
+                {
+                    "title": "Amp In Static Html Export",
+                    "subtitle": "Advanced Features → Amp Support → Amp In Static Html Export",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://nextjs.org/docs/advanced-features/amp-support/amp-in-static-html-export"
+                    },
+                    "icon": "https://nextjs.org/static/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Amp In Static Html Export&https://nextjs.org/docs/advanced-features/amp-support/amp-in-static-html-export"
+                    }
+                },
+                {
+                    "title": "Amp Validation",
+                    "subtitle": "Advanced Features → Amp Support → Amp Validation",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://nextjs.org/docs/advanced-features/amp-support/amp-validation"
+                    },
+                    "icon": "https://nextjs.org/static/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Amp Validation&https://nextjs.org/docs/advanced-features/amp-support/amp-validation"
+                    }
+                },
+                {
+                    "title": "Introduction",
+                    "subtitle": "Advanced Features → Amp Support → Introduction",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://nextjs.org/docs/advanced-features/amp-support/introduction"
+                    },
+                    "icon": "https://nextjs.org/static/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Introduction&https://nextjs.org/docs/advanced-features/amp-support/introduction"
+                    }
+                },
+                {
+                    "title": "Typescript",
+                    "subtitle": "Advanced Features → Amp Support → Typescript",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://nextjs.org/docs/advanced-features/amp-support/typescript"
+                    },
+                    "icon": "https://nextjs.org/static/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Typescript&https://nextjs.org/docs/advanced-features/amp-support/typescript"
+                    }
+                },
+                {
+                    "title": "Automatic Static Optimization",
+                    "subtitle": "Advanced Features → Automatic Static Optimization",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://nextjs.org/docs/advanced-features/automatic-static-optimization"
+                    },
+                    "icon": "https://nextjs.org/static/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Automatic Static Optimization&https://nextjs.org/docs/advanced-features/automatic-static-optimization"
+                    }
+                },
+                {
+                    "title": "Codemods",
+                    "subtitle": "Advanced Features → Codemods",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://nextjs.org/docs/advanced-features/codemods"
+                    },
+                    "icon": "https://nextjs.org/static/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Codemods&https://nextjs.org/docs/advanced-features/codemods"
+                    }
+                },
+                {
+                    "title": "Compiler",
+                    "subtitle": "Advanced Features → Compiler",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://nextjs.org/docs/advanced-features/compiler"
+                    },
+                    "icon": "https://nextjs.org/static/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Compiler&https://nextjs.org/docs/advanced-features/compiler"
+                    }
+                },
+                {
+                    "title": "Custom App",
+                    "subtitle": "Advanced Features → Custom App",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://nextjs.org/docs/advanced-features/custom-app"
+                    },
+                    "icon": "https://nextjs.org/static/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Custom App&https://nextjs.org/docs/advanced-features/custom-app"
+                    }
+                },
+                {
+                    "title": "Custom Document",
+                    "subtitle": "Advanced Features → Custom Document",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://nextjs.org/docs/advanced-features/custom-document"
+                    },
+                    "icon": "https://nextjs.org/static/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Custom Document&https://nextjs.org/docs/advanced-features/custom-document"
+                    }
+                },
+                {
+                    "title": "Custom Error Page",
+                    "subtitle": "Advanced Features → Custom Error Page",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://nextjs.org/docs/advanced-features/custom-error-page"
+                    },
+                    "icon": "https://nextjs.org/static/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Custom Error Page&https://nextjs.org/docs/advanced-features/custom-error-page"
+                    }
+                },
+                {
+                    "title": "Custom Server",
+                    "subtitle": "Advanced Features → Custom Server",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://nextjs.org/docs/advanced-features/custom-server"
+                    },
+                    "icon": "https://nextjs.org/static/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Custom Server&https://nextjs.org/docs/advanced-features/custom-server"
+                    }
+                },
+                {
+                    "title": "Customizing Babel Config",
+                    "subtitle": "Advanced Features → Customizing Babel Config",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://nextjs.org/docs/advanced-features/customizing-babel-config"
+                    },
+                    "icon": "https://nextjs.org/static/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Customizing Babel Config&https://nextjs.org/docs/advanced-features/customizing-babel-config"
+                    }
+                },
+                {
+                    "title": "Customizing Postcss Config",
+                    "subtitle": "Advanced Features → Customizing Postcss Config",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://nextjs.org/docs/advanced-features/customizing-postcss-config"
+                    },
+                    "icon": "https://nextjs.org/static/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Customizing Postcss Config&https://nextjs.org/docs/advanced-features/customizing-postcss-config"
+                    }
+                },
+                {
+                    "title": "Debugging",
+                    "subtitle": "Advanced Features → Debugging",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://nextjs.org/docs/advanced-features/debugging"
+                    },
+                    "icon": "https://nextjs.org/static/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Debugging&https://nextjs.org/docs/advanced-features/debugging"
+                    }
+                },
+                {
+                    "title": "Dynamic Import",
+                    "subtitle": "Advanced Features → Dynamic Import",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://nextjs.org/docs/advanced-features/dynamic-import"
+                    },
+                    "icon": "https://nextjs.org/static/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Dynamic Import&https://nextjs.org/docs/advanced-features/dynamic-import"
+                    }
+                },
+                {
+                    "title": "Error Handling",
+                    "subtitle": "Advanced Features → Error Handling",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://nextjs.org/docs/advanced-features/error-handling"
+                    },
+                    "icon": "https://nextjs.org/static/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Error Handling&https://nextjs.org/docs/advanced-features/error-handling"
+                    }
+                },
+                {
+                    "title": "I18n Routing",
+                    "subtitle": "Advanced Features → I18n Routing",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://nextjs.org/docs/advanced-features/i18n-routing"
+                    },
+                    "icon": "https://nextjs.org/static/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "I18n Routing&https://nextjs.org/docs/advanced-features/i18n-routing"
+                    }
+                },
+                {
+                    "title": "Measuring Performance",
+                    "subtitle": "Advanced Features → Measuring Performance",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://nextjs.org/docs/advanced-features/measuring-performance"
+                    },
+                    "icon": "https://nextjs.org/static/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Measuring Performance&https://nextjs.org/docs/advanced-features/measuring-performance"
+                    }
+                },
+                {
+                    "title": "Module Path Aliases",
+                    "subtitle": "Advanced Features → Module Path Aliases",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://nextjs.org/docs/advanced-features/module-path-aliases"
+                    },
+                    "icon": "https://nextjs.org/static/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Module Path Aliases&https://nextjs.org/docs/advanced-features/module-path-aliases"
+                    }
+                },
+                {
+                    "title": "Multi Zones",
+                    "subtitle": "Advanced Features → Multi Zones",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://nextjs.org/docs/advanced-features/multi-zones"
+                    },
+                    "icon": "https://nextjs.org/static/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Multi Zones&https://nextjs.org/docs/advanced-features/multi-zones"
+                    }
+                },
+                {
+                    "title": "Output File Tracing",
+                    "subtitle": "Advanced Features → Output File Tracing",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://nextjs.org/docs/advanced-features/output-file-tracing"
+                    },
+                    "icon": "https://nextjs.org/static/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Output File Tracing&https://nextjs.org/docs/advanced-features/output-file-tracing"
+                    }
+                },
+                {
+                    "title": "Preview Mode",
+                    "subtitle": "Advanced Features → Preview Mode",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://nextjs.org/docs/advanced-features/preview-mode"
+                    },
+                    "icon": "https://nextjs.org/static/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Preview Mode&https://nextjs.org/docs/advanced-features/preview-mode"
+                    }
+                },
+                {
+                    "title": "Overview",
+                    "subtitle": "Advanced Features → React 18 → Overview",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://nextjs.org/docs/advanced-features/react-18/overview"
+                    },
+                    "icon": "https://nextjs.org/static/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Overview&https://nextjs.org/docs/advanced-features/react-18/overview"
+                    }
+                },
+                {
+                    "title": "Server Components",
+                    "subtitle": "Advanced Features → React 18 → Server Components",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://nextjs.org/docs/advanced-features/react-18/server-components"
+                    },
+                    "icon": "https://nextjs.org/static/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Server Components&https://nextjs.org/docs/advanced-features/react-18/server-components"
+                    }
+                },
+                {
+                    "title": "Streaming",
+                    "subtitle": "Advanced Features → React 18 → Streaming",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://nextjs.org/docs/advanced-features/react-18/streaming"
+                    },
+                    "icon": "https://nextjs.org/static/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Streaming&https://nextjs.org/docs/advanced-features/react-18/streaming"
+                    }
+                },
+                {
+                    "title": "Security Headers",
+                    "subtitle": "Advanced Features → Security Headers",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://nextjs.org/docs/advanced-features/security-headers"
+                    },
+                    "icon": "https://nextjs.org/static/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Security Headers&https://nextjs.org/docs/advanced-features/security-headers"
+                    }
+                },
+                {
+                    "title": "Source Maps",
+                    "subtitle": "Advanced Features → Source Maps",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://nextjs.org/docs/advanced-features/source-maps"
+                    },
+                    "icon": "https://nextjs.org/static/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Source Maps&https://nextjs.org/docs/advanced-features/source-maps"
+                    }
+                },
+                {
+                    "title": "Src Directory",
+                    "subtitle": "Advanced Features → Src Directory",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://nextjs.org/docs/advanced-features/src-directory"
+                    },
+                    "icon": "https://nextjs.org/static/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Src Directory&https://nextjs.org/docs/advanced-features/src-directory"
+                    }
+                },
+                {
+                    "title": "Static Html Export",
+                    "subtitle": "Advanced Features → Static Html Export",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://nextjs.org/docs/advanced-features/static-html-export"
+                    },
+                    "icon": "https://nextjs.org/static/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Static Html Export&https://nextjs.org/docs/advanced-features/static-html-export"
+                    }
+                },
+                {
+                    "title": "Using Mdx",
+                    "subtitle": "Advanced Features → Using Mdx",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://nextjs.org/docs/advanced-features/using-mdx"
+                    },
+                    "icon": "https://nextjs.org/static/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Using Mdx&https://nextjs.org/docs/advanced-features/using-mdx"
+                    }
+                },
+                {
+                    "title": "Cli",
+                    "subtitle": "Api Reference → Cli",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://nextjs.org/docs/api-reference/cli"
+                    },
+                    "icon": "https://nextjs.org/static/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Cli&https://nextjs.org/docs/api-reference/cli"
+                    }
+                },
+                {
+                    "title": "Create Next App",
+                    "subtitle": "Api Reference → Create Next App",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://nextjs.org/docs/api-reference/create-next-app"
+                    },
+                    "icon": "https://nextjs.org/static/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Create Next App&https://nextjs.org/docs/api-reference/create-next-app"
+                    }
+                },
+                {
+                    "title": "Get Initial Props",
+                    "subtitle": "Api Reference → Data Fetching → Get Initial Props",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://nextjs.org/docs/api-reference/data-fetching/get-initial-props"
+                    },
+                    "icon": "https://nextjs.org/static/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Get Initial Props&https://nextjs.org/docs/api-reference/data-fetching/get-initial-props"
+                    }
+                },
+                {
+                    "title": "Get Server Side Props",
+                    "subtitle": "Api Reference → Data Fetching → Get Server Side Props",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://nextjs.org/docs/api-reference/data-fetching/get-server-side-props"
+                    },
+                    "icon": "https://nextjs.org/static/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Get Server Side Props&https://nextjs.org/docs/api-reference/data-fetching/get-server-side-props"
+                    }
+                },
+                {
+                    "title": "Get Static Paths",
+                    "subtitle": "Api Reference → Data Fetching → Get Static Paths",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://nextjs.org/docs/api-reference/data-fetching/get-static-paths"
+                    },
+                    "icon": "https://nextjs.org/static/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Get Static Paths&https://nextjs.org/docs/api-reference/data-fetching/get-static-paths"
+                    }
+                },
+                {
+                    "title": "Get Static Props",
+                    "subtitle": "Api Reference → Data Fetching → Get Static Props",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://nextjs.org/docs/api-reference/data-fetching/get-static-props"
+                    },
+                    "icon": "https://nextjs.org/static/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Get Static Props&https://nextjs.org/docs/api-reference/data-fetching/get-static-props"
+                    }
+                },
+                {
+                    "title": "Edge Runtime",
+                    "subtitle": "Api Reference → Edge Runtime",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://nextjs.org/docs/api-reference/edge-runtime"
+                    },
+                    "icon": "https://nextjs.org/static/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Edge Runtime&https://nextjs.org/docs/api-reference/edge-runtime"
+                    }
+                },
+                {
+                    "title": "Basepath",
+                    "subtitle": "Api Reference → Next.config.js → Basepath",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://nextjs.org/docs/api-reference/next.config.js/basepath"
+                    },
+                    "icon": "https://nextjs.org/static/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Basepath&https://nextjs.org/docs/api-reference/next.config.js/basepath"
+                    }
+                },
+                {
+                    "title": "Build Indicator",
+                    "subtitle": "Api Reference → Next.config.js → Build Indicator",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://nextjs.org/docs/api-reference/next.config.js/build-indicator"
+                    },
+                    "icon": "https://nextjs.org/static/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Build Indicator&https://nextjs.org/docs/api-reference/next.config.js/build-indicator"
+                    }
+                },
+                {
+                    "title": "Cdn Support With Asset Prefix",
+                    "subtitle": "Api Reference → Next.config.js → Cdn Support With Asset Prefix",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://nextjs.org/docs/api-reference/next.config.js/cdn-support-with-asset-prefix"
+                    },
+                    "icon": "https://nextjs.org/static/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Cdn Support With Asset Prefix&https://nextjs.org/docs/api-reference/next.config.js/cdn-support-with-asset-prefix"
+                    }
+                },
+                {
+                    "title": "Compression",
+                    "subtitle": "Api Reference → Next.config.js → Compression",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://nextjs.org/docs/api-reference/next.config.js/compression"
+                    },
+                    "icon": "https://nextjs.org/static/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Compression&https://nextjs.org/docs/api-reference/next.config.js/compression"
+                    }
+                },
+                {
+                    "title": "Configuring OnDemandEntries",
+                    "subtitle": "Api Reference → Next.config.js → Configuring OnDemandEntries",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://nextjs.org/docs/api-reference/next.config.js/configuring-onDemandEntries"
+                    },
+                    "icon": "https://nextjs.org/static/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Configuring OnDemandEntries&https://nextjs.org/docs/api-reference/next.config.js/configuring-onDemandEntries"
+                    }
+                },
+                {
+                    "title": "Configuring The Build Id",
+                    "subtitle": "Api Reference → Next.config.js → Configuring The Build Id",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://nextjs.org/docs/api-reference/next.config.js/configuring-the-build-id"
+                    },
+                    "icon": "https://nextjs.org/static/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Configuring The Build Id&https://nextjs.org/docs/api-reference/next.config.js/configuring-the-build-id"
+                    }
+                },
+                {
+                    "title": "Custom Page Extensions",
+                    "subtitle": "Api Reference → Next.config.js → Custom Page Extensions",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://nextjs.org/docs/api-reference/next.config.js/custom-page-extensions"
+                    },
+                    "icon": "https://nextjs.org/static/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Custom Page Extensions&https://nextjs.org/docs/api-reference/next.config.js/custom-page-extensions"
+                    }
+                },
+                {
+                    "title": "Custom Webpack Config",
+                    "subtitle": "Api Reference → Next.config.js → Custom Webpack Config",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://nextjs.org/docs/api-reference/next.config.js/custom-webpack-config"
+                    },
+                    "icon": "https://nextjs.org/static/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Custom Webpack Config&https://nextjs.org/docs/api-reference/next.config.js/custom-webpack-config"
+                    }
+                },
+                {
+                    "title": "Disabling Etag Generation",
+                    "subtitle": "Api Reference → Next.config.js → Disabling Etag Generation",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://nextjs.org/docs/api-reference/next.config.js/disabling-etag-generation"
+                    },
+                    "icon": "https://nextjs.org/static/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Disabling Etag Generation&https://nextjs.org/docs/api-reference/next.config.js/disabling-etag-generation"
+                    }
+                },
+                {
+                    "title": "Disabling Http Keep Alive",
+                    "subtitle": "Api Reference → Next.config.js → Disabling Http Keep Alive",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://nextjs.org/docs/api-reference/next.config.js/disabling-http-keep-alive"
+                    },
+                    "icon": "https://nextjs.org/static/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Disabling Http Keep Alive&https://nextjs.org/docs/api-reference/next.config.js/disabling-http-keep-alive"
+                    }
+                },
+                {
+                    "title": "Disabling X Powered By",
+                    "subtitle": "Api Reference → Next.config.js → Disabling X Powered By",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://nextjs.org/docs/api-reference/next.config.js/disabling-x-powered-by"
+                    },
+                    "icon": "https://nextjs.org/static/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Disabling X Powered By&https://nextjs.org/docs/api-reference/next.config.js/disabling-x-powered-by"
+                    }
+                },
+                {
+                    "title": "Environment Variables",
+                    "subtitle": "Api Reference → Next.config.js → Environment Variables",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://nextjs.org/docs/api-reference/next.config.js/environment-variables"
+                    },
+                    "icon": "https://nextjs.org/static/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Environment Variables&https://nextjs.org/docs/api-reference/next.config.js/environment-variables"
+                    }
+                },
+                {
+                    "title": "ExportPathMap",
+                    "subtitle": "Api Reference → Next.config.js → ExportPathMap",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://nextjs.org/docs/api-reference/next.config.js/exportPathMap"
+                    },
+                    "icon": "https://nextjs.org/static/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "ExportPathMap&https://nextjs.org/docs/api-reference/next.config.js/exportPathMap"
+                    }
+                },
+                {
+                    "title": "Headers",
+                    "subtitle": "Api Reference → Next.config.js → Headers",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://nextjs.org/docs/api-reference/next.config.js/headers"
+                    },
+                    "icon": "https://nextjs.org/static/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Headers&https://nextjs.org/docs/api-reference/next.config.js/headers"
+                    }
+                },
+                {
+                    "title": "Ignoring Eslint",
+                    "subtitle": "Api Reference → Next.config.js → Ignoring Eslint",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://nextjs.org/docs/api-reference/next.config.js/ignoring-eslint"
+                    },
+                    "icon": "https://nextjs.org/static/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Ignoring Eslint&https://nextjs.org/docs/api-reference/next.config.js/ignoring-eslint"
+                    }
+                },
+                {
+                    "title": "Ignoring Typescript Errors",
+                    "subtitle": "Api Reference → Next.config.js → Ignoring Typescript Errors",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://nextjs.org/docs/api-reference/next.config.js/ignoring-typescript-errors"
+                    },
+                    "icon": "https://nextjs.org/static/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Ignoring Typescript Errors&https://nextjs.org/docs/api-reference/next.config.js/ignoring-typescript-errors"
+                    }
+                },
+                {
+                    "title": "Introduction",
+                    "subtitle": "Api Reference → Next.config.js → Introduction",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://nextjs.org/docs/api-reference/next.config.js/introduction"
+                    },
+                    "icon": "https://nextjs.org/static/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Introduction&https://nextjs.org/docs/api-reference/next.config.js/introduction"
+                    }
+                },
+                {
+                    "title": "React Strict Mode",
+                    "subtitle": "Api Reference → Next.config.js → React Strict Mode",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://nextjs.org/docs/api-reference/next.config.js/react-strict-mode"
+                    },
+                    "icon": "https://nextjs.org/static/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "React Strict Mode&https://nextjs.org/docs/api-reference/next.config.js/react-strict-mode"
+                    }
+                },
+                {
+                    "title": "Redirects",
+                    "subtitle": "Api Reference → Next.config.js → Redirects",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://nextjs.org/docs/api-reference/next.config.js/redirects"
+                    },
+                    "icon": "https://nextjs.org/static/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Redirects&https://nextjs.org/docs/api-reference/next.config.js/redirects"
+                    }
+                },
+                {
+                    "title": "Rewrites",
+                    "subtitle": "Api Reference → Next.config.js → Rewrites",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://nextjs.org/docs/api-reference/next.config.js/rewrites"
+                    },
+                    "icon": "https://nextjs.org/static/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Rewrites&https://nextjs.org/docs/api-reference/next.config.js/rewrites"
+                    }
+                },
+                {
+                    "title": "Runtime Configuration",
+                    "subtitle": "Api Reference → Next.config.js → Runtime Configuration",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://nextjs.org/docs/api-reference/next.config.js/runtime-configuration"
+                    },
+                    "icon": "https://nextjs.org/static/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Runtime Configuration&https://nextjs.org/docs/api-reference/next.config.js/runtime-configuration"
+                    }
+                },
+                {
+                    "title": "Setting A Custom Build Directory",
+                    "subtitle": "Api Reference → Next.config.js → Setting A Custom Build Directory",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://nextjs.org/docs/api-reference/next.config.js/setting-a-custom-build-directory"
+                    },
+                    "icon": "https://nextjs.org/static/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Setting A Custom Build Directory&https://nextjs.org/docs/api-reference/next.config.js/setting-a-custom-build-directory"
+                    }
+                },
+                {
+                    "title": "Static Optimization Indicator",
+                    "subtitle": "Api Reference → Next.config.js → Static Optimization Indicator",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://nextjs.org/docs/api-reference/next.config.js/static-optimization-indicator"
+                    },
+                    "icon": "https://nextjs.org/static/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Static Optimization Indicator&https://nextjs.org/docs/api-reference/next.config.js/static-optimization-indicator"
+                    }
+                },
+                {
+                    "title": "Trailing Slash",
+                    "subtitle": "Api Reference → Next.config.js → Trailing Slash",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://nextjs.org/docs/api-reference/next.config.js/trailing-slash"
+                    },
+                    "icon": "https://nextjs.org/static/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Trailing Slash&https://nextjs.org/docs/api-reference/next.config.js/trailing-slash"
+                    }
+                },
+                {
+                    "title": "Url Imports",
+                    "subtitle": "Api Reference → Next.config.js → Url Imports",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://nextjs.org/docs/api-reference/next.config.js/url-imports"
+                    },
+                    "icon": "https://nextjs.org/static/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Url Imports&https://nextjs.org/docs/api-reference/next.config.js/url-imports"
+                    }
+                },
+                {
+                    "title": "Amp",
+                    "subtitle": "Api Reference → Next → Amp",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://nextjs.org/docs/api-reference/next/amp"
+                    },
+                    "icon": "https://nextjs.org/static/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Amp&https://nextjs.org/docs/api-reference/next/amp"
+                    }
+                },
+                {
+                    "title": "Head",
+                    "subtitle": "Api Reference → Next → Head",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://nextjs.org/docs/api-reference/next/head"
+                    },
+                    "icon": "https://nextjs.org/static/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Head&https://nextjs.org/docs/api-reference/next/head"
+                    }
+                },
+                {
+                    "title": "Image",
+                    "subtitle": "Api Reference → Next → Image",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://nextjs.org/docs/api-reference/next/image"
+                    },
+                    "icon": "https://nextjs.org/static/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Image&https://nextjs.org/docs/api-reference/next/image"
+                    }
+                },
+                {
+                    "title": "Link",
+                    "subtitle": "Api Reference → Next → Link",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://nextjs.org/docs/api-reference/next/link"
+                    },
+                    "icon": "https://nextjs.org/static/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Link&https://nextjs.org/docs/api-reference/next/link"
+                    }
+                },
+                {
+                    "title": "Router",
+                    "subtitle": "Api Reference → Next → Router",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://nextjs.org/docs/api-reference/next/router"
+                    },
+                    "icon": "https://nextjs.org/static/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Router&https://nextjs.org/docs/api-reference/next/router"
+                    }
+                },
+                {
+                    "title": "Script",
+                    "subtitle": "Api Reference → Next → Script",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://nextjs.org/docs/api-reference/next/script"
+                    },
+                    "icon": "https://nextjs.org/static/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Script&https://nextjs.org/docs/api-reference/next/script"
+                    }
+                },
+                {
+                    "title": "Server",
+                    "subtitle": "Api Reference → Next → Server",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://nextjs.org/docs/api-reference/next/server"
+                    },
+                    "icon": "https://nextjs.org/static/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Server&https://nextjs.org/docs/api-reference/next/server"
+                    }
+                },
+                {
+                    "title": "Streaming",
+                    "subtitle": "Api Reference → Next → Streaming",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://nextjs.org/docs/api-reference/next/streaming"
+                    },
+                    "icon": "https://nextjs.org/static/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Streaming&https://nextjs.org/docs/api-reference/next/streaming"
+                    }
+                },
+                {
+                    "title": "Api Middlewares",
+                    "subtitle": "Api Routes → Api Middlewares",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://nextjs.org/docs/api-routes/api-middlewares"
+                    },
+                    "icon": "https://nextjs.org/static/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Api Middlewares&https://nextjs.org/docs/api-routes/api-middlewares"
+                    }
+                },
+                {
+                    "title": "Dynamic Api Routes",
+                    "subtitle": "Api Routes → Dynamic Api Routes",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://nextjs.org/docs/api-routes/dynamic-api-routes"
+                    },
+                    "icon": "https://nextjs.org/static/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Dynamic Api Routes&https://nextjs.org/docs/api-routes/dynamic-api-routes"
+                    }
+                },
+                {
+                    "title": "Introduction",
+                    "subtitle": "Api Routes → Introduction",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://nextjs.org/docs/api-routes/introduction"
+                    },
+                    "icon": "https://nextjs.org/static/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Introduction&https://nextjs.org/docs/api-routes/introduction"
+                    }
+                },
+                {
+                    "title": "Response Helpers",
+                    "subtitle": "Api Routes → Response Helpers",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://nextjs.org/docs/api-routes/response-helpers"
+                    },
+                    "icon": "https://nextjs.org/static/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Response Helpers&https://nextjs.org/docs/api-routes/response-helpers"
+                    }
+                },
+                {
+                    "title": "Authentication",
+                    "subtitle": "Authentication",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://nextjs.org/docs/authentication"
+                    },
+                    "icon": "https://nextjs.org/static/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Authentication&https://nextjs.org/docs/authentication"
+                    }
+                },
+                {
+                    "title": "Built In Css Support",
+                    "subtitle": "Basic Features → Built In Css Support",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://nextjs.org/docs/basic-features/built-in-css-support"
+                    },
+                    "icon": "https://nextjs.org/static/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Built In Css Support&https://nextjs.org/docs/basic-features/built-in-css-support"
+                    }
+                },
+                {
+                    "title": "Client Side",
+                    "subtitle": "Basic Features → Data Fetching → Client Side",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://nextjs.org/docs/basic-features/data-fetching/client-side"
+                    },
+                    "icon": "https://nextjs.org/static/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Client Side&https://nextjs.org/docs/basic-features/data-fetching/client-side"
+                    }
+                },
+                {
+                    "title": "Get Server Side Props",
+                    "subtitle": "Basic Features → Data Fetching → Get Server Side Props",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://nextjs.org/docs/basic-features/data-fetching/get-server-side-props"
+                    },
+                    "icon": "https://nextjs.org/static/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Get Server Side Props&https://nextjs.org/docs/basic-features/data-fetching/get-server-side-props"
+                    }
+                },
+                {
+                    "title": "Get Static Paths",
+                    "subtitle": "Basic Features → Data Fetching → Get Static Paths",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://nextjs.org/docs/basic-features/data-fetching/get-static-paths"
+                    },
+                    "icon": "https://nextjs.org/static/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Get Static Paths&https://nextjs.org/docs/basic-features/data-fetching/get-static-paths"
+                    }
+                },
+                {
+                    "title": "Get Static Props",
+                    "subtitle": "Basic Features → Data Fetching → Get Static Props",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://nextjs.org/docs/basic-features/data-fetching/get-static-props"
+                    },
+                    "icon": "https://nextjs.org/static/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Get Static Props&https://nextjs.org/docs/basic-features/data-fetching/get-static-props"
+                    }
+                },
+                {
+                    "title": "Incremental Static Regeneration",
+                    "subtitle": "Basic Features → Data Fetching → Incremental Static Regeneration",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://nextjs.org/docs/basic-features/data-fetching/incremental-static-regeneration"
+                    },
+                    "icon": "https://nextjs.org/static/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Incremental Static Regeneration&https://nextjs.org/docs/basic-features/data-fetching/incremental-static-regeneration"
+                    }
+                },
+                {
+                    "title": "Overview",
+                    "subtitle": "Basic Features → Data Fetching → Overview",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://nextjs.org/docs/basic-features/data-fetching/overview"
+                    },
+                    "icon": "https://nextjs.org/static/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Overview&https://nextjs.org/docs/basic-features/data-fetching/overview"
+                    }
+                },
+                {
+                    "title": "Environment Variables",
+                    "subtitle": "Basic Features → Environment Variables",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://nextjs.org/docs/basic-features/environment-variables"
+                    },
+                    "icon": "https://nextjs.org/static/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Environment Variables&https://nextjs.org/docs/basic-features/environment-variables"
+                    }
+                },
+                {
+                    "title": "Eslint",
+                    "subtitle": "Basic Features → Eslint",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://nextjs.org/docs/basic-features/eslint"
+                    },
+                    "icon": "https://nextjs.org/static/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Eslint&https://nextjs.org/docs/basic-features/eslint"
+                    }
+                },
+                {
+                    "title": "Fast Refresh",
+                    "subtitle": "Basic Features → Fast Refresh",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://nextjs.org/docs/basic-features/fast-refresh"
+                    },
+                    "icon": "https://nextjs.org/static/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Fast Refresh&https://nextjs.org/docs/basic-features/fast-refresh"
+                    }
+                },
+                {
+                    "title": "Font Optimization",
+                    "subtitle": "Basic Features → Font Optimization",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://nextjs.org/docs/basic-features/font-optimization"
+                    },
+                    "icon": "https://nextjs.org/static/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Font Optimization&https://nextjs.org/docs/basic-features/font-optimization"
+                    }
+                },
+                {
+                    "title": "Image Optimization",
+                    "subtitle": "Basic Features → Image Optimization",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://nextjs.org/docs/basic-features/image-optimization"
+                    },
+                    "icon": "https://nextjs.org/static/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Image Optimization&https://nextjs.org/docs/basic-features/image-optimization"
+                    }
+                },
+                {
+                    "title": "Layouts",
+                    "subtitle": "Basic Features → Layouts",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://nextjs.org/docs/basic-features/layouts"
+                    },
+                    "icon": "https://nextjs.org/static/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Layouts&https://nextjs.org/docs/basic-features/layouts"
+                    }
+                },
+                {
+                    "title": "Pages",
+                    "subtitle": "Basic Features → Pages",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://nextjs.org/docs/basic-features/pages"
+                    },
+                    "icon": "https://nextjs.org/static/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Pages&https://nextjs.org/docs/basic-features/pages"
+                    }
+                },
+                {
+                    "title": "Script",
+                    "subtitle": "Basic Features → Script",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://nextjs.org/docs/basic-features/script"
+                    },
+                    "icon": "https://nextjs.org/static/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Script&https://nextjs.org/docs/basic-features/script"
+                    }
+                },
+                {
+                    "title": "Static File Serving",
+                    "subtitle": "Basic Features → Static File Serving",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://nextjs.org/docs/basic-features/static-file-serving"
+                    },
+                    "icon": "https://nextjs.org/static/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Static File Serving&https://nextjs.org/docs/basic-features/static-file-serving"
+                    }
+                },
+                {
+                    "title": "Supported Browsers Features",
+                    "subtitle": "Basic Features → Supported Browsers Features",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://nextjs.org/docs/basic-features/supported-browsers-features"
+                    },
+                    "icon": "https://nextjs.org/static/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Supported Browsers Features&https://nextjs.org/docs/basic-features/supported-browsers-features"
+                    }
+                },
+                {
+                    "title": "Typescript",
+                    "subtitle": "Basic Features → Typescript",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://nextjs.org/docs/basic-features/typescript"
+                    },
+                    "icon": "https://nextjs.org/static/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Typescript&https://nextjs.org/docs/basic-features/typescript"
+                    }
+                },
+                {
+                    "title": "Deployment",
+                    "subtitle": "Deployment",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://nextjs.org/docs/deployment"
+                    },
+                    "icon": "https://nextjs.org/static/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Deployment&https://nextjs.org/docs/deployment"
+                    }
+                },
+                {
+                    "title": "Faq",
+                    "subtitle": "Faq",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://nextjs.org/docs/faq"
+                    },
+                    "icon": "https://nextjs.org/static/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Faq&https://nextjs.org/docs/faq"
+                    }
+                },
+                {
+                    "title": "Getting Started",
+                    "subtitle": "Getting Started",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://nextjs.org/docs/getting-started"
+                    },
+                    "icon": "https://nextjs.org/static/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Getting Started&https://nextjs.org/docs/getting-started"
+                    }
+                },
+                {
+                    "title": "Going To Production",
+                    "subtitle": "Going To Production",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://nextjs.org/docs/going-to-production"
+                    },
+                    "icon": "https://nextjs.org/static/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Going To Production&https://nextjs.org/docs/going-to-production"
+                    }
+                },
+                {
+                    "title": "Building Forms",
+                    "subtitle": "Guides → Building Forms",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://nextjs.org/docs/guides/building-forms"
+                    },
+                    "icon": "https://nextjs.org/static/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Building Forms&https://nextjs.org/docs/guides/building-forms"
+                    }
+                },
+                {
+                    "title": "Middleware",
+                    "subtitle": "Middleware",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://nextjs.org/docs/middleware"
+                    },
+                    "icon": "https://nextjs.org/static/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Middleware&https://nextjs.org/docs/middleware"
+                    }
+                },
+                {
+                    "title": "From Create React App",
+                    "subtitle": "Migrating → From Create React App",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://nextjs.org/docs/migrating/from-create-react-app"
+                    },
+                    "icon": "https://nextjs.org/static/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "From Create React App&https://nextjs.org/docs/migrating/from-create-react-app"
+                    }
+                },
+                {
+                    "title": "From Gatsby",
+                    "subtitle": "Migrating → From Gatsby",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://nextjs.org/docs/migrating/from-gatsby"
+                    },
+                    "icon": "https://nextjs.org/static/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "From Gatsby&https://nextjs.org/docs/migrating/from-gatsby"
+                    }
+                },
+                {
+                    "title": "From React Router",
+                    "subtitle": "Migrating → From React Router",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://nextjs.org/docs/migrating/from-react-router"
+                    },
+                    "icon": "https://nextjs.org/static/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "From React Router&https://nextjs.org/docs/migrating/from-react-router"
+                    }
+                },
+                {
+                    "title": "Incremental Adoption",
+                    "subtitle": "Migrating → Incremental Adoption",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://nextjs.org/docs/migrating/incremental-adoption"
+                    },
+                    "icon": "https://nextjs.org/static/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Incremental Adoption&https://nextjs.org/docs/migrating/incremental-adoption"
+                    }
+                },
+                {
+                    "title": "Dynamic Routes",
+                    "subtitle": "Routing → Dynamic Routes",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://nextjs.org/docs/routing/dynamic-routes"
+                    },
+                    "icon": "https://nextjs.org/static/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Dynamic Routes&https://nextjs.org/docs/routing/dynamic-routes"
+                    }
+                },
+                {
+                    "title": "Imperatively",
+                    "subtitle": "Routing → Imperatively",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://nextjs.org/docs/routing/imperatively"
+                    },
+                    "icon": "https://nextjs.org/static/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Imperatively&https://nextjs.org/docs/routing/imperatively"
+                    }
+                },
+                {
+                    "title": "Introduction",
+                    "subtitle": "Routing → Introduction",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://nextjs.org/docs/routing/introduction"
+                    },
+                    "icon": "https://nextjs.org/static/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Introduction&https://nextjs.org/docs/routing/introduction"
+                    }
+                },
+                {
+                    "title": "Shallow Routing",
+                    "subtitle": "Routing → Shallow Routing",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://nextjs.org/docs/routing/shallow-routing"
+                    },
+                    "icon": "https://nextjs.org/static/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Shallow Routing&https://nextjs.org/docs/routing/shallow-routing"
+                    }
+                },
+                {
+                    "title": "Testing",
+                    "subtitle": "Testing",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://nextjs.org/docs/testing"
+                    },
+                    "icon": "https://nextjs.org/static/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Testing&https://nextjs.org/docs/testing"
+                    }
+                },
+                {
+                    "title": "Upgrading",
+                    "subtitle": "Upgrading",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://nextjs.org/docs/upgrading"
+                    },
+                    "icon": "https://nextjs.org/static/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Upgrading&https://nextjs.org/docs/upgrading"
+                    }
+                }
+            ]
+        }
+    }
+}

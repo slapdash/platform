@@ -1,0 +1,2040 @@
+{
+    "keywords": "lo",
+    "response": {
+        "view": {
+            "type": "list",
+            "options": [
+                {
+                    "title": "Authenticate With Redirect Callback",
+                    "subtitle": "Components → Control Components → Authenticate With Redirect Callback",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/components/control-components/authenticate-with-redirect-callback"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Authenticate With Redirect Callback&https://docs.clerk.dev/components/control-components/authenticate-with-redirect-callback"
+                    }
+                },
+                {
+                    "title": "Clerk Loaded",
+                    "subtitle": "Components → Control Components → Clerk Loaded",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/components/control-components/clerk-loaded"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Clerk Loaded&https://docs.clerk.dev/components/control-components/clerk-loaded"
+                    }
+                },
+                {
+                    "title": "Clerk Loading",
+                    "subtitle": "Components → Control Components → Clerk Loading",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/components/control-components/clerk-loading"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Clerk Loading&https://docs.clerk.dev/components/control-components/clerk-loading"
+                    }
+                },
+                {
+                    "title": "Customization",
+                    "subtitle": "Components → Customization",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/components/customization"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Customization&https://docs.clerk.dev/components/customization"
+                    }
+                },
+                {
+                    "title": "Introduction",
+                    "subtitle": "Components → Introduction",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/components/introduction"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Introduction&https://docs.clerk.dev/components/introduction"
+                    }
+                },
+                {
+                    "title": "Sign In With Metamask Button",
+                    "subtitle": "Components → Sign In With Metamask Button",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/components/sign-in-with-metamask-button"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Sign In With Metamask Button&https://docs.clerk.dev/components/sign-in-with-metamask-button"
+                    }
+                },
+                {
+                    "title": "Redirect To Sign In",
+                    "subtitle": "Components → Sign In → Redirect To Sign In",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/components/sign-in/redirect-to-sign-in"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Redirect To Sign In&https://docs.clerk.dev/components/sign-in/redirect-to-sign-in"
+                    }
+                },
+                {
+                    "title": "Sign In Button",
+                    "subtitle": "Components → Sign In → Sign In Button",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/components/sign-in/sign-in-button"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Sign In Button&https://docs.clerk.dev/components/sign-in/sign-in-button"
+                    }
+                },
+                {
+                    "title": "Sign In",
+                    "subtitle": "Components → Sign In → Sign In",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/components/sign-in/sign-in"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Sign In&https://docs.clerk.dev/components/sign-in/sign-in"
+                    }
+                },
+                {
+                    "title": "Redirect To Sign Up",
+                    "subtitle": "Components → Sign Up → Redirect To Sign Up",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/components/sign-up/redirect-to-sign-up"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Redirect To Sign Up&https://docs.clerk.dev/components/sign-up/redirect-to-sign-up"
+                    }
+                },
+                {
+                    "title": "Sign Up Button",
+                    "subtitle": "Components → Sign Up → Sign Up Button",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/components/sign-up/sign-up-button"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Sign Up Button&https://docs.clerk.dev/components/sign-up/sign-up-button"
+                    }
+                },
+                {
+                    "title": "Sign Up",
+                    "subtitle": "Components → Sign Up → Sign Up",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/components/sign-up/sign-up"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Sign Up&https://docs.clerk.dev/components/sign-up/sign-up"
+                    }
+                },
+                {
+                    "title": "Signed In",
+                    "subtitle": "Components → Signed In",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/components/signed-in"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Signed In&https://docs.clerk.dev/components/signed-in"
+                    }
+                },
+                {
+                    "title": "Signed Out",
+                    "subtitle": "Components → Signed Out",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/components/signed-out"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Signed Out&https://docs.clerk.dev/components/signed-out"
+                    }
+                },
+                {
+                    "title": "User Button",
+                    "subtitle": "Components → User Button",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/components/user-button"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "User Button&https://docs.clerk.dev/components/user-button"
+                    }
+                },
+                {
+                    "title": "Redirect To User Profile",
+                    "subtitle": "Components → User Profile → Redirect To User Profile",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/components/user-profile/redirect-to-user-profile"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Redirect To User Profile&https://docs.clerk.dev/components/user-profile/redirect-to-user-profile"
+                    }
+                },
+                {
+                    "title": "User Profile",
+                    "subtitle": "Components → User Profile → User Profile",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/components/user-profile/user-profile"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "User Profile&https://docs.clerk.dev/components/user-profile/user-profile"
+                    }
+                },
+                {
+                    "title": "Create React App",
+                    "subtitle": "Get Started → Create React App",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/get-started/create-react-app"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Create React App&https://docs.clerk.dev/get-started/create-react-app"
+                    }
+                },
+                {
+                    "title": "Get Started With Gatsby",
+                    "subtitle": "Get Started → Get Started With Gatsby",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/get-started/get-started-with-gatsby"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Get Started With Gatsby&https://docs.clerk.dev/get-started/get-started-with-gatsby"
+                    }
+                },
+                {
+                    "title": "Get Started With Web3",
+                    "subtitle": "Get Started → Get Started With Web3",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/get-started/get-started-with-web3"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Get Started With Web3&https://docs.clerk.dev/get-started/get-started-with-web3"
+                    }
+                },
+                {
+                    "title": "Nextjs Api",
+                    "subtitle": "Get Started → Nextjs Api",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/get-started/nextjs-api"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Nextjs Api&https://docs.clerk.dev/get-started/nextjs-api"
+                    }
+                },
+                {
+                    "title": "Nextjs",
+                    "subtitle": "Get Started → Nextjs",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/get-started/nextjs"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Nextjs&https://docs.clerk.dev/get-started/nextjs"
+                    }
+                },
+                {
+                    "title": "Redwoodjs",
+                    "subtitle": "Get Started → Redwoodjs",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/get-started/redwoodjs"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Redwoodjs&https://docs.clerk.dev/get-started/redwoodjs"
+                    }
+                },
+                {
+                    "title": "Remix",
+                    "subtitle": "Get Started → Remix",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/get-started/remix"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Remix&https://docs.clerk.dev/get-started/remix"
+                    }
+                },
+                {
+                    "title": "Bubble.io Beta",
+                    "subtitle": "Integrations → Bubble.io Beta",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/integrations/bubble.io-beta"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Bubble.io Beta&https://docs.clerk.dev/integrations/bubble.io-beta"
+                    }
+                },
+                {
+                    "title": "Fauna",
+                    "subtitle": "Integrations → Fauna",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/integrations/fauna"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Fauna&https://docs.clerk.dev/integrations/fauna"
+                    }
+                },
+                {
+                    "title": "Firebase",
+                    "subtitle": "Integrations → Firebase",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/integrations/firebase"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Firebase&https://docs.clerk.dev/integrations/firebase"
+                    }
+                },
+                {
+                    "title": "Google Analytics",
+                    "subtitle": "Integrations → Google Analytics",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/integrations/google-analytics"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Google Analytics&https://docs.clerk.dev/integrations/google-analytics"
+                    }
+                },
+                {
+                    "title": "Hasura",
+                    "subtitle": "Integrations → Hasura",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/integrations/hasura"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Hasura&https://docs.clerk.dev/integrations/hasura"
+                    }
+                },
+                {
+                    "title": "Supabase",
+                    "subtitle": "Integrations → Supabase",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/integrations/supabase"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Supabase&https://docs.clerk.dev/integrations/supabase"
+                    }
+                },
+                {
+                    "title": "Elevating Permissions",
+                    "subtitle": "Learning Center → Build Frontend First → Elevating Permissions",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/learning-center/build-frontend-first/elevating-permissions"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Elevating Permissions&https://docs.clerk.dev/learning-center/build-frontend-first/elevating-permissions"
+                    }
+                },
+                {
+                    "title": "Handling Errors",
+                    "subtitle": "Learning Center → Build Frontend First → Handling Errors",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/learning-center/build-frontend-first/handling-errors"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Handling Errors&https://docs.clerk.dev/learning-center/build-frontend-first/handling-errors"
+                    }
+                },
+                {
+                    "title": "Session Authentication",
+                    "subtitle": "Learning Center → Build Frontend First → Session Authentication",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/learning-center/build-frontend-first/session-authentication"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Session Authentication&https://docs.clerk.dev/learning-center/build-frontend-first/session-authentication"
+                    }
+                },
+                {
+                    "title": "What Is A Frontend Api",
+                    "subtitle": "Learning Center → Build Frontend First → What Is A Frontend Api",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/learning-center/build-frontend-first/what-is-a-frontend-api"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "What Is A Frontend Api&https://docs.clerk.dev/learning-center/build-frontend-first/what-is-a-frontend-api"
+                    }
+                },
+                {
+                    "title": "Csrf Protection",
+                    "subtitle": "Learning Center → Security → Csrf Protection",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/learning-center/security/csrf-protection"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Csrf Protection&https://docs.clerk.dev/learning-center/security/csrf-protection"
+                    }
+                },
+                {
+                    "title": "Fixation Protection",
+                    "subtitle": "Learning Center → Security → Fixation Protection",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/learning-center/security/fixation-protection"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Fixation Protection&https://docs.clerk.dev/learning-center/security/fixation-protection"
+                    }
+                },
+                {
+                    "title": "Introduction",
+                    "subtitle": "Learning Center → Security → Introduction",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/learning-center/security/introduction"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Introduction&https://docs.clerk.dev/learning-center/security/introduction"
+                    }
+                },
+                {
+                    "title": "Password Protection",
+                    "subtitle": "Learning Center → Security → Password Protection",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/learning-center/security/password-protection"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Password Protection&https://docs.clerk.dev/learning-center/security/password-protection"
+                    }
+                },
+                {
+                    "title": "Session Leak Protection",
+                    "subtitle": "Learning Center → Security → Session Leak Protection",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/learning-center/security/session-leak-protection"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Session Leak Protection&https://docs.clerk.dev/learning-center/security/session-leak-protection"
+                    }
+                },
+                {
+                    "title": "Vulnerability Disclosure Policy",
+                    "subtitle": "Learning Center → Security → Vulnerability Disclosure Policy",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/learning-center/security/vulnerability-disclosure-policy"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Vulnerability Disclosure Policy&https://docs.clerk.dev/learning-center/security/vulnerability-disclosure-policy"
+                    }
+                },
+                {
+                    "title": "Xss Leak Protection",
+                    "subtitle": "Learning Center → Security → Xss Leak Protection",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/learning-center/security/xss-leak-protection"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Xss Leak Protection&https://docs.clerk.dev/learning-center/security/xss-leak-protection"
+                    }
+                },
+                {
+                    "title": "Auth V2",
+                    "subtitle": "Main Concepts → Auth V2",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/main-concepts/auth-v2"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Auth V2&https://docs.clerk.dev/main-concepts/auth-v2"
+                    }
+                },
+                {
+                    "title": "Session Lifetime",
+                    "subtitle": "Main Concepts → Session Lifetime",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/main-concepts/session-lifetime"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Session Lifetime&https://docs.clerk.dev/main-concepts/session-lifetime"
+                    }
+                },
+                {
+                    "title": "Session Management",
+                    "subtitle": "Main Concepts → Session Management",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/main-concepts/session-management"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Session Management&https://docs.clerk.dev/main-concepts/session-management"
+                    }
+                },
+                {
+                    "title": "Sign In Flow",
+                    "subtitle": "Main Concepts → Sign In Flow",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/main-concepts/sign-in-flow"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Sign In Flow&https://docs.clerk.dev/main-concepts/sign-in-flow"
+                    }
+                },
+                {
+                    "title": "Sign Up Flow",
+                    "subtitle": "Main Concepts → Sign Up Flow",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/main-concepts/sign-up-flow"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Sign Up Flow&https://docs.clerk.dev/main-concepts/sign-up-flow"
+                    }
+                },
+                {
+                    "title": "User Object",
+                    "subtitle": "Main Concepts → User Object",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/main-concepts/user-object"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "User Object&https://docs.clerk.dev/main-concepts/user-object"
+                    }
+                },
+                {
+                    "title": "Build Your Own Ui",
+                    "subtitle": "Popular Guides → Build Your Own Ui",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/popular-guides/build-your-own-ui"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Build Your Own Ui&https://docs.clerk.dev/popular-guides/build-your-own-ui"
+                    }
+                },
+                {
+                    "title": "Email And Password",
+                    "subtitle": "Popular Guides → Email And Password",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/popular-guides/email-and-password"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Email And Password&https://docs.clerk.dev/popular-guides/email-and-password"
+                    }
+                },
+                {
+                    "title": "Invitations",
+                    "subtitle": "Popular Guides → Invitations",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/popular-guides/invitations"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Invitations&https://docs.clerk.dev/popular-guides/invitations"
+                    }
+                },
+                {
+                    "title": "Jwt Templates",
+                    "subtitle": "Popular Guides → Jwt Templates",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/popular-guides/jwt-templates"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Jwt Templates&https://docs.clerk.dev/popular-guides/jwt-templates"
+                    }
+                },
+                {
+                    "title": "Magic Links",
+                    "subtitle": "Popular Guides → Magic Links",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/popular-guides/magic-links"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Magic Links&https://docs.clerk.dev/popular-guides/magic-links"
+                    }
+                },
+                {
+                    "title": "Making Authenticated Requests To The Backend",
+                    "subtitle": "Popular Guides → Making Authenticated Requests To The Backend",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/popular-guides/making-authenticated-requests-to-the-backend"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Making Authenticated Requests To The Backend&https://docs.clerk.dev/popular-guides/making-authenticated-requests-to-the-backend"
+                    }
+                },
+                {
+                    "title": "Multi Factor Authentication",
+                    "subtitle": "Popular Guides → Multi Factor Authentication",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/popular-guides/multi-factor-authentication"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Multi Factor Authentication&https://docs.clerk.dev/popular-guides/multi-factor-authentication"
+                    }
+                },
+                {
+                    "title": "Organizations",
+                    "subtitle": "Popular Guides → Organizations",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/popular-guides/organizations"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Organizations&https://docs.clerk.dev/popular-guides/organizations"
+                    }
+                },
+                {
+                    "title": "Passwordless Authentication",
+                    "subtitle": "Popular Guides → Passwordless Authentication",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/popular-guides/passwordless-authentication"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Passwordless Authentication&https://docs.clerk.dev/popular-guides/passwordless-authentication"
+                    }
+                },
+                {
+                    "title": "Popular Guides Multi Session Applications",
+                    "subtitle": "Popular Guides → Popular Guides Multi Session Applications",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/popular-guides/popular-guides-multi-session-applications"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Popular Guides Multi Session Applications&https://docs.clerk.dev/popular-guides/popular-guides-multi-session-applications"
+                    }
+                },
+                {
+                    "title": "Popular Guides Sign Out",
+                    "subtitle": "Popular Guides → Popular Guides Sign Out",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/popular-guides/popular-guides-sign-out"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Popular Guides Sign Out&https://docs.clerk.dev/popular-guides/popular-guides-sign-out"
+                    }
+                },
+                {
+                    "title": "Production Setup",
+                    "subtitle": "Popular Guides → Production Setup",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/popular-guides/production-setup"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Production Setup&https://docs.clerk.dev/popular-guides/production-setup"
+                    }
+                },
+                {
+                    "title": "Setup Your Application",
+                    "subtitle": "Popular Guides → Setup Your Application",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/popular-guides/setup-your-application"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Setup Your Application&https://docs.clerk.dev/popular-guides/setup-your-application"
+                    }
+                },
+                {
+                    "title": "Social Login Oauth",
+                    "subtitle": "Popular Guides → Social Login Oauth",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/popular-guides/social-login-oauth"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Social Login Oauth&https://docs.clerk.dev/popular-guides/social-login-oauth"
+                    }
+                },
+                {
+                    "title": "Ssr Beta",
+                    "subtitle": "Popular Guides → Ssr Beta",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/popular-guides/ssr-beta"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Ssr Beta&https://docs.clerk.dev/popular-guides/ssr-beta"
+                    }
+                },
+                {
+                    "title": "Sync Data To Your Backend",
+                    "subtitle": "Popular Guides → Sync Data To Your Backend",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/popular-guides/sync-data-to-your-backend"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Sync Data To Your Backend&https://docs.clerk.dev/popular-guides/sync-data-to-your-backend"
+                    }
+                },
+                {
+                    "title": "Validating Session Tokens",
+                    "subtitle": "Popular Guides → Validating Session Tokens",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/popular-guides/validating-session-tokens"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Validating Session Tokens&https://docs.clerk.dev/popular-guides/validating-session-tokens"
+                    }
+                },
+                {
+                    "title": "Allowlist Identifiers",
+                    "subtitle": "Reference → Backend Api Reference → Allowlist Identifiers",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/reference/backend-api-reference/allowlist-identifiers"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Allowlist Identifiers&https://docs.clerk.dev/reference/backend-api-reference/allowlist-identifiers"
+                    }
+                },
+                {
+                    "title": "Instance Settings",
+                    "subtitle": "Reference → Backend Api Reference → Beta Features → Instance Settings",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/reference/backend-api-reference/beta-features/instance-settings"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Instance Settings&https://docs.clerk.dev/reference/backend-api-reference/beta-features/instance-settings"
+                    }
+                },
+                {
+                    "title": "Introduction",
+                    "subtitle": "Reference → Backend Api Reference → Beta Features → Introduction",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/reference/backend-api-reference/beta-features/introduction"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Introduction&https://docs.clerk.dev/reference/backend-api-reference/beta-features/introduction"
+                    }
+                },
+                {
+                    "title": "Tokens",
+                    "subtitle": "Reference → Backend Api Reference → Beta Features → Tokens",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/reference/backend-api-reference/beta-features/tokens"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Tokens&https://docs.clerk.dev/reference/backend-api-reference/beta-features/tokens"
+                    }
+                },
+                {
+                    "title": "Clients",
+                    "subtitle": "Reference → Backend Api Reference → Clients",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/reference/backend-api-reference/clients"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Clients&https://docs.clerk.dev/reference/backend-api-reference/clients"
+                    }
+                },
+                {
+                    "title": "Emails",
+                    "subtitle": "Reference → Backend Api Reference → Emails",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/reference/backend-api-reference/emails"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Emails&https://docs.clerk.dev/reference/backend-api-reference/emails"
+                    }
+                },
+                {
+                    "title": "Introduction",
+                    "subtitle": "Reference → Backend Api Reference → Introduction",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/reference/backend-api-reference/introduction"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Introduction&https://docs.clerk.dev/reference/backend-api-reference/introduction"
+                    }
+                },
+                {
+                    "title": "Invitations",
+                    "subtitle": "Reference → Backend Api Reference → Invitations",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/reference/backend-api-reference/invitations"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Invitations&https://docs.clerk.dev/reference/backend-api-reference/invitations"
+                    }
+                },
+                {
+                    "title": "Organizations",
+                    "subtitle": "Reference → Backend Api Reference → Organizations",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/reference/backend-api-reference/organizations"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Organizations&https://docs.clerk.dev/reference/backend-api-reference/organizations"
+                    }
+                },
+                {
+                    "title": "Getting Started",
+                    "subtitle": "Reference → Backend Api Reference → Sdks → Golang → Getting Started",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/reference/backend-api-reference/sdks/golang/getting-started"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Getting Started&https://docs.clerk.dev/reference/backend-api-reference/sdks/golang/getting-started"
+                    }
+                },
+                {
+                    "title": "Other Examples",
+                    "subtitle": "Reference → Backend Api Reference → Sdks → Golang → Other Examples",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/reference/backend-api-reference/sdks/golang/other-examples"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Other Examples&https://docs.clerk.dev/reference/backend-api-reference/sdks/golang/other-examples"
+                    }
+                },
+                {
+                    "title": "Verifying A Session",
+                    "subtitle": "Reference → Backend Api Reference → Sdks → Golang → Verifying A Session",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/reference/backend-api-reference/sdks/golang/verifying-a-session"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Verifying A Session&https://docs.clerk.dev/reference/backend-api-reference/sdks/golang/verifying-a-session"
+                    }
+                },
+                {
+                    "title": "Getting Started",
+                    "subtitle": "Reference → Backend Api Reference → Sdks → Node → Getting Started",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/reference/backend-api-reference/sdks/node/getting-started"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Getting Started&https://docs.clerk.dev/reference/backend-api-reference/sdks/node/getting-started"
+                    }
+                },
+                {
+                    "title": "User",
+                    "subtitle": "Reference → Backend Api Reference → Sdks → Node → User",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/reference/backend-api-reference/sdks/node/user"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "User&https://docs.clerk.dev/reference/backend-api-reference/sdks/node/user"
+                    }
+                },
+                {
+                    "title": "Available Methods",
+                    "subtitle": "Reference → Backend Api Reference → Sdks → Ruby → Available Methods",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/reference/backend-api-reference/sdks/ruby/available-methods"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Available Methods&https://docs.clerk.dev/reference/backend-api-reference/sdks/ruby/available-methods"
+                    }
+                },
+                {
+                    "title": "Configuration",
+                    "subtitle": "Reference → Backend Api Reference → Sdks → Ruby → Configuration",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/reference/backend-api-reference/sdks/ruby/configuration"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Configuration&https://docs.clerk.dev/reference/backend-api-reference/sdks/ruby/configuration"
+                    }
+                },
+                {
+                    "title": "Getting Started",
+                    "subtitle": "Reference → Backend Api Reference → Sdks → Ruby → Getting Started",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/reference/backend-api-reference/sdks/ruby/getting-started"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Getting Started&https://docs.clerk.dev/reference/backend-api-reference/sdks/ruby/getting-started"
+                    }
+                },
+                {
+                    "title": "Rack Rails Integration",
+                    "subtitle": "Reference → Backend Api Reference → Sdks → Ruby → Rack Rails Integration",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/reference/backend-api-reference/sdks/ruby/rack-rails-integration"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Rack Rails Integration&https://docs.clerk.dev/reference/backend-api-reference/sdks/ruby/rack-rails-integration"
+                    }
+                },
+                {
+                    "title": "Sessions",
+                    "subtitle": "Reference → Backend Api Reference → Sessions",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/reference/backend-api-reference/sessions"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Sessions&https://docs.clerk.dev/reference/backend-api-reference/sessions"
+                    }
+                },
+                {
+                    "title": "Sign In Tokens",
+                    "subtitle": "Reference → Backend Api Reference → Sign In Tokens",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/reference/backend-api-reference/sign-in-tokens"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Sign In Tokens&https://docs.clerk.dev/reference/backend-api-reference/sign-in-tokens"
+                    }
+                },
+                {
+                    "title": "Sms Messages",
+                    "subtitle": "Reference → Backend Api Reference → Sms Messages",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/reference/backend-api-reference/sms-messages"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Sms Messages&https://docs.clerk.dev/reference/backend-api-reference/sms-messages"
+                    }
+                },
+                {
+                    "title": "Users",
+                    "subtitle": "Reference → Backend Api Reference → Users",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/reference/backend-api-reference/users"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Users&https://docs.clerk.dev/reference/backend-api-reference/users"
+                    }
+                },
+                {
+                    "title": "Clerk Expo",
+                    "subtitle": "Reference → Clerk Expo",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/reference/clerk-expo"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Clerk Expo&https://docs.clerk.dev/reference/clerk-expo"
+                    }
+                },
+                {
+                    "title": "Clerkprovider",
+                    "subtitle": "Reference → Clerk React → Clerkprovider",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/reference/clerk-react/clerkprovider"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Clerkprovider&https://docs.clerk.dev/reference/clerk-react/clerkprovider"
+                    }
+                },
+                {
+                    "title": "Installation",
+                    "subtitle": "Reference → Clerk React → Installation",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/reference/clerk-react/installation"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Installation&https://docs.clerk.dev/reference/clerk-react/installation"
+                    }
+                },
+                {
+                    "title": "Useclerk Hook",
+                    "subtitle": "Reference → Clerk React → Useclerk Hook",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/reference/clerk-react/useclerk-hook"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Useclerk Hook&https://docs.clerk.dev/reference/clerk-react/useclerk-hook"
+                    }
+                },
+                {
+                    "title": "Useorganizations",
+                    "subtitle": "Reference → Clerk React → Useorganizations",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/reference/clerk-react/useorganizations"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Useorganizations&https://docs.clerk.dev/reference/clerk-react/useorganizations"
+                    }
+                },
+                {
+                    "title": "Usesession Hook",
+                    "subtitle": "Reference → Clerk React → Usesession Hook",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/reference/clerk-react/usesession-hook"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Usesession Hook&https://docs.clerk.dev/reference/clerk-react/usesession-hook"
+                    }
+                },
+                {
+                    "title": "Usesessionlist Hook",
+                    "subtitle": "Reference → Clerk React → Usesessionlist Hook",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/reference/clerk-react/usesessionlist-hook"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Usesessionlist Hook&https://docs.clerk.dev/reference/clerk-react/usesessionlist-hook"
+                    }
+                },
+                {
+                    "title": "Usesignin Hook",
+                    "subtitle": "Reference → Clerk React → Usesignin Hook",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/reference/clerk-react/usesignin-hook"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Usesignin Hook&https://docs.clerk.dev/reference/clerk-react/usesignin-hook"
+                    }
+                },
+                {
+                    "title": "Usesignup Hook",
+                    "subtitle": "Reference → Clerk React → Usesignup Hook",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/reference/clerk-react/usesignup-hook"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Usesignup Hook&https://docs.clerk.dev/reference/clerk-react/usesignup-hook"
+                    }
+                },
+                {
+                    "title": "Useuser Hook",
+                    "subtitle": "Reference → Clerk React → Useuser Hook",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/reference/clerk-react/useuser-hook"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Useuser Hook&https://docs.clerk.dev/reference/clerk-react/useuser-hook"
+                    }
+                },
+                {
+                    "title": "Clerk",
+                    "subtitle": "Reference → Clerkjs → Clerk",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/reference/clerkjs/clerk"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Clerk&https://docs.clerk.dev/reference/clerkjs/clerk"
+                    }
+                },
+                {
+                    "title": "Client",
+                    "subtitle": "Reference → Clerkjs → Client",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/reference/clerkjs/client"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Client&https://docs.clerk.dev/reference/clerkjs/client"
+                    }
+                },
+                {
+                    "title": "Emailaddress",
+                    "subtitle": "Reference → Clerkjs → Emailaddress",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/reference/clerkjs/emailaddress"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Emailaddress&https://docs.clerk.dev/reference/clerkjs/emailaddress"
+                    }
+                },
+                {
+                    "title": "Installation",
+                    "subtitle": "Reference → Clerkjs → Installation",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/reference/clerkjs/installation"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Installation&https://docs.clerk.dev/reference/clerkjs/installation"
+                    }
+                },
+                {
+                    "title": "Organization",
+                    "subtitle": "Reference → Clerkjs → Organization",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/reference/clerkjs/organization"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Organization&https://docs.clerk.dev/reference/clerkjs/organization"
+                    }
+                },
+                {
+                    "title": "Organizationinvitation",
+                    "subtitle": "Reference → Clerkjs → Organizationinvitation",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/reference/clerkjs/organizationinvitation"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Organizationinvitation&https://docs.clerk.dev/reference/clerkjs/organizationinvitation"
+                    }
+                },
+                {
+                    "title": "Organizationmembership",
+                    "subtitle": "Reference → Clerkjs → Organizationmembership",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/reference/clerkjs/organizationmembership"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Organizationmembership&https://docs.clerk.dev/reference/clerkjs/organizationmembership"
+                    }
+                },
+                {
+                    "title": "Phonenumber",
+                    "subtitle": "Reference → Clerkjs → Phonenumber",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/reference/clerkjs/phonenumber"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Phonenumber&https://docs.clerk.dev/reference/clerkjs/phonenumber"
+                    }
+                },
+                {
+                    "title": "Session",
+                    "subtitle": "Reference → Clerkjs → Session",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/reference/clerkjs/session"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Session&https://docs.clerk.dev/reference/clerkjs/session"
+                    }
+                },
+                {
+                    "title": "Sessionwithactivities",
+                    "subtitle": "Reference → Clerkjs → Sessionwithactivities",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/reference/clerkjs/sessionwithactivities"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Sessionwithactivities&https://docs.clerk.dev/reference/clerkjs/sessionwithactivities"
+                    }
+                },
+                {
+                    "title": "Signin",
+                    "subtitle": "Reference → Clerkjs → Signin",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/reference/clerkjs/signin"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Signin&https://docs.clerk.dev/reference/clerkjs/signin"
+                    }
+                },
+                {
+                    "title": "Signup",
+                    "subtitle": "Reference → Clerkjs → Signup",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/reference/clerkjs/signup"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Signup&https://docs.clerk.dev/reference/clerkjs/signup"
+                    }
+                },
+                {
+                    "title": "User",
+                    "subtitle": "Reference → Clerkjs → User",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/reference/clerkjs/user"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "User&https://docs.clerk.dev/reference/clerkjs/user"
+                    }
+                },
+                {
+                    "title": "Web3wallet",
+                    "subtitle": "Reference → Clerkjs → Web3wallet",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/reference/clerkjs/web3wallet"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Web3wallet&https://docs.clerk.dev/reference/clerkjs/web3wallet"
+                    }
+                },
+                {
+                    "title": "Email And Sms Templates",
+                    "subtitle": "Reference → Email And Sms Templates",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/reference/email-and-sms-templates"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Email And Sms Templates&https://docs.clerk.dev/reference/email-and-sms-templates"
+                    }
+                },
+                {
+                    "title": "Export Users And Data",
+                    "subtitle": "Reference → Export Users And Data",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/reference/export-users-and-data"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Export Users And Data&https://docs.clerk.dev/reference/export-users-and-data"
+                    }
+                },
+                {
+                    "title": "Introduction",
+                    "subtitle": "Reference → Frontend Api Reference → Introduction",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/reference/frontend-api-reference/introduction"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Introduction&https://docs.clerk.dev/reference/frontend-api-reference/introduction"
+                    }
+                },
+                {
+                    "title": "Organization Invitations Requests",
+                    "subtitle": "Reference → Frontend Api Reference → Organization Requests → Organization Invitations Requests",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/reference/frontend-api-reference/organization-requests/organization-invitations-requests"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Organization Invitations Requests&https://docs.clerk.dev/reference/frontend-api-reference/organization-requests/organization-invitations-requests"
+                    }
+                },
+                {
+                    "title": "Organization Membership Requests",
+                    "subtitle": "Reference → Frontend Api Reference → Organization Requests → Organization Membership Requests",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/reference/frontend-api-reference/organization-requests/organization-membership-requests"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Organization Membership Requests&https://docs.clerk.dev/reference/frontend-api-reference/organization-requests/organization-membership-requests"
+                    }
+                },
+                {
+                    "title": "Organization Requests",
+                    "subtitle": "Reference → Frontend Api Reference → Organization Requests → Organization Requests",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/reference/frontend-api-reference/organization-requests/organization-requests"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Organization Requests&https://docs.clerk.dev/reference/frontend-api-reference/organization-requests/organization-requests"
+                    }
+                },
+                {
+                    "title": "Client",
+                    "subtitle": "Reference → Frontend Api Reference → User Api → Client",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/reference/frontend-api-reference/user-api/client"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Client&https://docs.clerk.dev/reference/frontend-api-reference/user-api/client"
+                    }
+                },
+                {
+                    "title": "Introduction",
+                    "subtitle": "Reference → Frontend Api Reference → User Api → Introduction",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/reference/frontend-api-reference/user-api/introduction"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Introduction&https://docs.clerk.dev/reference/frontend-api-reference/user-api/introduction"
+                    }
+                },
+                {
+                    "title": "Sessions",
+                    "subtitle": "Reference → Frontend Api Reference → User Api → Sessions",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/reference/frontend-api-reference/user-api/sessions"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Sessions&https://docs.clerk.dev/reference/frontend-api-reference/user-api/sessions"
+                    }
+                },
+                {
+                    "title": "Sign Ins",
+                    "subtitle": "Reference → Frontend Api Reference → User Api → Sign Ins",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/reference/frontend-api-reference/user-api/sign-ins"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Sign Ins&https://docs.clerk.dev/reference/frontend-api-reference/user-api/sign-ins"
+                    }
+                },
+                {
+                    "title": "Sign Ups",
+                    "subtitle": "Reference → Frontend Api Reference → User Api → Sign Ups",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/reference/frontend-api-reference/user-api/sign-ups"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Sign Ups&https://docs.clerk.dev/reference/frontend-api-reference/user-api/sign-ups"
+                    }
+                },
+                {
+                    "title": "Email Addresses",
+                    "subtitle": "Reference → Frontend Api Reference → Users → Email Addresses",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/reference/frontend-api-reference/users/email-addresses"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Email Addresses&https://docs.clerk.dev/reference/frontend-api-reference/users/email-addresses"
+                    }
+                },
+                {
+                    "title": "Introduction",
+                    "subtitle": "Reference → Frontend Api Reference → Users → Introduction",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/reference/frontend-api-reference/users/introduction"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Introduction&https://docs.clerk.dev/reference/frontend-api-reference/users/introduction"
+                    }
+                },
+                {
+                    "title": "Organizations",
+                    "subtitle": "Reference → Frontend Api Reference → Users → Organizations",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/reference/frontend-api-reference/users/organizations"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Organizations&https://docs.clerk.dev/reference/frontend-api-reference/users/organizations"
+                    }
+                },
+                {
+                    "title": "Phone Numbers",
+                    "subtitle": "Reference → Frontend Api Reference → Users → Phone Numbers",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/reference/frontend-api-reference/users/phone-numbers"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Phone Numbers&https://docs.clerk.dev/reference/frontend-api-reference/users/phone-numbers"
+                    }
+                },
+                {
+                    "title": "Profile Image",
+                    "subtitle": "Reference → Frontend Api Reference → Users → Profile Image",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/reference/frontend-api-reference/users/profile-image"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Profile Image&https://docs.clerk.dev/reference/frontend-api-reference/users/profile-image"
+                    }
+                },
+                {
+                    "title": "Sessions",
+                    "subtitle": "Reference → Frontend Api Reference → Users → Sessions",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/reference/frontend-api-reference/users/sessions"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Sessions&https://docs.clerk.dev/reference/frontend-api-reference/users/sessions"
+                    }
+                },
+                {
+                    "title": "Tokens",
+                    "subtitle": "Reference → Frontend Api Reference → Users → Tokens",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/reference/frontend-api-reference/users/tokens"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Tokens&https://docs.clerk.dev/reference/frontend-api-reference/users/tokens"
+                    }
+                },
+                {
+                    "title": "User",
+                    "subtitle": "Reference → Frontend Api Reference → Users → User",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/reference/frontend-api-reference/users/user"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "User&https://docs.clerk.dev/reference/frontend-api-reference/users/user"
+                    }
+                },
+                {
+                    "title": "Import Users",
+                    "subtitle": "Reference → Import Users",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/reference/import-users"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Import Users&https://docs.clerk.dev/reference/import-users"
+                    }
+                },
+                {
+                    "title": "Bitbucket",
+                    "subtitle": "Reference → Social Login Reference → Bitbucket",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/reference/social-login-reference/bitbucket"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Bitbucket&https://docs.clerk.dev/reference/social-login-reference/bitbucket"
+                    }
+                },
+                {
+                    "title": "Discord",
+                    "subtitle": "Reference → Social Login Reference → Discord",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/reference/social-login-reference/discord"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Discord&https://docs.clerk.dev/reference/social-login-reference/discord"
+                    }
+                },
+                {
+                    "title": "Dropbox",
+                    "subtitle": "Reference → Social Login Reference → Dropbox",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/reference/social-login-reference/dropbox"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Dropbox&https://docs.clerk.dev/reference/social-login-reference/dropbox"
+                    }
+                },
+                {
+                    "title": "Github",
+                    "subtitle": "Reference → Social Login Reference → Github",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/reference/social-login-reference/github"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Github&https://docs.clerk.dev/reference/social-login-reference/github"
+                    }
+                },
+                {
+                    "title": "Gitlab",
+                    "subtitle": "Reference → Social Login Reference → Gitlab",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/reference/social-login-reference/gitlab"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Gitlab&https://docs.clerk.dev/reference/social-login-reference/gitlab"
+                    }
+                },
+                {
+                    "title": "Hubspot",
+                    "subtitle": "Reference → Social Login Reference → Hubspot",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/reference/social-login-reference/hubspot"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Hubspot&https://docs.clerk.dev/reference/social-login-reference/hubspot"
+                    }
+                },
+                {
+                    "title": "Linkedin",
+                    "subtitle": "Reference → Social Login Reference → Linkedin",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/reference/social-login-reference/linkedin"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Linkedin&https://docs.clerk.dev/reference/social-login-reference/linkedin"
+                    }
+                },
+                {
+                    "title": "Microsoft",
+                    "subtitle": "Reference → Social Login Reference → Microsoft",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/reference/social-login-reference/microsoft"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Microsoft&https://docs.clerk.dev/reference/social-login-reference/microsoft"
+                    }
+                },
+                {
+                    "title": "Notion",
+                    "subtitle": "Reference → Social Login Reference → Notion",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/reference/social-login-reference/notion"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Notion&https://docs.clerk.dev/reference/social-login-reference/notion"
+                    }
+                },
+                {
+                    "title": "Social Login Facebook",
+                    "subtitle": "Reference → Social Login Reference → Social Login Facebook",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/reference/social-login-reference/social-login-facebook"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Social Login Facebook&https://docs.clerk.dev/reference/social-login-reference/social-login-facebook"
+                    }
+                },
+                {
+                    "title": "Social Login Google",
+                    "subtitle": "Reference → Social Login Reference → Social Login Google",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/reference/social-login-reference/social-login-google"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Social Login Google&https://docs.clerk.dev/reference/social-login-reference/social-login-google"
+                    }
+                },
+                {
+                    "title": "Tiktok",
+                    "subtitle": "Reference → Social Login Reference → Tiktok",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/reference/social-login-reference/tiktok"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Tiktok&https://docs.clerk.dev/reference/social-login-reference/tiktok"
+                    }
+                },
+                {
+                    "title": "Twitch",
+                    "subtitle": "Reference → Social Login Reference → Twitch",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/reference/social-login-reference/twitch"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Twitch&https://docs.clerk.dev/reference/social-login-reference/twitch"
+                    }
+                },
+                {
+                    "title": "Twitter",
+                    "subtitle": "Reference → Social Login Reference → Twitter",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/reference/social-login-reference/twitter"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Twitter&https://docs.clerk.dev/reference/social-login-reference/twitter"
+                    }
+                },
+                {
+                    "title": "Webhooks",
+                    "subtitle": "Reference → Webhooks",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://docs.clerk.dev/reference/webhooks"
+                    },
+                    "icon": "https://clerk.dev/favicon/favicon-32x32.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Webhooks&https://docs.clerk.dev/reference/webhooks"
+                    }
+                }
+            ]
+        }
+    }
+}

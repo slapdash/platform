@@ -1,0 +1,2544 @@
+{
+    "keywords": "color",
+    "response": {
+        "view": {
+            "type": "list",
+            "options": [
+                {
+                    "title": "Accent Color",
+                    "subtitle": "Accent Color",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/accent-color"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Accent Color&https://tailwindcss.com/docs/accent-color"
+                    }
+                },
+                {
+                    "title": "Adding Base Styles",
+                    "subtitle": "Adding Base Styles",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/adding-base-styles"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Adding Base Styles&https://tailwindcss.com/docs/adding-base-styles"
+                    }
+                },
+                {
+                    "title": "Adding Custom Styles",
+                    "subtitle": "Adding Custom Styles",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/adding-custom-styles"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Adding Custom Styles&https://tailwindcss.com/docs/adding-custom-styles"
+                    }
+                },
+                {
+                    "title": "Adding New Utilities",
+                    "subtitle": "Adding New Utilities",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/adding-new-utilities"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Adding New Utilities&https://tailwindcss.com/docs/adding-new-utilities"
+                    }
+                },
+                {
+                    "title": "Align Content",
+                    "subtitle": "Align Content",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/align-content"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Align Content&https://tailwindcss.com/docs/align-content"
+                    }
+                },
+                {
+                    "title": "Align Items",
+                    "subtitle": "Align Items",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/align-items"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Align Items&https://tailwindcss.com/docs/align-items"
+                    }
+                },
+                {
+                    "title": "Align Self",
+                    "subtitle": "Align Self",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/align-self"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Align Self&https://tailwindcss.com/docs/align-self"
+                    }
+                },
+                {
+                    "title": "Animation",
+                    "subtitle": "Animation",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/animation"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Animation&https://tailwindcss.com/docs/animation"
+                    }
+                },
+                {
+                    "title": "Appearance",
+                    "subtitle": "Appearance",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/appearance"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Appearance&https://tailwindcss.com/docs/appearance"
+                    }
+                },
+                {
+                    "title": "Aspect Ratio",
+                    "subtitle": "Aspect Ratio",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/aspect-ratio"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Aspect Ratio&https://tailwindcss.com/docs/aspect-ratio"
+                    }
+                },
+                {
+                    "title": "Backdrop Blur",
+                    "subtitle": "Backdrop Blur",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/backdrop-blur"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Backdrop Blur&https://tailwindcss.com/docs/backdrop-blur"
+                    }
+                },
+                {
+                    "title": "Backdrop Brightness",
+                    "subtitle": "Backdrop Brightness",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/backdrop-brightness"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Backdrop Brightness&https://tailwindcss.com/docs/backdrop-brightness"
+                    }
+                },
+                {
+                    "title": "Backdrop Contrast",
+                    "subtitle": "Backdrop Contrast",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/backdrop-contrast"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Backdrop Contrast&https://tailwindcss.com/docs/backdrop-contrast"
+                    }
+                },
+                {
+                    "title": "Backdrop Grayscale",
+                    "subtitle": "Backdrop Grayscale",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/backdrop-grayscale"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Backdrop Grayscale&https://tailwindcss.com/docs/backdrop-grayscale"
+                    }
+                },
+                {
+                    "title": "Backdrop Hue Rotate",
+                    "subtitle": "Backdrop Hue Rotate",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/backdrop-hue-rotate"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Backdrop Hue Rotate&https://tailwindcss.com/docs/backdrop-hue-rotate"
+                    }
+                },
+                {
+                    "title": "Backdrop Invert",
+                    "subtitle": "Backdrop Invert",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/backdrop-invert"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Backdrop Invert&https://tailwindcss.com/docs/backdrop-invert"
+                    }
+                },
+                {
+                    "title": "Backdrop Opacity",
+                    "subtitle": "Backdrop Opacity",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/backdrop-opacity"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Backdrop Opacity&https://tailwindcss.com/docs/backdrop-opacity"
+                    }
+                },
+                {
+                    "title": "Backdrop Saturate",
+                    "subtitle": "Backdrop Saturate",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/backdrop-saturate"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Backdrop Saturate&https://tailwindcss.com/docs/backdrop-saturate"
+                    }
+                },
+                {
+                    "title": "Backdrop Sepia",
+                    "subtitle": "Backdrop Sepia",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/backdrop-sepia"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Backdrop Sepia&https://tailwindcss.com/docs/backdrop-sepia"
+                    }
+                },
+                {
+                    "title": "Background Attachment",
+                    "subtitle": "Background Attachment",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/background-attachment"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Background Attachment&https://tailwindcss.com/docs/background-attachment"
+                    }
+                },
+                {
+                    "title": "Background Blend Mode",
+                    "subtitle": "Background Blend Mode",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/background-blend-mode"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Background Blend Mode&https://tailwindcss.com/docs/background-blend-mode"
+                    }
+                },
+                {
+                    "title": "Background Clip",
+                    "subtitle": "Background Clip",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/background-clip"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Background Clip&https://tailwindcss.com/docs/background-clip"
+                    }
+                },
+                {
+                    "title": "Background Color",
+                    "subtitle": "Background Color",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/background-color"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Background Color&https://tailwindcss.com/docs/background-color"
+                    }
+                },
+                {
+                    "title": "Background Image",
+                    "subtitle": "Background Image",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/background-image"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Background Image&https://tailwindcss.com/docs/background-image"
+                    }
+                },
+                {
+                    "title": "Background Origin",
+                    "subtitle": "Background Origin",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/background-origin"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Background Origin&https://tailwindcss.com/docs/background-origin"
+                    }
+                },
+                {
+                    "title": "Background Position",
+                    "subtitle": "Background Position",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/background-position"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Background Position&https://tailwindcss.com/docs/background-position"
+                    }
+                },
+                {
+                    "title": "Background Repeat",
+                    "subtitle": "Background Repeat",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/background-repeat"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Background Repeat&https://tailwindcss.com/docs/background-repeat"
+                    }
+                },
+                {
+                    "title": "Background Size",
+                    "subtitle": "Background Size",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/background-size"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Background Size&https://tailwindcss.com/docs/background-size"
+                    }
+                },
+                {
+                    "title": "Blur",
+                    "subtitle": "Blur",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/blur"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Blur&https://tailwindcss.com/docs/blur"
+                    }
+                },
+                {
+                    "title": "Border Collapse",
+                    "subtitle": "Border Collapse",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/border-collapse"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Border Collapse&https://tailwindcss.com/docs/border-collapse"
+                    }
+                },
+                {
+                    "title": "Border Color",
+                    "subtitle": "Border Color",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/border-color"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Border Color&https://tailwindcss.com/docs/border-color"
+                    }
+                },
+                {
+                    "title": "Border Radius",
+                    "subtitle": "Border Radius",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/border-radius"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Border Radius&https://tailwindcss.com/docs/border-radius"
+                    }
+                },
+                {
+                    "title": "Border Style",
+                    "subtitle": "Border Style",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/border-style"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Border Style&https://tailwindcss.com/docs/border-style"
+                    }
+                },
+                {
+                    "title": "Border Width",
+                    "subtitle": "Border Width",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/border-width"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Border Width&https://tailwindcss.com/docs/border-width"
+                    }
+                },
+                {
+                    "title": "Box Decoration Break",
+                    "subtitle": "Box Decoration Break",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/box-decoration-break"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Box Decoration Break&https://tailwindcss.com/docs/box-decoration-break"
+                    }
+                },
+                {
+                    "title": "Box Shadow Color",
+                    "subtitle": "Box Shadow Color",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/box-shadow-color"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Box Shadow Color&https://tailwindcss.com/docs/box-shadow-color"
+                    }
+                },
+                {
+                    "title": "Box Shadow",
+                    "subtitle": "Box Shadow",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/box-shadow"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Box Shadow&https://tailwindcss.com/docs/box-shadow"
+                    }
+                },
+                {
+                    "title": "Box Sizing",
+                    "subtitle": "Box Sizing",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/box-sizing"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Box Sizing&https://tailwindcss.com/docs/box-sizing"
+                    }
+                },
+                {
+                    "title": "Break After",
+                    "subtitle": "Break After",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/break-after"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Break After&https://tailwindcss.com/docs/break-after"
+                    }
+                },
+                {
+                    "title": "Break Before",
+                    "subtitle": "Break Before",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/break-before"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Break Before&https://tailwindcss.com/docs/break-before"
+                    }
+                },
+                {
+                    "title": "Break Inside",
+                    "subtitle": "Break Inside",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/break-inside"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Break Inside&https://tailwindcss.com/docs/break-inside"
+                    }
+                },
+                {
+                    "title": "Brightness",
+                    "subtitle": "Brightness",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/brightness"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Brightness&https://tailwindcss.com/docs/brightness"
+                    }
+                },
+                {
+                    "title": "Browser Support",
+                    "subtitle": "Browser Support",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/browser-support"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Browser Support&https://tailwindcss.com/docs/browser-support"
+                    }
+                },
+                {
+                    "title": "Caret Color",
+                    "subtitle": "Caret Color",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/caret-color"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Caret Color&https://tailwindcss.com/docs/caret-color"
+                    }
+                },
+                {
+                    "title": "Clear",
+                    "subtitle": "Clear",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/clear"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Clear&https://tailwindcss.com/docs/clear"
+                    }
+                },
+                {
+                    "title": "Columns",
+                    "subtitle": "Columns",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/columns"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Columns&https://tailwindcss.com/docs/columns"
+                    }
+                },
+                {
+                    "title": "Configuration",
+                    "subtitle": "Configuration",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/configuration"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Configuration&https://tailwindcss.com/docs/configuration"
+                    }
+                },
+                {
+                    "title": "Container",
+                    "subtitle": "Container",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/container"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Container&https://tailwindcss.com/docs/container"
+                    }
+                },
+                {
+                    "title": "Content Configuration",
+                    "subtitle": "Content Configuration",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/content-configuration"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Content Configuration&https://tailwindcss.com/docs/content-configuration"
+                    }
+                },
+                {
+                    "title": "Content",
+                    "subtitle": "Content",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/content"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Content&https://tailwindcss.com/docs/content"
+                    }
+                },
+                {
+                    "title": "Contrast",
+                    "subtitle": "Contrast",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/contrast"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Contrast&https://tailwindcss.com/docs/contrast"
+                    }
+                },
+                {
+                    "title": "Cursor",
+                    "subtitle": "Cursor",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/cursor"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Cursor&https://tailwindcss.com/docs/cursor"
+                    }
+                },
+                {
+                    "title": "Customizing Colors",
+                    "subtitle": "Customizing Colors",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/customizing-colors"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Customizing Colors&https://tailwindcss.com/docs/customizing-colors"
+                    }
+                },
+                {
+                    "title": "Customizing Spacing",
+                    "subtitle": "Customizing Spacing",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/customizing-spacing"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Customizing Spacing&https://tailwindcss.com/docs/customizing-spacing"
+                    }
+                },
+                {
+                    "title": "Dark Mode",
+                    "subtitle": "Dark Mode",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/dark-mode"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Dark Mode&https://tailwindcss.com/docs/dark-mode"
+                    }
+                },
+                {
+                    "title": "Display",
+                    "subtitle": "Display",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/display"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Display&https://tailwindcss.com/docs/display"
+                    }
+                },
+                {
+                    "title": "Divide Color",
+                    "subtitle": "Divide Color",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/divide-color"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Divide Color&https://tailwindcss.com/docs/divide-color"
+                    }
+                },
+                {
+                    "title": "Divide Style",
+                    "subtitle": "Divide Style",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/divide-style"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Divide Style&https://tailwindcss.com/docs/divide-style"
+                    }
+                },
+                {
+                    "title": "Divide Width",
+                    "subtitle": "Divide Width",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/divide-width"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Divide Width&https://tailwindcss.com/docs/divide-width"
+                    }
+                },
+                {
+                    "title": "Drop Shadow",
+                    "subtitle": "Drop Shadow",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/drop-shadow"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Drop Shadow&https://tailwindcss.com/docs/drop-shadow"
+                    }
+                },
+                {
+                    "title": "Editor Setup",
+                    "subtitle": "Editor Setup",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/editor-setup"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Editor Setup&https://tailwindcss.com/docs/editor-setup"
+                    }
+                },
+                {
+                    "title": "Fill",
+                    "subtitle": "Fill",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/fill"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Fill&https://tailwindcss.com/docs/fill"
+                    }
+                },
+                {
+                    "title": "Flex Basis",
+                    "subtitle": "Flex Basis",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/flex-basis"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Flex Basis&https://tailwindcss.com/docs/flex-basis"
+                    }
+                },
+                {
+                    "title": "Flex Direction",
+                    "subtitle": "Flex Direction",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/flex-direction"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Flex Direction&https://tailwindcss.com/docs/flex-direction"
+                    }
+                },
+                {
+                    "title": "Flex Grow",
+                    "subtitle": "Flex Grow",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/flex-grow"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Flex Grow&https://tailwindcss.com/docs/flex-grow"
+                    }
+                },
+                {
+                    "title": "Flex Shrink",
+                    "subtitle": "Flex Shrink",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/flex-shrink"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Flex Shrink&https://tailwindcss.com/docs/flex-shrink"
+                    }
+                },
+                {
+                    "title": "Flex Wrap",
+                    "subtitle": "Flex Wrap",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/flex-wrap"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Flex Wrap&https://tailwindcss.com/docs/flex-wrap"
+                    }
+                },
+                {
+                    "title": "Flex",
+                    "subtitle": "Flex",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/flex"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Flex&https://tailwindcss.com/docs/flex"
+                    }
+                },
+                {
+                    "title": "Float",
+                    "subtitle": "Float",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/float"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Float&https://tailwindcss.com/docs/float"
+                    }
+                },
+                {
+                    "title": "Font Family",
+                    "subtitle": "Font Family",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/font-family"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Font Family&https://tailwindcss.com/docs/font-family"
+                    }
+                },
+                {
+                    "title": "Font Size",
+                    "subtitle": "Font Size",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/font-size"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Font Size&https://tailwindcss.com/docs/font-size"
+                    }
+                },
+                {
+                    "title": "Font Smoothing",
+                    "subtitle": "Font Smoothing",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/font-smoothing"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Font Smoothing&https://tailwindcss.com/docs/font-smoothing"
+                    }
+                },
+                {
+                    "title": "Font Style",
+                    "subtitle": "Font Style",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/font-style"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Font Style&https://tailwindcss.com/docs/font-style"
+                    }
+                },
+                {
+                    "title": "Font Variant Numeric",
+                    "subtitle": "Font Variant Numeric",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/font-variant-numeric"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Font Variant Numeric&https://tailwindcss.com/docs/font-variant-numeric"
+                    }
+                },
+                {
+                    "title": "Font Weight",
+                    "subtitle": "Font Weight",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/font-weight"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Font Weight&https://tailwindcss.com/docs/font-weight"
+                    }
+                },
+                {
+                    "title": "Functions And Directives",
+                    "subtitle": "Functions And Directives",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/functions-and-directives"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Functions And Directives&https://tailwindcss.com/docs/functions-and-directives"
+                    }
+                },
+                {
+                    "title": "Gap",
+                    "subtitle": "Gap",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/gap"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Gap&https://tailwindcss.com/docs/gap"
+                    }
+                },
+                {
+                    "title": "Gradient Color Stops",
+                    "subtitle": "Gradient Color Stops",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/gradient-color-stops"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Gradient Color Stops&https://tailwindcss.com/docs/gradient-color-stops"
+                    }
+                },
+                {
+                    "title": "Grayscale",
+                    "subtitle": "Grayscale",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/grayscale"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Grayscale&https://tailwindcss.com/docs/grayscale"
+                    }
+                },
+                {
+                    "title": "Grid Auto Columns",
+                    "subtitle": "Grid Auto Columns",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/grid-auto-columns"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Grid Auto Columns&https://tailwindcss.com/docs/grid-auto-columns"
+                    }
+                },
+                {
+                    "title": "Grid Auto Flow",
+                    "subtitle": "Grid Auto Flow",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/grid-auto-flow"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Grid Auto Flow&https://tailwindcss.com/docs/grid-auto-flow"
+                    }
+                },
+                {
+                    "title": "Grid Auto Rows",
+                    "subtitle": "Grid Auto Rows",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/grid-auto-rows"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Grid Auto Rows&https://tailwindcss.com/docs/grid-auto-rows"
+                    }
+                },
+                {
+                    "title": "Grid Column",
+                    "subtitle": "Grid Column",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/grid-column"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Grid Column&https://tailwindcss.com/docs/grid-column"
+                    }
+                },
+                {
+                    "title": "Grid Row",
+                    "subtitle": "Grid Row",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/grid-row"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Grid Row&https://tailwindcss.com/docs/grid-row"
+                    }
+                },
+                {
+                    "title": "Grid Template Columns",
+                    "subtitle": "Grid Template Columns",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/grid-template-columns"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Grid Template Columns&https://tailwindcss.com/docs/grid-template-columns"
+                    }
+                },
+                {
+                    "title": "Grid Template Rows",
+                    "subtitle": "Grid Template Rows",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/grid-template-rows"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Grid Template Rows&https://tailwindcss.com/docs/grid-template-rows"
+                    }
+                },
+                {
+                    "title": "Height",
+                    "subtitle": "Height",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/height"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Height&https://tailwindcss.com/docs/height"
+                    }
+                },
+                {
+                    "title": "Hover Focus And Other States",
+                    "subtitle": "Hover Focus And Other States",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/hover-focus-and-other-states"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Hover Focus And Other States&https://tailwindcss.com/docs/hover-focus-and-other-states"
+                    }
+                },
+                {
+                    "title": "Hue Rotate",
+                    "subtitle": "Hue Rotate",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/hue-rotate"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Hue Rotate&https://tailwindcss.com/docs/hue-rotate"
+                    }
+                },
+                {
+                    "title": "Invert",
+                    "subtitle": "Invert",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/invert"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Invert&https://tailwindcss.com/docs/invert"
+                    }
+                },
+                {
+                    "title": "Isolation",
+                    "subtitle": "Isolation",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/isolation"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Isolation&https://tailwindcss.com/docs/isolation"
+                    }
+                },
+                {
+                    "title": "Justify Content",
+                    "subtitle": "Justify Content",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/justify-content"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Justify Content&https://tailwindcss.com/docs/justify-content"
+                    }
+                },
+                {
+                    "title": "Justify Items",
+                    "subtitle": "Justify Items",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/justify-items"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Justify Items&https://tailwindcss.com/docs/justify-items"
+                    }
+                },
+                {
+                    "title": "Justify Self",
+                    "subtitle": "Justify Self",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/justify-self"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Justify Self&https://tailwindcss.com/docs/justify-self"
+                    }
+                },
+                {
+                    "title": "Letter Spacing",
+                    "subtitle": "Letter Spacing",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/letter-spacing"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Letter Spacing&https://tailwindcss.com/docs/letter-spacing"
+                    }
+                },
+                {
+                    "title": "Line Height",
+                    "subtitle": "Line Height",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/line-height"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Line Height&https://tailwindcss.com/docs/line-height"
+                    }
+                },
+                {
+                    "title": "List Style Position",
+                    "subtitle": "List Style Position",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/list-style-position"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "List Style Position&https://tailwindcss.com/docs/list-style-position"
+                    }
+                },
+                {
+                    "title": "List Style Type",
+                    "subtitle": "List Style Type",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/list-style-type"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "List Style Type&https://tailwindcss.com/docs/list-style-type"
+                    }
+                },
+                {
+                    "title": "Margin",
+                    "subtitle": "Margin",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/margin"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Margin&https://tailwindcss.com/docs/margin"
+                    }
+                },
+                {
+                    "title": "Max Height",
+                    "subtitle": "Max Height",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/max-height"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Max Height&https://tailwindcss.com/docs/max-height"
+                    }
+                },
+                {
+                    "title": "Max Width",
+                    "subtitle": "Max Width",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/max-width"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Max Width&https://tailwindcss.com/docs/max-width"
+                    }
+                },
+                {
+                    "title": "Min Height",
+                    "subtitle": "Min Height",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/min-height"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Min Height&https://tailwindcss.com/docs/min-height"
+                    }
+                },
+                {
+                    "title": "Min Width",
+                    "subtitle": "Min Width",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/min-width"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Min Width&https://tailwindcss.com/docs/min-width"
+                    }
+                },
+                {
+                    "title": "Mix Blend Mode",
+                    "subtitle": "Mix Blend Mode",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/mix-blend-mode"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Mix Blend Mode&https://tailwindcss.com/docs/mix-blend-mode"
+                    }
+                },
+                {
+                    "title": "Object Fit",
+                    "subtitle": "Object Fit",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/object-fit"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Object Fit&https://tailwindcss.com/docs/object-fit"
+                    }
+                },
+                {
+                    "title": "Object Position",
+                    "subtitle": "Object Position",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/object-position"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Object Position&https://tailwindcss.com/docs/object-position"
+                    }
+                },
+                {
+                    "title": "Opacity",
+                    "subtitle": "Opacity",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/opacity"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Opacity&https://tailwindcss.com/docs/opacity"
+                    }
+                },
+                {
+                    "title": "Optimizing For Production",
+                    "subtitle": "Optimizing For Production",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/optimizing-for-production"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Optimizing For Production&https://tailwindcss.com/docs/optimizing-for-production"
+                    }
+                },
+                {
+                    "title": "Order",
+                    "subtitle": "Order",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/order"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Order&https://tailwindcss.com/docs/order"
+                    }
+                },
+                {
+                    "title": "Outline Color",
+                    "subtitle": "Outline Color",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/outline-color"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Outline Color&https://tailwindcss.com/docs/outline-color"
+                    }
+                },
+                {
+                    "title": "Outline Offset",
+                    "subtitle": "Outline Offset",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/outline-offset"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Outline Offset&https://tailwindcss.com/docs/outline-offset"
+                    }
+                },
+                {
+                    "title": "Outline Style",
+                    "subtitle": "Outline Style",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/outline-style"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Outline Style&https://tailwindcss.com/docs/outline-style"
+                    }
+                },
+                {
+                    "title": "Outline Width",
+                    "subtitle": "Outline Width",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/outline-width"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Outline Width&https://tailwindcss.com/docs/outline-width"
+                    }
+                },
+                {
+                    "title": "Overflow",
+                    "subtitle": "Overflow",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/overflow"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Overflow&https://tailwindcss.com/docs/overflow"
+                    }
+                },
+                {
+                    "title": "Overscroll Behavior",
+                    "subtitle": "Overscroll Behavior",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/overscroll-behavior"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Overscroll Behavior&https://tailwindcss.com/docs/overscroll-behavior"
+                    }
+                },
+                {
+                    "title": "Padding",
+                    "subtitle": "Padding",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/padding"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Padding&https://tailwindcss.com/docs/padding"
+                    }
+                },
+                {
+                    "title": "Place Content",
+                    "subtitle": "Place Content",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/place-content"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Place Content&https://tailwindcss.com/docs/place-content"
+                    }
+                },
+                {
+                    "title": "Place Items",
+                    "subtitle": "Place Items",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/place-items"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Place Items&https://tailwindcss.com/docs/place-items"
+                    }
+                },
+                {
+                    "title": "Place Self",
+                    "subtitle": "Place Self",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/place-self"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Place Self&https://tailwindcss.com/docs/place-self"
+                    }
+                },
+                {
+                    "title": "Play Cdn",
+                    "subtitle": "Play Cdn",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/play-cdn"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Play Cdn&https://tailwindcss.com/docs/play-cdn"
+                    }
+                },
+                {
+                    "title": "Plugins",
+                    "subtitle": "Plugins",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/plugins"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Plugins&https://tailwindcss.com/docs/plugins"
+                    }
+                },
+                {
+                    "title": "Pointer Events",
+                    "subtitle": "Pointer Events",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/pointer-events"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Pointer Events&https://tailwindcss.com/docs/pointer-events"
+                    }
+                },
+                {
+                    "title": "Position",
+                    "subtitle": "Position",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/position"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Position&https://tailwindcss.com/docs/position"
+                    }
+                },
+                {
+                    "title": "Preflight",
+                    "subtitle": "Preflight",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/preflight"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Preflight&https://tailwindcss.com/docs/preflight"
+                    }
+                },
+                {
+                    "title": "Presets",
+                    "subtitle": "Presets",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/presets"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Presets&https://tailwindcss.com/docs/presets"
+                    }
+                },
+                {
+                    "title": "Resize",
+                    "subtitle": "Resize",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/resize"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Resize&https://tailwindcss.com/docs/resize"
+                    }
+                },
+                {
+                    "title": "Responsive Design",
+                    "subtitle": "Responsive Design",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/responsive-design"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Responsive Design&https://tailwindcss.com/docs/responsive-design"
+                    }
+                },
+                {
+                    "title": "Reusing Styles",
+                    "subtitle": "Reusing Styles",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/reusing-styles"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Reusing Styles&https://tailwindcss.com/docs/reusing-styles"
+                    }
+                },
+                {
+                    "title": "Ring Color",
+                    "subtitle": "Ring Color",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/ring-color"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Ring Color&https://tailwindcss.com/docs/ring-color"
+                    }
+                },
+                {
+                    "title": "Ring Offset Color",
+                    "subtitle": "Ring Offset Color",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/ring-offset-color"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Ring Offset Color&https://tailwindcss.com/docs/ring-offset-color"
+                    }
+                },
+                {
+                    "title": "Ring Offset Width",
+                    "subtitle": "Ring Offset Width",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/ring-offset-width"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Ring Offset Width&https://tailwindcss.com/docs/ring-offset-width"
+                    }
+                },
+                {
+                    "title": "Ring Width",
+                    "subtitle": "Ring Width",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/ring-width"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Ring Width&https://tailwindcss.com/docs/ring-width"
+                    }
+                },
+                {
+                    "title": "Rotate",
+                    "subtitle": "Rotate",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/rotate"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Rotate&https://tailwindcss.com/docs/rotate"
+                    }
+                },
+                {
+                    "title": "Saturate",
+                    "subtitle": "Saturate",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/saturate"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Saturate&https://tailwindcss.com/docs/saturate"
+                    }
+                },
+                {
+                    "title": "Scale",
+                    "subtitle": "Scale",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/scale"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Scale&https://tailwindcss.com/docs/scale"
+                    }
+                },
+                {
+                    "title": "Screen Readers",
+                    "subtitle": "Screen Readers",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/screen-readers"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Screen Readers&https://tailwindcss.com/docs/screen-readers"
+                    }
+                },
+                {
+                    "title": "Screens",
+                    "subtitle": "Screens",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/screens"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Screens&https://tailwindcss.com/docs/screens"
+                    }
+                },
+                {
+                    "title": "Scroll Behavior",
+                    "subtitle": "Scroll Behavior",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/scroll-behavior"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Scroll Behavior&https://tailwindcss.com/docs/scroll-behavior"
+                    }
+                },
+                {
+                    "title": "Scroll Margin",
+                    "subtitle": "Scroll Margin",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/scroll-margin"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Scroll Margin&https://tailwindcss.com/docs/scroll-margin"
+                    }
+                },
+                {
+                    "title": "Scroll Padding",
+                    "subtitle": "Scroll Padding",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/scroll-padding"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Scroll Padding&https://tailwindcss.com/docs/scroll-padding"
+                    }
+                },
+                {
+                    "title": "Scroll Snap Align",
+                    "subtitle": "Scroll Snap Align",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/scroll-snap-align"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Scroll Snap Align&https://tailwindcss.com/docs/scroll-snap-align"
+                    }
+                },
+                {
+                    "title": "Scroll Snap Stop",
+                    "subtitle": "Scroll Snap Stop",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/scroll-snap-stop"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Scroll Snap Stop&https://tailwindcss.com/docs/scroll-snap-stop"
+                    }
+                },
+                {
+                    "title": "Scroll Snap Type",
+                    "subtitle": "Scroll Snap Type",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/scroll-snap-type"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Scroll Snap Type&https://tailwindcss.com/docs/scroll-snap-type"
+                    }
+                },
+                {
+                    "title": "Sepia",
+                    "subtitle": "Sepia",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/sepia"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Sepia&https://tailwindcss.com/docs/sepia"
+                    }
+                },
+                {
+                    "title": "Skew",
+                    "subtitle": "Skew",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/skew"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Skew&https://tailwindcss.com/docs/skew"
+                    }
+                },
+                {
+                    "title": "Space",
+                    "subtitle": "Space",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/space"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Space&https://tailwindcss.com/docs/space"
+                    }
+                },
+                {
+                    "title": "Stroke Width",
+                    "subtitle": "Stroke Width",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/stroke-width"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Stroke Width&https://tailwindcss.com/docs/stroke-width"
+                    }
+                },
+                {
+                    "title": "Stroke",
+                    "subtitle": "Stroke",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/stroke"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Stroke&https://tailwindcss.com/docs/stroke"
+                    }
+                },
+                {
+                    "title": "Table Layout",
+                    "subtitle": "Table Layout",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/table-layout"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Table Layout&https://tailwindcss.com/docs/table-layout"
+                    }
+                },
+                {
+                    "title": "Tailwind Cli",
+                    "subtitle": "Tailwind Cli",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/tailwind-cli"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Tailwind Cli&https://tailwindcss.com/docs/tailwind-cli"
+                    }
+                },
+                {
+                    "title": "Text Align",
+                    "subtitle": "Text Align",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/text-align"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Text Align&https://tailwindcss.com/docs/text-align"
+                    }
+                },
+                {
+                    "title": "Text Color",
+                    "subtitle": "Text Color",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/text-color"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Text Color&https://tailwindcss.com/docs/text-color"
+                    }
+                },
+                {
+                    "title": "Text Decoration Color",
+                    "subtitle": "Text Decoration Color",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/text-decoration-color"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Text Decoration Color&https://tailwindcss.com/docs/text-decoration-color"
+                    }
+                },
+                {
+                    "title": "Text Decoration Style",
+                    "subtitle": "Text Decoration Style",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/text-decoration-style"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Text Decoration Style&https://tailwindcss.com/docs/text-decoration-style"
+                    }
+                },
+                {
+                    "title": "Text Decoration Thickness",
+                    "subtitle": "Text Decoration Thickness",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/text-decoration-thickness"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Text Decoration Thickness&https://tailwindcss.com/docs/text-decoration-thickness"
+                    }
+                },
+                {
+                    "title": "Text Decoration",
+                    "subtitle": "Text Decoration",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/text-decoration"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Text Decoration&https://tailwindcss.com/docs/text-decoration"
+                    }
+                },
+                {
+                    "title": "Text Indent",
+                    "subtitle": "Text Indent",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/text-indent"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Text Indent&https://tailwindcss.com/docs/text-indent"
+                    }
+                },
+                {
+                    "title": "Text Overflow",
+                    "subtitle": "Text Overflow",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/text-overflow"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Text Overflow&https://tailwindcss.com/docs/text-overflow"
+                    }
+                },
+                {
+                    "title": "Text Transform",
+                    "subtitle": "Text Transform",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/text-transform"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Text Transform&https://tailwindcss.com/docs/text-transform"
+                    }
+                },
+                {
+                    "title": "Text Underline Offset",
+                    "subtitle": "Text Underline Offset",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/text-underline-offset"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Text Underline Offset&https://tailwindcss.com/docs/text-underline-offset"
+                    }
+                },
+                {
+                    "title": "Theme",
+                    "subtitle": "Theme",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/theme"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Theme&https://tailwindcss.com/docs/theme"
+                    }
+                },
+                {
+                    "title": "Top Right Bottom Left",
+                    "subtitle": "Top Right Bottom Left",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/top-right-bottom-left"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Top Right Bottom Left&https://tailwindcss.com/docs/top-right-bottom-left"
+                    }
+                },
+                {
+                    "title": "Touch Action",
+                    "subtitle": "Touch Action",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/touch-action"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Touch Action&https://tailwindcss.com/docs/touch-action"
+                    }
+                },
+                {
+                    "title": "Transform Origin",
+                    "subtitle": "Transform Origin",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/transform-origin"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Transform Origin&https://tailwindcss.com/docs/transform-origin"
+                    }
+                },
+                {
+                    "title": "Transition Delay",
+                    "subtitle": "Transition Delay",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/transition-delay"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Transition Delay&https://tailwindcss.com/docs/transition-delay"
+                    }
+                },
+                {
+                    "title": "Transition Duration",
+                    "subtitle": "Transition Duration",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/transition-duration"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Transition Duration&https://tailwindcss.com/docs/transition-duration"
+                    }
+                },
+                {
+                    "title": "Transition Property",
+                    "subtitle": "Transition Property",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/transition-property"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Transition Property&https://tailwindcss.com/docs/transition-property"
+                    }
+                },
+                {
+                    "title": "Transition Timing Function",
+                    "subtitle": "Transition Timing Function",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/transition-timing-function"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Transition Timing Function&https://tailwindcss.com/docs/transition-timing-function"
+                    }
+                },
+                {
+                    "title": "Translate",
+                    "subtitle": "Translate",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/translate"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Translate&https://tailwindcss.com/docs/translate"
+                    }
+                },
+                {
+                    "title": "Typography Plugin",
+                    "subtitle": "Typography Plugin",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/typography-plugin"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Typography Plugin&https://tailwindcss.com/docs/typography-plugin"
+                    }
+                },
+                {
+                    "title": "Upgrade Guide",
+                    "subtitle": "Upgrade Guide",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/upgrade-guide"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Upgrade Guide&https://tailwindcss.com/docs/upgrade-guide"
+                    }
+                },
+                {
+                    "title": "User Select",
+                    "subtitle": "User Select",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/user-select"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "User Select&https://tailwindcss.com/docs/user-select"
+                    }
+                },
+                {
+                    "title": "Using With Preprocessors",
+                    "subtitle": "Using With Preprocessors",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/using-with-preprocessors"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Using With Preprocessors&https://tailwindcss.com/docs/using-with-preprocessors"
+                    }
+                },
+                {
+                    "title": "Utility First",
+                    "subtitle": "Utility First",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/utility-first"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Utility First&https://tailwindcss.com/docs/utility-first"
+                    }
+                },
+                {
+                    "title": "Vertical Align",
+                    "subtitle": "Vertical Align",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/vertical-align"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Vertical Align&https://tailwindcss.com/docs/vertical-align"
+                    }
+                },
+                {
+                    "title": "Visibility",
+                    "subtitle": "Visibility",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/visibility"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Visibility&https://tailwindcss.com/docs/visibility"
+                    }
+                },
+                {
+                    "title": "Whitespace",
+                    "subtitle": "Whitespace",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/whitespace"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Whitespace&https://tailwindcss.com/docs/whitespace"
+                    }
+                },
+                {
+                    "title": "Width",
+                    "subtitle": "Width",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/width"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Width&https://tailwindcss.com/docs/width"
+                    }
+                },
+                {
+                    "title": "Will Change",
+                    "subtitle": "Will Change",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/will-change"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Will Change&https://tailwindcss.com/docs/will-change"
+                    }
+                },
+                {
+                    "title": "Word Break",
+                    "subtitle": "Word Break",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/word-break"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Word Break&https://tailwindcss.com/docs/word-break"
+                    }
+                },
+                {
+                    "title": "Z Index",
+                    "subtitle": "Z Index",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://tailwindcss.com/docs/z-index"
+                    },
+                    "icon": "https://tailwindcss.com/favicons/favicon.ico",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Z Index&https://tailwindcss.com/docs/z-index"
+                    }
+                }
+            ]
+        }
+    }
+}

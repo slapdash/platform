@@ -1,0 +1,1634 @@
+{
+    "keywords": "b",
+    "response": {
+        "view": {
+            "type": "list",
+            "options": [
+                {
+                    "title": "Badge",
+                    "subtitle": "Components → Data Display → Badge",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://chakra-ui.com/docs/components/data-display/badge"
+                    },
+                    "icon": "https://chakra-ui.com/favicon.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Badge&https://chakra-ui.com/docs/components/data-display/badge"
+                    }
+                },
+                {
+                    "title": "Code",
+                    "subtitle": "Components → Data Display → Code",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://chakra-ui.com/docs/components/data-display/code"
+                    },
+                    "icon": "https://chakra-ui.com/favicon.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Code&https://chakra-ui.com/docs/components/data-display/code"
+                    }
+                },
+                {
+                    "title": "Divider",
+                    "subtitle": "Components → Data Display → Divider",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://chakra-ui.com/docs/components/data-display/divider"
+                    },
+                    "icon": "https://chakra-ui.com/favicon.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Divider&https://chakra-ui.com/docs/components/data-display/divider"
+                    }
+                },
+                {
+                    "title": "Kbd",
+                    "subtitle": "Components → Data Display → Kbd",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://chakra-ui.com/docs/components/data-display/kbd"
+                    },
+                    "icon": "https://chakra-ui.com/favicon.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Kbd&https://chakra-ui.com/docs/components/data-display/kbd"
+                    }
+                },
+                {
+                    "title": "List",
+                    "subtitle": "Components → Data Display → List",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://chakra-ui.com/docs/components/data-display/list"
+                    },
+                    "icon": "https://chakra-ui.com/favicon.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "List&https://chakra-ui.com/docs/components/data-display/list"
+                    }
+                },
+                {
+                    "title": "Stat",
+                    "subtitle": "Components → Data Display → Stat",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://chakra-ui.com/docs/components/data-display/stat"
+                    },
+                    "icon": "https://chakra-ui.com/favicon.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Stat&https://chakra-ui.com/docs/components/data-display/stat"
+                    }
+                },
+                {
+                    "title": "Table",
+                    "subtitle": "Components → Data Display → Table",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://chakra-ui.com/docs/components/data-display/table"
+                    },
+                    "icon": "https://chakra-ui.com/favicon.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Table&https://chakra-ui.com/docs/components/data-display/table"
+                    }
+                },
+                {
+                    "title": "Tag",
+                    "subtitle": "Components → Data Display → Tag",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://chakra-ui.com/docs/components/data-display/tag"
+                    },
+                    "icon": "https://chakra-ui.com/favicon.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Tag&https://chakra-ui.com/docs/components/data-display/tag"
+                    }
+                },
+                {
+                    "title": "Accordion",
+                    "subtitle": "Components → Disclosure → Accordion",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://chakra-ui.com/docs/components/disclosure/accordion"
+                    },
+                    "icon": "https://chakra-ui.com/favicon.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Accordion&https://chakra-ui.com/docs/components/disclosure/accordion"
+                    }
+                },
+                {
+                    "title": "Tabs",
+                    "subtitle": "Components → Disclosure → Tabs",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://chakra-ui.com/docs/components/disclosure/tabs"
+                    },
+                    "icon": "https://chakra-ui.com/favicon.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Tabs&https://chakra-ui.com/docs/components/disclosure/tabs"
+                    }
+                },
+                {
+                    "title": "Visually Hidden",
+                    "subtitle": "Components → Disclosure → Visually Hidden",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://chakra-ui.com/docs/components/disclosure/visually-hidden"
+                    },
+                    "icon": "https://chakra-ui.com/favicon.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Visually Hidden&https://chakra-ui.com/docs/components/disclosure/visually-hidden"
+                    }
+                },
+                {
+                    "title": "Alert",
+                    "subtitle": "Components → Feedback → Alert",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://chakra-ui.com/docs/components/feedback/alert"
+                    },
+                    "icon": "https://chakra-ui.com/favicon.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Alert&https://chakra-ui.com/docs/components/feedback/alert"
+                    }
+                },
+                {
+                    "title": "Circular Progress",
+                    "subtitle": "Components → Feedback → Circular Progress",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://chakra-ui.com/docs/components/feedback/circular-progress"
+                    },
+                    "icon": "https://chakra-ui.com/favicon.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Circular Progress&https://chakra-ui.com/docs/components/feedback/circular-progress"
+                    }
+                },
+                {
+                    "title": "Progress",
+                    "subtitle": "Components → Feedback → Progress",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://chakra-ui.com/docs/components/feedback/progress"
+                    },
+                    "icon": "https://chakra-ui.com/favicon.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Progress&https://chakra-ui.com/docs/components/feedback/progress"
+                    }
+                },
+                {
+                    "title": "Skeleton",
+                    "subtitle": "Components → Feedback → Skeleton",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://chakra-ui.com/docs/components/feedback/skeleton"
+                    },
+                    "icon": "https://chakra-ui.com/favicon.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Skeleton&https://chakra-ui.com/docs/components/feedback/skeleton"
+                    }
+                },
+                {
+                    "title": "Spinner",
+                    "subtitle": "Components → Feedback → Spinner",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://chakra-ui.com/docs/components/feedback/spinner"
+                    },
+                    "icon": "https://chakra-ui.com/favicon.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Spinner&https://chakra-ui.com/docs/components/feedback/spinner"
+                    }
+                },
+                {
+                    "title": "Toast",
+                    "subtitle": "Components → Feedback → Toast",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://chakra-ui.com/docs/components/feedback/toast"
+                    },
+                    "icon": "https://chakra-ui.com/favicon.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Toast&https://chakra-ui.com/docs/components/feedback/toast"
+                    }
+                },
+                {
+                    "title": "Button",
+                    "subtitle": "Components → Form → Button",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://chakra-ui.com/docs/components/form/button"
+                    },
+                    "icon": "https://chakra-ui.com/favicon.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Button&https://chakra-ui.com/docs/components/form/button"
+                    }
+                },
+                {
+                    "title": "Checkbox",
+                    "subtitle": "Components → Form → Checkbox",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://chakra-ui.com/docs/components/form/checkbox"
+                    },
+                    "icon": "https://chakra-ui.com/favicon.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Checkbox&https://chakra-ui.com/docs/components/form/checkbox"
+                    }
+                },
+                {
+                    "title": "Editable",
+                    "subtitle": "Components → Form → Editable",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://chakra-ui.com/docs/components/form/editable"
+                    },
+                    "icon": "https://chakra-ui.com/favicon.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Editable&https://chakra-ui.com/docs/components/form/editable"
+                    }
+                },
+                {
+                    "title": "Form Control",
+                    "subtitle": "Components → Form → Form Control",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://chakra-ui.com/docs/components/form/form-control"
+                    },
+                    "icon": "https://chakra-ui.com/favicon.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Form Control&https://chakra-ui.com/docs/components/form/form-control"
+                    }
+                },
+                {
+                    "title": "Icon Button",
+                    "subtitle": "Components → Form → Icon Button",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://chakra-ui.com/docs/components/form/icon-button"
+                    },
+                    "icon": "https://chakra-ui.com/favicon.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Icon Button&https://chakra-ui.com/docs/components/form/icon-button"
+                    }
+                },
+                {
+                    "title": "Input",
+                    "subtitle": "Components → Form → Input",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://chakra-ui.com/docs/components/form/input"
+                    },
+                    "icon": "https://chakra-ui.com/favicon.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Input&https://chakra-ui.com/docs/components/form/input"
+                    }
+                },
+                {
+                    "title": "Number Input",
+                    "subtitle": "Components → Form → Number Input",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://chakra-ui.com/docs/components/form/number-input"
+                    },
+                    "icon": "https://chakra-ui.com/favicon.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Number Input&https://chakra-ui.com/docs/components/form/number-input"
+                    }
+                },
+                {
+                    "title": "Pin Input",
+                    "subtitle": "Components → Form → Pin Input",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://chakra-ui.com/docs/components/form/pin-input"
+                    },
+                    "icon": "https://chakra-ui.com/favicon.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Pin Input&https://chakra-ui.com/docs/components/form/pin-input"
+                    }
+                },
+                {
+                    "title": "Radio",
+                    "subtitle": "Components → Form → Radio",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://chakra-ui.com/docs/components/form/radio"
+                    },
+                    "icon": "https://chakra-ui.com/favicon.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Radio&https://chakra-ui.com/docs/components/form/radio"
+                    }
+                },
+                {
+                    "title": "Range Slider",
+                    "subtitle": "Components → Form → Range Slider",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://chakra-ui.com/docs/components/form/range-slider"
+                    },
+                    "icon": "https://chakra-ui.com/favicon.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Range Slider&https://chakra-ui.com/docs/components/form/range-slider"
+                    }
+                },
+                {
+                    "title": "Select",
+                    "subtitle": "Components → Form → Select",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://chakra-ui.com/docs/components/form/select"
+                    },
+                    "icon": "https://chakra-ui.com/favicon.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Select&https://chakra-ui.com/docs/components/form/select"
+                    }
+                },
+                {
+                    "title": "Slider",
+                    "subtitle": "Components → Form → Slider",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://chakra-ui.com/docs/components/form/slider"
+                    },
+                    "icon": "https://chakra-ui.com/favicon.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Slider&https://chakra-ui.com/docs/components/form/slider"
+                    }
+                },
+                {
+                    "title": "Switch",
+                    "subtitle": "Components → Form → Switch",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://chakra-ui.com/docs/components/form/switch"
+                    },
+                    "icon": "https://chakra-ui.com/favicon.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Switch&https://chakra-ui.com/docs/components/form/switch"
+                    }
+                },
+                {
+                    "title": "Textarea",
+                    "subtitle": "Components → Form → Textarea",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://chakra-ui.com/docs/components/form/textarea"
+                    },
+                    "icon": "https://chakra-ui.com/favicon.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Textarea&https://chakra-ui.com/docs/components/form/textarea"
+                    }
+                },
+                {
+                    "title": "Aspect Ratio",
+                    "subtitle": "Components → Layout → Aspect Ratio",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://chakra-ui.com/docs/components/layout/aspect-ratio"
+                    },
+                    "icon": "https://chakra-ui.com/favicon.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Aspect Ratio&https://chakra-ui.com/docs/components/layout/aspect-ratio"
+                    }
+                },
+                {
+                    "title": "Box",
+                    "subtitle": "Components → Layout → Box",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://chakra-ui.com/docs/components/layout/box"
+                    },
+                    "icon": "https://chakra-ui.com/favicon.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Box&https://chakra-ui.com/docs/components/layout/box"
+                    }
+                },
+                {
+                    "title": "Center",
+                    "subtitle": "Components → Layout → Center",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://chakra-ui.com/docs/components/layout/center"
+                    },
+                    "icon": "https://chakra-ui.com/favicon.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Center&https://chakra-ui.com/docs/components/layout/center"
+                    }
+                },
+                {
+                    "title": "Container",
+                    "subtitle": "Components → Layout → Container",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://chakra-ui.com/docs/components/layout/container"
+                    },
+                    "icon": "https://chakra-ui.com/favicon.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Container&https://chakra-ui.com/docs/components/layout/container"
+                    }
+                },
+                {
+                    "title": "Flex",
+                    "subtitle": "Components → Layout → Flex",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://chakra-ui.com/docs/components/layout/flex"
+                    },
+                    "icon": "https://chakra-ui.com/favicon.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Flex&https://chakra-ui.com/docs/components/layout/flex"
+                    }
+                },
+                {
+                    "title": "Grid",
+                    "subtitle": "Components → Layout → Grid",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://chakra-ui.com/docs/components/layout/grid"
+                    },
+                    "icon": "https://chakra-ui.com/favicon.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Grid&https://chakra-ui.com/docs/components/layout/grid"
+                    }
+                },
+                {
+                    "title": "Simple Grid",
+                    "subtitle": "Components → Layout → Simple Grid",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://chakra-ui.com/docs/components/layout/simple-grid"
+                    },
+                    "icon": "https://chakra-ui.com/favicon.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Simple Grid&https://chakra-ui.com/docs/components/layout/simple-grid"
+                    }
+                },
+                {
+                    "title": "Stack",
+                    "subtitle": "Components → Layout → Stack",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://chakra-ui.com/docs/components/layout/stack"
+                    },
+                    "icon": "https://chakra-ui.com/favicon.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Stack&https://chakra-ui.com/docs/components/layout/stack"
+                    }
+                },
+                {
+                    "title": "Wrap",
+                    "subtitle": "Components → Layout → Wrap",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://chakra-ui.com/docs/components/layout/wrap"
+                    },
+                    "icon": "https://chakra-ui.com/favicon.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Wrap&https://chakra-ui.com/docs/components/layout/wrap"
+                    }
+                },
+                {
+                    "title": "Avatar",
+                    "subtitle": "Components → Media And Icons → Avatar",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://chakra-ui.com/docs/components/media-and-icons/avatar"
+                    },
+                    "icon": "https://chakra-ui.com/favicon.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Avatar&https://chakra-ui.com/docs/components/media-and-icons/avatar"
+                    }
+                },
+                {
+                    "title": "Icon",
+                    "subtitle": "Components → Media And Icons → Icon",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://chakra-ui.com/docs/components/media-and-icons/icon"
+                    },
+                    "icon": "https://chakra-ui.com/favicon.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Icon&https://chakra-ui.com/docs/components/media-and-icons/icon"
+                    }
+                },
+                {
+                    "title": "Image",
+                    "subtitle": "Components → Media And Icons → Image",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://chakra-ui.com/docs/components/media-and-icons/image"
+                    },
+                    "icon": "https://chakra-ui.com/favicon.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Image&https://chakra-ui.com/docs/components/media-and-icons/image"
+                    }
+                },
+                {
+                    "title": "Breadcrumb",
+                    "subtitle": "Components → Navigation → Breadcrumb",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://chakra-ui.com/docs/components/navigation/breadcrumb"
+                    },
+                    "icon": "https://chakra-ui.com/favicon.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Breadcrumb&https://chakra-ui.com/docs/components/navigation/breadcrumb"
+                    }
+                },
+                {
+                    "title": "Link Overlay",
+                    "subtitle": "Components → Navigation → Link Overlay",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://chakra-ui.com/docs/components/navigation/link-overlay"
+                    },
+                    "icon": "https://chakra-ui.com/favicon.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Link Overlay&https://chakra-ui.com/docs/components/navigation/link-overlay"
+                    }
+                },
+                {
+                    "title": "Link",
+                    "subtitle": "Components → Navigation → Link",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://chakra-ui.com/docs/components/navigation/link"
+                    },
+                    "icon": "https://chakra-ui.com/favicon.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Link&https://chakra-ui.com/docs/components/navigation/link"
+                    }
+                },
+                {
+                    "title": "Close Button",
+                    "subtitle": "Components → Other → Close Button",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://chakra-ui.com/docs/components/other/close-button"
+                    },
+                    "icon": "https://chakra-ui.com/favicon.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Close Button&https://chakra-ui.com/docs/components/other/close-button"
+                    }
+                },
+                {
+                    "title": "Portal",
+                    "subtitle": "Components → Other → Portal",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://chakra-ui.com/docs/components/other/portal"
+                    },
+                    "icon": "https://chakra-ui.com/favicon.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Portal&https://chakra-ui.com/docs/components/other/portal"
+                    }
+                },
+                {
+                    "title": "Show Hide",
+                    "subtitle": "Components → Other → Show Hide",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://chakra-ui.com/docs/components/other/show-hide"
+                    },
+                    "icon": "https://chakra-ui.com/favicon.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Show Hide&https://chakra-ui.com/docs/components/other/show-hide"
+                    }
+                },
+                {
+                    "title": "Transitions",
+                    "subtitle": "Components → Other → Transitions",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://chakra-ui.com/docs/components/other/transitions"
+                    },
+                    "icon": "https://chakra-ui.com/favicon.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Transitions&https://chakra-ui.com/docs/components/other/transitions"
+                    }
+                },
+                {
+                    "title": "Alert Dialog",
+                    "subtitle": "Components → Overlay → Alert Dialog",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://chakra-ui.com/docs/components/overlay/alert-dialog"
+                    },
+                    "icon": "https://chakra-ui.com/favicon.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Alert Dialog&https://chakra-ui.com/docs/components/overlay/alert-dialog"
+                    }
+                },
+                {
+                    "title": "Drawer",
+                    "subtitle": "Components → Overlay → Drawer",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://chakra-ui.com/docs/components/overlay/drawer"
+                    },
+                    "icon": "https://chakra-ui.com/favicon.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Drawer&https://chakra-ui.com/docs/components/overlay/drawer"
+                    }
+                },
+                {
+                    "title": "Menu",
+                    "subtitle": "Components → Overlay → Menu",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://chakra-ui.com/docs/components/overlay/menu"
+                    },
+                    "icon": "https://chakra-ui.com/favicon.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Menu&https://chakra-ui.com/docs/components/overlay/menu"
+                    }
+                },
+                {
+                    "title": "Modal",
+                    "subtitle": "Components → Overlay → Modal",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://chakra-ui.com/docs/components/overlay/modal"
+                    },
+                    "icon": "https://chakra-ui.com/favicon.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Modal&https://chakra-ui.com/docs/components/overlay/modal"
+                    }
+                },
+                {
+                    "title": "Popover",
+                    "subtitle": "Components → Overlay → Popover",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://chakra-ui.com/docs/components/overlay/popover"
+                    },
+                    "icon": "https://chakra-ui.com/favicon.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Popover&https://chakra-ui.com/docs/components/overlay/popover"
+                    }
+                },
+                {
+                    "title": "Tooltip",
+                    "subtitle": "Components → Overlay → Tooltip",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://chakra-ui.com/docs/components/overlay/tooltip"
+                    },
+                    "icon": "https://chakra-ui.com/favicon.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Tooltip&https://chakra-ui.com/docs/components/overlay/tooltip"
+                    }
+                },
+                {
+                    "title": "Overview",
+                    "subtitle": "Components → Overview",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://chakra-ui.com/docs/components/overview"
+                    },
+                    "icon": "https://chakra-ui.com/favicon.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Overview&https://chakra-ui.com/docs/components/overview"
+                    }
+                },
+                {
+                    "title": "As Prop",
+                    "subtitle": "Components → Recipes → As Prop",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://chakra-ui.com/docs/components/recipes/as-prop"
+                    },
+                    "icon": "https://chakra-ui.com/favicon.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "As Prop&https://chakra-ui.com/docs/components/recipes/as-prop"
+                    }
+                },
+                {
+                    "title": "Floating Labels",
+                    "subtitle": "Components → Recipes → Floating Labels",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://chakra-ui.com/docs/components/recipes/floating-labels"
+                    },
+                    "icon": "https://chakra-ui.com/favicon.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Floating Labels&https://chakra-ui.com/docs/components/recipes/floating-labels"
+                    }
+                },
+                {
+                    "title": "Horizontal Collapse",
+                    "subtitle": "Components → Recipes → Horizontal Collapse",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://chakra-ui.com/docs/components/recipes/horizontal-collapse"
+                    },
+                    "icon": "https://chakra-ui.com/favicon.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Horizontal Collapse&https://chakra-ui.com/docs/components/recipes/horizontal-collapse"
+                    }
+                },
+                {
+                    "title": "Z Index",
+                    "subtitle": "Components → Recipes → Z Index",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://chakra-ui.com/docs/components/recipes/z-index"
+                    },
+                    "icon": "https://chakra-ui.com/favicon.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Z Index&https://chakra-ui.com/docs/components/recipes/z-index"
+                    }
+                },
+                {
+                    "title": "Heading",
+                    "subtitle": "Components → Typography → Heading",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://chakra-ui.com/docs/components/typography/heading"
+                    },
+                    "icon": "https://chakra-ui.com/favicon.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Heading&https://chakra-ui.com/docs/components/typography/heading"
+                    }
+                },
+                {
+                    "title": "Text",
+                    "subtitle": "Components → Typography → Text",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://chakra-ui.com/docs/components/typography/text"
+                    },
+                    "icon": "https://chakra-ui.com/favicon.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Text&https://chakra-ui.com/docs/components/typography/text"
+                    }
+                },
+                {
+                    "title": "Use Checkbox Group",
+                    "subtitle": "Styled System → Component Hooks → Use Checkbox Group",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://chakra-ui.com/docs/styled-system/component-hooks/use-checkbox-group"
+                    },
+                    "icon": "https://chakra-ui.com/favicon.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Use Checkbox Group&https://chakra-ui.com/docs/styled-system/component-hooks/use-checkbox-group"
+                    }
+                },
+                {
+                    "title": "Use Checkbox",
+                    "subtitle": "Styled System → Component Hooks → Use Checkbox",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://chakra-ui.com/docs/styled-system/component-hooks/use-checkbox"
+                    },
+                    "icon": "https://chakra-ui.com/favicon.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Use Checkbox&https://chakra-ui.com/docs/styled-system/component-hooks/use-checkbox"
+                    }
+                },
+                {
+                    "title": "Chakra Factory",
+                    "subtitle": "Styled System → Features → Chakra Factory",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://chakra-ui.com/docs/styled-system/features/chakra-factory"
+                    },
+                    "icon": "https://chakra-ui.com/favicon.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Chakra Factory&https://chakra-ui.com/docs/styled-system/features/chakra-factory"
+                    }
+                },
+                {
+                    "title": "Color Mode",
+                    "subtitle": "Styled System → Features → Color Mode",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://chakra-ui.com/docs/styled-system/features/color-mode"
+                    },
+                    "icon": "https://chakra-ui.com/favicon.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Color Mode&https://chakra-ui.com/docs/styled-system/features/color-mode"
+                    }
+                },
+                {
+                    "title": "Css Variables",
+                    "subtitle": "Styled System → Features → Css Variables",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://chakra-ui.com/docs/styled-system/features/css-variables"
+                    },
+                    "icon": "https://chakra-ui.com/favicon.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Css Variables&https://chakra-ui.com/docs/styled-system/features/css-variables"
+                    }
+                },
+                {
+                    "title": "Global Styles",
+                    "subtitle": "Styled System → Features → Global Styles",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://chakra-ui.com/docs/styled-system/features/global-styles"
+                    },
+                    "icon": "https://chakra-ui.com/favicon.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Global Styles&https://chakra-ui.com/docs/styled-system/features/global-styles"
+                    }
+                },
+                {
+                    "title": "Gradient",
+                    "subtitle": "Styled System → Features → Gradient",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://chakra-ui.com/docs/styled-system/features/gradient"
+                    },
+                    "icon": "https://chakra-ui.com/favicon.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Gradient&https://chakra-ui.com/docs/styled-system/features/gradient"
+                    }
+                },
+                {
+                    "title": "Responsive Styles",
+                    "subtitle": "Styled System → Features → Responsive Styles",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://chakra-ui.com/docs/styled-system/features/responsive-styles"
+                    },
+                    "icon": "https://chakra-ui.com/favicon.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Responsive Styles&https://chakra-ui.com/docs/styled-system/features/responsive-styles"
+                    }
+                },
+                {
+                    "title": "Rtl Support",
+                    "subtitle": "Styled System → Features → Rtl Support",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://chakra-ui.com/docs/styled-system/features/rtl-support"
+                    },
+                    "icon": "https://chakra-ui.com/favicon.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Rtl Support&https://chakra-ui.com/docs/styled-system/features/rtl-support"
+                    }
+                },
+                {
+                    "title": "Semantic Tokens",
+                    "subtitle": "Styled System → Features → Semantic Tokens",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://chakra-ui.com/docs/styled-system/features/semantic-tokens"
+                    },
+                    "icon": "https://chakra-ui.com/favicon.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Semantic Tokens&https://chakra-ui.com/docs/styled-system/features/semantic-tokens"
+                    }
+                },
+                {
+                    "title": "Style Props",
+                    "subtitle": "Styled System → Features → Style Props",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://chakra-ui.com/docs/styled-system/features/style-props"
+                    },
+                    "icon": "https://chakra-ui.com/favicon.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Style Props&https://chakra-ui.com/docs/styled-system/features/style-props"
+                    }
+                },
+                {
+                    "title": "Text And Layer Styles",
+                    "subtitle": "Styled System → Features → Text And Layer Styles",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://chakra-ui.com/docs/styled-system/features/text-and-layer-styles"
+                    },
+                    "icon": "https://chakra-ui.com/favicon.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Text And Layer Styles&https://chakra-ui.com/docs/styled-system/features/text-and-layer-styles"
+                    }
+                },
+                {
+                    "title": "The Sx Prop",
+                    "subtitle": "Styled System → Features → The Sx Prop",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://chakra-ui.com/docs/styled-system/features/the-sx-prop"
+                    },
+                    "icon": "https://chakra-ui.com/favicon.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "The Sx Prop&https://chakra-ui.com/docs/styled-system/features/the-sx-prop"
+                    }
+                },
+                {
+                    "title": "Overview",
+                    "subtitle": "Styled System → Overview",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://chakra-ui.com/docs/styled-system/overview"
+                    },
+                    "icon": "https://chakra-ui.com/favicon.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Overview&https://chakra-ui.com/docs/styled-system/overview"
+                    }
+                },
+                {
+                    "title": "Page Specific Color Mode",
+                    "subtitle": "Styled System → Recipes → Page Specific Color Mode",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://chakra-ui.com/docs/styled-system/recipes/page-specific-color-mode"
+                    },
+                    "icon": "https://chakra-ui.com/favicon.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Page Specific Color Mode&https://chakra-ui.com/docs/styled-system/recipes/page-specific-color-mode"
+                    }
+                },
+                {
+                    "title": "Using Fonts",
+                    "subtitle": "Styled System → Recipes → Using Fonts",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://chakra-ui.com/docs/styled-system/recipes/using-fonts"
+                    },
+                    "icon": "https://chakra-ui.com/favicon.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Using Fonts&https://chakra-ui.com/docs/styled-system/recipes/using-fonts"
+                    }
+                },
+                {
+                    "title": "Advanced",
+                    "subtitle": "Styled System → Theming → Advanced",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://chakra-ui.com/docs/styled-system/theming/advanced"
+                    },
+                    "icon": "https://chakra-ui.com/favicon.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Advanced&https://chakra-ui.com/docs/styled-system/theming/advanced"
+                    }
+                },
+                {
+                    "title": "Component Style",
+                    "subtitle": "Styled System → Theming → Component Style",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://chakra-ui.com/docs/styled-system/theming/component-style"
+                    },
+                    "icon": "https://chakra-ui.com/favicon.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Component Style&https://chakra-ui.com/docs/styled-system/theming/component-style"
+                    }
+                },
+                {
+                    "title": "Customize Theme",
+                    "subtitle": "Styled System → Theming → Customize Theme",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://chakra-ui.com/docs/styled-system/theming/customize-theme"
+                    },
+                    "icon": "https://chakra-ui.com/favicon.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Customize Theme&https://chakra-ui.com/docs/styled-system/theming/customize-theme"
+                    }
+                },
+                {
+                    "title": "Theme",
+                    "subtitle": "Styled System → Theming → Theme",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://chakra-ui.com/docs/styled-system/theming/theme"
+                    },
+                    "icon": "https://chakra-ui.com/favicon.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Theme&https://chakra-ui.com/docs/styled-system/theming/theme"
+                    }
+                },
+                {
+                    "title": "Use Boolean",
+                    "subtitle": "Styled System → Utility Hooks → Use Boolean",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://chakra-ui.com/docs/styled-system/utility-hooks/use-boolean"
+                    },
+                    "icon": "https://chakra-ui.com/favicon.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Use Boolean&https://chakra-ui.com/docs/styled-system/utility-hooks/use-boolean"
+                    }
+                },
+                {
+                    "title": "Use Breakpoint Value",
+                    "subtitle": "Styled System → Utility Hooks → Use Breakpoint Value",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://chakra-ui.com/docs/styled-system/utility-hooks/use-breakpoint-value"
+                    },
+                    "icon": "https://chakra-ui.com/favicon.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Use Breakpoint Value&https://chakra-ui.com/docs/styled-system/utility-hooks/use-breakpoint-value"
+                    }
+                },
+                {
+                    "title": "Use Clipboard",
+                    "subtitle": "Styled System → Utility Hooks → Use Clipboard",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://chakra-ui.com/docs/styled-system/utility-hooks/use-clipboard"
+                    },
+                    "icon": "https://chakra-ui.com/favicon.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Use Clipboard&https://chakra-ui.com/docs/styled-system/utility-hooks/use-clipboard"
+                    }
+                },
+                {
+                    "title": "Use Const",
+                    "subtitle": "Styled System → Utility Hooks → Use Const",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://chakra-ui.com/docs/styled-system/utility-hooks/use-const"
+                    },
+                    "icon": "https://chakra-ui.com/favicon.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Use Const&https://chakra-ui.com/docs/styled-system/utility-hooks/use-const"
+                    }
+                },
+                {
+                    "title": "Use Controllable",
+                    "subtitle": "Styled System → Utility Hooks → Use Controllable",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://chakra-ui.com/docs/styled-system/utility-hooks/use-controllable"
+                    },
+                    "icon": "https://chakra-ui.com/favicon.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Use Controllable&https://chakra-ui.com/docs/styled-system/utility-hooks/use-controllable"
+                    }
+                },
+                {
+                    "title": "Use Disclosure",
+                    "subtitle": "Styled System → Utility Hooks → Use Disclosure",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://chakra-ui.com/docs/styled-system/utility-hooks/use-disclosure"
+                    },
+                    "icon": "https://chakra-ui.com/favicon.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Use Disclosure&https://chakra-ui.com/docs/styled-system/utility-hooks/use-disclosure"
+                    }
+                },
+                {
+                    "title": "Use Media Query",
+                    "subtitle": "Styled System → Utility Hooks → Use Media Query",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://chakra-ui.com/docs/styled-system/utility-hooks/use-media-query"
+                    },
+                    "icon": "https://chakra-ui.com/favicon.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Use Media Query&https://chakra-ui.com/docs/styled-system/utility-hooks/use-media-query"
+                    }
+                },
+                {
+                    "title": "Use Merge Refs",
+                    "subtitle": "Styled System → Utility Hooks → Use Merge Refs",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://chakra-ui.com/docs/styled-system/utility-hooks/use-merge-refs"
+                    },
+                    "icon": "https://chakra-ui.com/favicon.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Use Merge Refs&https://chakra-ui.com/docs/styled-system/utility-hooks/use-merge-refs"
+                    }
+                },
+                {
+                    "title": "Use Outside Click",
+                    "subtitle": "Styled System → Utility Hooks → Use Outside Click",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://chakra-ui.com/docs/styled-system/utility-hooks/use-outside-click"
+                    },
+                    "icon": "https://chakra-ui.com/favicon.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Use Outside Click&https://chakra-ui.com/docs/styled-system/utility-hooks/use-outside-click"
+                    }
+                },
+                {
+                    "title": "Use Prefers Reduced Motion",
+                    "subtitle": "Styled System → Utility Hooks → Use Prefers Reduced Motion",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://chakra-ui.com/docs/styled-system/utility-hooks/use-prefers-reduced-motion"
+                    },
+                    "icon": "https://chakra-ui.com/favicon.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Use Prefers Reduced Motion&https://chakra-ui.com/docs/styled-system/utility-hooks/use-prefers-reduced-motion"
+                    }
+                },
+                {
+                    "title": "Use Theme",
+                    "subtitle": "Styled System → Utility Hooks → Use Theme",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://chakra-ui.com/docs/styled-system/utility-hooks/use-theme"
+                    },
+                    "icon": "https://chakra-ui.com/favicon.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Use Theme&https://chakra-ui.com/docs/styled-system/utility-hooks/use-theme"
+                    }
+                },
+                {
+                    "title": "Use Token",
+                    "subtitle": "Styled System → Utility Hooks → Use Token",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://chakra-ui.com/docs/styled-system/utility-hooks/use-token"
+                    },
+                    "icon": "https://chakra-ui.com/favicon.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Use Token&https://chakra-ui.com/docs/styled-system/utility-hooks/use-token"
+                    }
+                },
+                {
+                    "title": "Component Guide",
+                    "subtitle": "Advanced → Component Guide",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://chakra-ui.com/guides/advanced/component-guide"
+                    },
+                    "icon": "https://chakra-ui.com/favicon.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Component Guide&https://chakra-ui.com/guides/advanced/component-guide"
+                    }
+                },
+                {
+                    "title": "Contributing",
+                    "subtitle": "Advanced → Contributing",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://chakra-ui.com/guides/advanced/contributing"
+                    },
+                    "icon": "https://chakra-ui.com/favicon.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Contributing&https://chakra-ui.com/guides/advanced/contributing"
+                    }
+                },
+                {
+                    "title": "How To Create A Guide",
+                    "subtitle": "Advanced → How To Create A Guide",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://chakra-ui.com/guides/advanced/how-to-create-a-guide"
+                    },
+                    "icon": "https://chakra-ui.com/favicon.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "How To Create A Guide&https://chakra-ui.com/guides/advanced/how-to-create-a-guide"
+                    }
+                },
+                {
+                    "title": "With Nextjs",
+                    "subtitle": "Advanced → With Nextjs",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://chakra-ui.com/guides/advanced/with-nextjs"
+                    },
+                    "icon": "https://chakra-ui.com/favicon.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "With Nextjs&https://chakra-ui.com/guides/advanced/with-nextjs"
+                    }
+                },
+                {
+                    "title": "Comparison",
+                    "subtitle": "Comparison",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://chakra-ui.com/guides/comparison"
+                    },
+                    "icon": "https://chakra-ui.com/favicon.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Comparison&https://chakra-ui.com/guides/comparison"
+                    }
+                },
+                {
+                    "title": "First Steps",
+                    "subtitle": "First Steps",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://chakra-ui.com/guides/first-steps"
+                    },
+                    "icon": "https://chakra-ui.com/favicon.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "First Steps&https://chakra-ui.com/guides/first-steps"
+                    }
+                },
+                {
+                    "title": "Blitzjs Guide",
+                    "subtitle": "Getting Started → Blitzjs Guide",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://chakra-ui.com/guides/getting-started/blitzjs-guide"
+                    },
+                    "icon": "https://chakra-ui.com/favicon.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Blitzjs Guide&https://chakra-ui.com/guides/getting-started/blitzjs-guide"
+                    }
+                },
+                {
+                    "title": "Cra Guide",
+                    "subtitle": "Getting Started → Cra Guide",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://chakra-ui.com/guides/getting-started/cra-guide"
+                    },
+                    "icon": "https://chakra-ui.com/favicon.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Cra Guide&https://chakra-ui.com/guides/getting-started/cra-guide"
+                    }
+                },
+                {
+                    "title": "Gatsby Guide",
+                    "subtitle": "Getting Started → Gatsby Guide",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://chakra-ui.com/guides/getting-started/gatsby-guide"
+                    },
+                    "icon": "https://chakra-ui.com/favicon.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Gatsby Guide&https://chakra-ui.com/guides/getting-started/gatsby-guide"
+                    }
+                },
+                {
+                    "title": "Nextjs Guide",
+                    "subtitle": "Getting Started → Nextjs Guide",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://chakra-ui.com/guides/getting-started/nextjs-guide"
+                    },
+                    "icon": "https://chakra-ui.com/favicon.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Nextjs Guide&https://chakra-ui.com/guides/getting-started/nextjs-guide"
+                    }
+                },
+                {
+                    "title": "Redwoodjs Guide",
+                    "subtitle": "Getting Started → Redwoodjs Guide",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://chakra-ui.com/guides/getting-started/redwoodjs-guide"
+                    },
+                    "icon": "https://chakra-ui.com/favicon.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Redwoodjs Guide&https://chakra-ui.com/guides/getting-started/redwoodjs-guide"
+                    }
+                },
+                {
+                    "title": "Remix Guide",
+                    "subtitle": "Getting Started → Remix Guide",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://chakra-ui.com/guides/getting-started/remix-guide"
+                    },
+                    "icon": "https://chakra-ui.com/favicon.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Remix Guide&https://chakra-ui.com/guides/getting-started/remix-guide"
+                    }
+                },
+                {
+                    "title": "With Capsize",
+                    "subtitle": "Integrations → With Capsize",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://chakra-ui.com/guides/integrations/with-capsize"
+                    },
+                    "icon": "https://chakra-ui.com/favicon.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "With Capsize&https://chakra-ui.com/guides/integrations/with-capsize"
+                    }
+                },
+                {
+                    "title": "With Formik",
+                    "subtitle": "Integrations → With Formik",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://chakra-ui.com/guides/integrations/with-formik"
+                    },
+                    "icon": "https://chakra-ui.com/favicon.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "With Formik&https://chakra-ui.com/guides/integrations/with-formik"
+                    }
+                },
+                {
+                    "title": "With Framer",
+                    "subtitle": "Integrations → With Framer",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://chakra-ui.com/guides/integrations/with-framer"
+                    },
+                    "icon": "https://chakra-ui.com/favicon.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "With Framer&https://chakra-ui.com/guides/integrations/with-framer"
+                    }
+                },
+                {
+                    "title": "With Hook Form",
+                    "subtitle": "Integrations → With Hook Form",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://chakra-ui.com/guides/integrations/with-hook-form"
+                    },
+                    "icon": "https://chakra-ui.com/favicon.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "With Hook Form&https://chakra-ui.com/guides/integrations/with-hook-form"
+                    }
+                },
+                {
+                    "title": "With React Table",
+                    "subtitle": "Integrations → With React Table",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://chakra-ui.com/guides/integrations/with-react-table"
+                    },
+                    "icon": "https://chakra-ui.com/favicon.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "With React Table&https://chakra-ui.com/guides/integrations/with-react-table"
+                    }
+                },
+                {
+                    "title": "With Storybook",
+                    "subtitle": "Integrations → With Storybook",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://chakra-ui.com/guides/integrations/with-storybook"
+                    },
+                    "icon": "https://chakra-ui.com/favicon.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "With Storybook&https://chakra-ui.com/guides/integrations/with-storybook"
+                    }
+                },
+                {
+                    "title": "Migration",
+                    "subtitle": "Migration",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://chakra-ui.com/guides/migration"
+                    },
+                    "icon": "https://chakra-ui.com/favicon.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Migration&https://chakra-ui.com/guides/migration"
+                    }
+                },
+                {
+                    "title": "Principles",
+                    "subtitle": "Principles",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://chakra-ui.com/guides/principles"
+                    },
+                    "icon": "https://chakra-ui.com/favicon.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Principles&https://chakra-ui.com/guides/principles"
+                    }
+                },
+                {
+                    "title": "Atlaskit Editable",
+                    "subtitle": "Recipes → Atlaskit Editable",
+                    "action": {
+                        "type": "open-url",
+                        "url": "https://chakra-ui.com/guides/recipes/atlaskit-editable"
+                    },
+                    "icon": "https://chakra-ui.com/favicon.png",
+                    "moveAction": {
+                        "type": "add-param",
+                        "name": "item",
+                        "value": "Atlaskit Editable&https://chakra-ui.com/guides/recipes/atlaskit-editable"
+                    }
+                }
+            ]
+        }
+    }
+}

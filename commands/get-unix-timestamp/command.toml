@@ -1,7 +1,7 @@
 name = "Get Current UNIX Timestamp"
 description = "Gets the current UNIX Timestamp and copied it to your clipboard"
 endpointURL = "https://slapcommands.vercel.app/api/utils/unix-timestamp"
-sourceCodeURL = "https://github.com/AnishDe12020/slapcommands/blob/main/src/shared/docsearch/chakra-ui-docs.js"
+sourceCodeURL = "https://github.com/AnishDe12020/slapcommands/blob/main/src/shared/utils/unix-timestamp.js"
 language = "javascript"
 categories = ["Developer Tools", "Productivity", "Documentation"]
 

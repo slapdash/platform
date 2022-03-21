@@ -3,7 +3,7 @@ description = "Lets you search through emojis and paste it into your current app
 endpointURL = "https://slapcommands.vercel.app/api/utils/emoji-paster"
 sourceCodeURL = "https://github.com/AnishDe12020/slapcommands/blob/main/src/shared/utils/emoji-paster.js"
 language = "javascript"
-categories = ["Developer Tools", "Productivity", "Documentation"]
+categories = ["Utilities", "Productivity"]
 
 author.name = "Anish De"
 author.profileURL = "https://github.com/AnishDe12020"

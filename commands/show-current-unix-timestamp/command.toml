@@ -1,15 +1,15 @@
-name = "Get Current UNIX Timestamp"
-description = "Gets the current UNIX Timestamp and copied it to your clipboard"
+name = "Show Current UNIX Timestamp"
+description = "Quickly see or copy the current UNIX timestamp"
 endpointURL = "https://slapcommands.vercel.app/api/utils/unix-timestamp"
 sourceCodeURL = "https://github.com/AnishDe12020/slapcommands/blob/main/src/shared/utils/unix-timestamp.js"
 language = "javascript"
-categories = ["Developer Tools", "Productivity", "Utilities"]
+categories = ["Developer Tools", "Utilities"]
 
 author.name = "Anish De"
 author.profileURL = "https://github.com/AnishDe12020"
 
 readme = """
-This command lets you get the current UNIX Timestamp and copy it to your clipboard.
+This command lets you see the current UNIX timestamp and copy it to your clipboard.
 
 The command is also [available](https://github.com/AnishDe12020/slapcommands) as a Local Command.
 """

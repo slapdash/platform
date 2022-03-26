@@ -3,7 +3,7 @@ description = "Command to search through Slapdash Platform documentation and ope
 endpointURL = "https://slapcommands.vercel.app/api/docsearch/slapdash-platform"
 sourceCodeURL = "https://github.com/AnishDe12020/slapcommands/blob/main/src/shared/docsearch/slapdash-platform-docs.js"
 language = "javascript"
-categories = ["Developer Tools", "Productivity", "Documentation"]
+categories = ["Developer Tools", "Documentation"]
 
 author.name = "Anish De"
 author.profileURL = "https://github.com/AnishDe12020"

@@ -3,7 +3,7 @@ description = "Quickly see or copy the current UNIX timestamp"
 endpointURL = "https://slapcommands.vercel.app/api/utils/unix-timestamp"
 sourceCodeURL = "https://github.com/AnishDe12020/slapcommands/blob/main/src/shared/utils/unix-timestamp.js"
 language = "javascript"
-categories = ["Developer Tools", "Utilities"]
+categories = ["Developer Tools", "Productivity", "Utilities"]
 
 author.name = "Anish De"
 author.profileURL = "https://github.com/AnishDe12020"

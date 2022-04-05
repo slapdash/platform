@@ -1,0 +1,15 @@
+name = "Search Emojis"
+description = "Lets you search through emojis and paste it into your current applciation"
+endpointURL = "https://slapcommands.vercel.app/api/utils/emoji-paster"
+sourceCodeURL = "https://github.com/AnishDe12020/slapcommands/blob/main/src/shared/utils/emoji-paster.js"
+language = "javascript"
+categories = ["Utilities"]
+author.name = "Anish De"
+author.profileURL = "https://github.com/AnishDe12020"
+
+readme = """
+This command lets you search through all emojis and paste it into your current applciation.
+
+The command is also [available](https://github.com/AnishDe12020/slapcommands) as a Local Command.
+"""
+

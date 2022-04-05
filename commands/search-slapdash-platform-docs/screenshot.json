@@ -1,0 +1,318 @@
+{
+    "keywords": "vi",
+    "response": {
+        "view": {
+          "type": "list",
+          "options": [
+            {
+              "title": "Home",
+              "subtitle": "",
+              "action": {
+                "type": "open-url",
+                "url": "https://platform.slapdash.com/root"
+              },
+              "icon": "https://slapdash.com/favicon-180x180.2sB.png",
+              "moveAction": {
+                "type": "add-param",
+                "name": "item",
+                "value": "Home&https://platform.slapdash.com/root"
+              }
+            },
+            {
+              "title": "Cloud Commands",
+              "subtitle": "Command Bar 101 → Cloud Commands",
+              "action": {
+                "type": "open-url",
+                "url": "https://platform.slapdash.com/command-bar-101/cloud-commands"
+              },
+              "icon": "https://slapdash.com/favicon-180x180.2sB.png",
+              "moveAction": {
+                "type": "add-param",
+                "name": "item",
+                "value": "Cloud Commands&https://platform.slapdash.com/command-bar-101/cloud-commands"
+              }
+            },
+            {
+              "title": "Command Response",
+              "subtitle": "Reference → Command Response",
+              "action": {
+                "type": "open-url",
+                "url": "https://platform.slapdash.com/reference/command-response"
+              },
+              "icon": "https://slapdash.com/favicon-180x180.2sB.png",
+              "moveAction": {
+                "type": "add-param",
+                "name": "item",
+                "value": "Command Response&https://platform.slapdash.com/reference/command-response"
+              }
+            },
+            {
+              "title": "Command Response Action",
+              "subtitle": "Reference → Command Response Action",
+              "action": {
+                "type": "open-url",
+                "url": "https://platform.slapdash.com/reference/command-response-action"
+              },
+              "icon": "https://slapdash.com/favicon-180x180.2sB.png",
+              "moveAction": {
+                "type": "add-param",
+                "name": "item",
+                "value": "Command Response Action&https://platform.slapdash.com/reference/command-response-action"
+              }
+            },
+            {
+              "title": "Command Response Config",
+              "subtitle": "Reference → Command Response Config",
+              "action": {
+                "type": "open-url",
+                "url": "https://platform.slapdash.com/reference/command-response-config"
+              },
+              "icon": "https://slapdash.com/favicon-180x180.2sB.png",
+              "moveAction": {
+                "type": "add-param",
+                "name": "item",
+                "value": "Command Response Config&https://platform.slapdash.com/reference/command-response-config"
+              }
+            },
+            {
+              "title": "Command Response Icon",
+              "subtitle": "Reference → Command Response Icon",
+              "action": {
+                "type": "open-url",
+                "url": "https://platform.slapdash.com/reference/command-response-icon"
+              },
+              "icon": "https://slapdash.com/favicon-180x180.2sB.png",
+              "moveAction": {
+                "type": "add-param",
+                "name": "item",
+                "value": "Command Response Icon&https://platform.slapdash.com/reference/command-response-icon"
+              }
+            },
+            {
+              "title": "Command Response Tokens",
+              "subtitle": "Reference → Command Response Tokens",
+              "action": {
+                "type": "open-url",
+                "url": "https://platform.slapdash.com/reference/command-response-tokens"
+              },
+              "icon": "https://slapdash.com/favicon-180x180.2sB.png",
+              "moveAction": {
+                "type": "add-param",
+                "name": "item",
+                "value": "Command Response Tokens&https://platform.slapdash.com/reference/command-response-tokens"
+              }
+            },
+            {
+              "title": "Command Response View",
+              "subtitle": "Reference → Command Response View",
+              "action": {
+                "type": "open-url",
+                "url": "https://platform.slapdash.com/reference/command-response-view"
+              },
+              "icon": "https://slapdash.com/favicon-180x180.2sB.png",
+              "moveAction": {
+                "type": "add-param",
+                "name": "item",
+                "value": "Command Response View&https://platform.slapdash.com/reference/command-response-view"
+              }
+            },
+            {
+              "title": "Command Response View Form",
+              "subtitle": "Reference → Command Response View Form",
+              "action": {
+                "type": "open-url",
+                "url": "https://platform.slapdash.com/reference/command-response-view-form"
+              },
+              "icon": "https://slapdash.com/favicon-180x180.2sB.png",
+              "moveAction": {
+                "type": "add-param",
+                "name": "item",
+                "value": "Command Response View Form&https://platform.slapdash.com/reference/command-response-view-form"
+              }
+            },
+            {
+              "title": "Command Response View List",
+              "subtitle": "Reference → Command Response View List",
+              "action": {
+                "type": "open-url",
+                "url": "https://platform.slapdash.com/reference/command-response-view-list"
+              },
+              "icon": "https://slapdash.com/favicon-180x180.2sB.png",
+              "moveAction": {
+                "type": "add-param",
+                "name": "item",
+                "value": "Command Response View List&https://platform.slapdash.com/reference/command-response-view-list"
+              }
+            },
+            {
+              "title": "Command Response View Masonry",
+              "subtitle": "Reference → Command Response View Masonry",
+              "action": {
+                "type": "open-url",
+                "url": "https://platform.slapdash.com/reference/command-response-view-masonry"
+              },
+              "icon": "https://slapdash.com/favicon-180x180.2sB.png",
+              "moveAction": {
+                "type": "add-param",
+                "name": "item",
+                "value": "Command Response View Masonry&https://platform.slapdash.com/reference/command-response-view-masonry"
+              }
+            },
+            {
+              "title": "Commands",
+              "subtitle": "Command Bar 101 → Commands",
+              "action": {
+                "type": "open-url",
+                "url": "https://platform.slapdash.com/command-bar-101/commands"
+              },
+              "icon": "https://slapdash.com/favicon-180x180.2sB.png",
+              "moveAction": {
+                "type": "add-param",
+                "name": "item",
+                "value": "Commands&https://platform.slapdash.com/command-bar-101/commands"
+              }
+            },
+            {
+              "title": "Copy Special Character",
+              "subtitle": "Command Tutorials → Copy Special Character",
+              "action": {
+                "type": "open-url",
+                "url": "https://platform.slapdash.com/command-tutorials/copy-special-character"
+              },
+              "icon": "https://slapdash.com/favicon-180x180.2sB.png",
+              "moveAction": {
+                "type": "add-param",
+                "name": "item",
+                "value": "Copy Special Character&https://platform.slapdash.com/command-tutorials/copy-special-character"
+              }
+            },
+            {
+              "title": "Core Terminology",
+              "subtitle": "Command Bar 101 → Core Terminology",
+              "action": {
+                "type": "open-url",
+                "url": "https://platform.slapdash.com/command-bar-101/core-terminology"
+              },
+              "icon": "https://slapdash.com/favicon-180x180.2sB.png",
+              "moveAction": {
+                "type": "add-param",
+                "name": "item",
+                "value": "Core Terminology&https://platform.slapdash.com/command-bar-101/core-terminology"
+              }
+            },
+            {
+              "title": "Emoji Paster",
+              "subtitle": "Command Tutorials → Emoji Paster",
+              "action": {
+                "type": "open-url",
+                "url": "https://platform.slapdash.com/command-tutorials/emoji-paster"
+              },
+              "icon": "https://slapdash.com/favicon-180x180.2sB.png",
+              "moveAction": {
+                "type": "add-param",
+                "name": "item",
+                "value": "Emoji Paster&https://platform.slapdash.com/command-tutorials/emoji-paster"
+              }
+            },
+            {
+              "title": "Hooks",
+              "subtitle": "Command Bar 101 → Hooks",
+              "action": {
+                "type": "open-url",
+                "url": "https://platform.slapdash.com/command-bar-101/hooks"
+              },
+              "icon": "https://slapdash.com/favicon-180x180.2sB.png",
+              "moveAction": {
+                "type": "add-param",
+                "name": "item",
+                "value": "Hooks&https://platform.slapdash.com/command-bar-101/hooks"
+              }
+            },
+            {
+              "title": "How It Works",
+              "subtitle": "Command Bar 101 → How It Works",
+              "action": {
+                "type": "open-url",
+                "url": "https://platform.slapdash.com/command-bar-101/how-it-works"
+              },
+              "icon": "https://slapdash.com/favicon-180x180.2sB.png",
+              "moveAction": {
+                "type": "add-param",
+                "name": "item",
+                "value": "How It Works&https://platform.slapdash.com/command-bar-101/how-it-works"
+              }
+            },
+            {
+              "title": "Local Commands",
+              "subtitle": "Command Bar 101 → Local Commands",
+              "action": {
+                "type": "open-url",
+                "url": "https://platform.slapdash.com/command-bar-101/local-commands"
+              },
+              "icon": "https://slapdash.com/favicon-180x180.2sB.png",
+              "moveAction": {
+                "type": "add-param",
+                "name": "item",
+                "value": "Local Commands&https://platform.slapdash.com/command-bar-101/local-commands"
+              }
+            },
+            {
+              "title": "Publish Command",
+              "subtitle": "Command Bar 101 → Publish Command",
+              "action": {
+                "type": "open-url",
+                "url": "https://platform.slapdash.com/command-bar-101/publish-command"
+              },
+              "icon": "https://slapdash.com/favicon-180x180.2sB.png",
+              "moveAction": {
+                "type": "add-param",
+                "name": "item",
+                "value": "Publish Command&https://platform.slapdash.com/command-bar-101/publish-command"
+              }
+            },
+            {
+              "title": "Send Slack Message",
+              "subtitle": "Command Tutorials → Send Slack Message",
+              "action": {
+                "type": "open-url",
+                "url": "https://platform.slapdash.com/command-tutorials/send-slack-message"
+              },
+              "icon": "https://slapdash.com/favicon-180x180.2sB.png",
+              "moveAction": {
+                "type": "add-param",
+                "name": "item",
+                "value": "Send Slack Message&https://platform.slapdash.com/command-tutorials/send-slack-message"
+              }
+            },
+            {
+              "title": "Setup Your First Command",
+              "subtitle": "Command Bar 101 → Setup Your First Command",
+              "action": {
+                "type": "open-url",
+                "url": "https://platform.slapdash.com/command-bar-101/setup-your-first-command"
+              },
+              "icon": "https://slapdash.com/favicon-180x180.2sB.png",
+              "moveAction": {
+                "type": "add-param",
+                "name": "item",
+                "value": "Setup Your First Command&https://platform.slapdash.com/command-bar-101/setup-your-first-command"
+              }
+            },
+            {
+              "title": "Toggle Dark Mode",
+              "subtitle": "Command Tutorials → Toggle Dark Mode",
+              "action": {
+                "type": "open-url",
+                "url": "https://platform.slapdash.com/command-tutorials/toggle-dark-mode"
+              },
+              "icon": "https://slapdash.com/favicon-180x180.2sB.png",
+              "moveAction": {
+                "type": "add-param",
+                "name": "item",
+                "value": "Toggle Dark Mode&https://platform.slapdash.com/command-tutorials/toggle-dark-mode"
+              }
+            }
+          ]
+        }
+      }
+}

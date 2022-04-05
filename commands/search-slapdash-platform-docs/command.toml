@@ -1,5 +1,5 @@
 name = "Search Slapdash Platform Docs"
-description = "Command to search through Slapdash Platform documentation and open them in your browser."
+description = "Search through Slapdash Platform documentation"
 endpointURL = "https://slapcommands.vercel.app/api/docsearch/slapdash-platform"
 sourceCodeURL = "https://github.com/AnishDe12020/slapcommands/blob/main/src/shared/docsearch/slapdash-platform-docs.js"
 language = "javascript"
@@ -9,7 +9,7 @@ author.name = "Anish De"
 author.profileURL = "https://github.com/AnishDe12020"
 
 readme = """
-This command lets you search through the [Slapdash Platform documentation](https://platform.slapdash.com/). You can also copy the URL to the individual pages or paste it to your current application.
+The command lets you search through the [Slapdash Platform documentation](https://platform.slapdash.com/). You can copy the URL to the individual pages or paste it to the current application.
 
-The command is also [available](https://github.com/AnishDe12020/slapcommands) as a Local Command.
+It is also available as a [Local Command](https://github.com/AnishDe12020/slapcommands).
 """

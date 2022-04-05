@@ -1,5 +1,5 @@
 name = "Search Supabase Docs"
-description = "Command to search through Supabase documentation and open them in your browser."
+description = "Quickly search through Supabase documentation"
 endpointURL = "https://slapcommands.vercel.app/api/docsearch/supabase"
 sourceCodeURL = "https://github.com/AnishDe12020/slapcommands/blob/main/src/shared/docsearch/supabase-docs.js"
 language = "javascript"
@@ -9,7 +9,7 @@ author.name = "Anish De"
 author.profileURL = "https://github.com/AnishDe12020"
 
 readme = """
-This command lets you search through the [Supabase documentation](https://supabase.com/docs). You can also copy the URL to the individual pages or paste it to your current application.
+This command lets you search through the [Supabase documentation](https://supabase.com/docs). You can copy the URL to the individual pages or paste it to your current application.
 
-The command is also [available](https://github.com/AnishDe12020/slapcommands) as a Local Command.
+The command is also available as a [Local Command](https://github.com/AnishDe12020/slapcommands).
 """

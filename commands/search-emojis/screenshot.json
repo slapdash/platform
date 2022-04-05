@@ -1,0 +1,363 @@
+{
+    "keywords": "heart",
+    "response": {
+        "inputPlaceholder": "Type to search emojis",
+        "view": {
+            "type": "list",
+            "ranking": false,
+            "options": [
+                {
+                    "title": "Heart Suit",
+                    "subtitle": "Activities (game)",
+                    "action": {
+                        "type": "paste",
+                        "value": "♥️"
+                    },
+                    "icon": "♥️"
+                },
+                {
+                    "title": "Heart Hands",
+                    "subtitle": "People & Body (hands)",
+                    "action": {
+                        "type": "paste",
+                        "value": "🫶"
+                    },
+                    "icon": "🫶"
+                },
+                {
+                    "title": "Heart On Fire",
+                    "subtitle": "Smileys & Emotion (emotion)",
+                    "action": {
+                        "type": "paste",
+                        "value": "❤️‍🔥"
+                    },
+                    "icon": "❤️‍🔥"
+                },
+                {
+                    "title": "Red Heart",
+                    "subtitle": "Smileys & Emotion (emotion)",
+                    "action": {
+                        "type": "paste",
+                        "value": "❤️"
+                    },
+                    "icon": "❤️"
+                },
+                {
+                    "title": "Two Hearts",
+                    "subtitle": "Smileys & Emotion (emotion)",
+                    "action": {
+                        "type": "paste",
+                        "value": "💕"
+                    },
+                    "icon": "💕"
+                },
+                {
+                    "title": "Blue Heart",
+                    "subtitle": "Smileys & Emotion (emotion)",
+                    "action": {
+                        "type": "paste",
+                        "value": "💙"
+                    },
+                    "icon": "💙"
+                },
+                {
+                    "title": "Heart With Arrow",
+                    "subtitle": "Smileys & Emotion (emotion)",
+                    "action": {
+                        "type": "paste",
+                        "value": "💘"
+                    },
+                    "icon": "💘"
+                },
+                {
+                    "title": "Heart Decoration",
+                    "subtitle": "Smileys & Emotion (emotion)",
+                    "action": {
+                        "type": "paste",
+                        "value": "💟"
+                    },
+                    "icon": "💟"
+                },
+                {
+                    "title": "Brown Heart",
+                    "subtitle": "Smileys & Emotion (emotion)",
+                    "action": {
+                        "type": "paste",
+                        "value": "🤎"
+                    },
+                    "icon": "🤎"
+                },
+                {
+                    "title": "Heart Exclamation",
+                    "subtitle": "Smileys & Emotion (emotion)",
+                    "action": {
+                        "type": "paste",
+                        "value": "❣️"
+                    },
+                    "icon": "❣️"
+                },
+                {
+                    "title": "White Heart",
+                    "subtitle": "Smileys & Emotion (emotion)",
+                    "action": {
+                        "type": "paste",
+                        "value": "🤍"
+                    },
+                    "icon": "🤍"
+                },
+                {
+                    "title": "Heart With Ribbon",
+                    "subtitle": "Smileys & Emotion (emotion)",
+                    "action": {
+                        "type": "paste",
+                        "value": "💝"
+                    },
+                    "icon": "💝"
+                },
+                {
+                    "title": "Green Heart",
+                    "subtitle": "Smileys & Emotion (emotion)",
+                    "action": {
+                        "type": "paste",
+                        "value": "💚"
+                    },
+                    "icon": "💚"
+                },
+                {
+                    "title": "Black Heart",
+                    "subtitle": "Smileys & Emotion (emotion)",
+                    "action": {
+                        "type": "paste",
+                        "value": "🖤"
+                    },
+                    "icon": "🖤"
+                },
+                {
+                    "title": "Orange Heart",
+                    "subtitle": "Smileys & Emotion (emotion)",
+                    "action": {
+                        "type": "paste",
+                        "value": "🧡"
+                    },
+                    "icon": "🧡"
+                },
+                {
+                    "title": "Yellow Heart",
+                    "subtitle": "Smileys & Emotion (emotion)",
+                    "action": {
+                        "type": "paste",
+                        "value": "💛"
+                    },
+                    "icon": "💛"
+                },
+                {
+                    "title": "Purple Heart",
+                    "subtitle": "Smileys & Emotion (emotion)",
+                    "action": {
+                        "type": "paste",
+                        "value": "💜"
+                    },
+                    "icon": "💜"
+                },
+                {
+                    "title": "Broken Heart",
+                    "subtitle": "Smileys & Emotion (emotion)",
+                    "action": {
+                        "type": "paste",
+                        "value": "💔"
+                    },
+                    "icon": "💔"
+                },
+                {
+                    "title": "Mending Heart",
+                    "subtitle": "Smileys & Emotion (emotion)",
+                    "action": {
+                        "type": "paste",
+                        "value": "❤️‍🩹"
+                    },
+                    "icon": "❤️‍🩹"
+                },
+                {
+                    "title": "Beating Heart",
+                    "subtitle": "Smileys & Emotion (emotion)",
+                    "action": {
+                        "type": "paste",
+                        "value": "💓"
+                    },
+                    "icon": "💓"
+                },
+                {
+                    "title": "Growing Heart",
+                    "subtitle": "Smileys & Emotion (emotion)",
+                    "action": {
+                        "type": "paste",
+                        "value": "💗"
+                    },
+                    "icon": "💗"
+                },
+                {
+                    "title": "Sparkling Heart",
+                    "subtitle": "Smileys & Emotion (emotion)",
+                    "action": {
+                        "type": "paste",
+                        "value": "💖"
+                    },
+                    "icon": "💖"
+                },
+                {
+                    "title": "Revolving Hearts",
+                    "subtitle": "Smileys & Emotion (emotion)",
+                    "action": {
+                        "type": "paste",
+                        "value": "💞"
+                    },
+                    "icon": "💞"
+                },
+                {
+                    "title": "Anatomical Heart",
+                    "subtitle": "People & Body (body-parts)",
+                    "action": {
+                        "type": "paste",
+                        "value": "🫀"
+                    },
+                    "icon": "🫀"
+                },
+                {
+                    "title": "Heart Hands: Dark Skin Tone",
+                    "subtitle": "People & Body (hands)",
+                    "action": {
+                        "type": "paste",
+                        "value": "🫶🏿"
+                    },
+                    "icon": "🫶🏿"
+                },
+                {
+                    "title": "Heart Hands: Light Skin Tone",
+                    "subtitle": "People & Body (hands)",
+                    "action": {
+                        "type": "paste",
+                        "value": "🫶🏻"
+                    },
+                    "icon": "🫶🏻"
+                },
+                {
+                    "title": "Heart Hands: Medium Skin Tone",
+                    "subtitle": "People & Body (hands)",
+                    "action": {
+                        "type": "paste",
+                        "value": "🫶🏽"
+                    },
+                    "icon": "🫶🏽"
+                },
+                {
+                    "title": "Couple With Heart",
+                    "subtitle": "People & Body (family)",
+                    "action": {
+                        "type": "paste",
+                        "value": "💑"
+                    },
+                    "icon": "💑"
+                },
+                {
+                    "title": "Heart Hands: Medium-dark Skin Tone",
+                    "subtitle": "People & Body (hands)",
+                    "action": {
+                        "type": "paste",
+                        "value": "🫶🏾"
+                    },
+                    "icon": "🫶🏾"
+                },
+                {
+                    "title": "Heart Hands: Medium-light Skin Tone",
+                    "subtitle": "People & Body (hands)",
+                    "action": {
+                        "type": "paste",
+                        "value": "🫶🏼"
+                    },
+                    "icon": "🫶🏼"
+                },
+                {
+                    "title": "Couple With Heart: Man, Man",
+                    "subtitle": "People & Body (family)",
+                    "action": {
+                        "type": "paste",
+                        "value": "👨‍❤️‍👨"
+                    },
+                    "icon": "👨‍❤️‍👨"
+                },
+                {
+                    "title": "Couple With Heart: Woman, Man",
+                    "subtitle": "People & Body (family)",
+                    "action": {
+                        "type": "paste",
+                        "value": "👩‍❤️‍👨"
+                    },
+                    "icon": "👩‍❤️‍👨"
+                },
+                {
+                    "title": "Smiling Face With Hearts",
+                    "subtitle": "Smileys & Emotion (face-affection)",
+                    "action": {
+                        "type": "paste",
+                        "value": "🥰"
+                    },
+                    "icon": "🥰"
+                },
+                {
+                    "title": "Couple With Heart: Woman, Woman",
+                    "subtitle": "People & Body (family)",
+                    "action": {
+                        "type": "paste",
+                        "value": "👩‍❤️‍👩"
+                    },
+                    "icon": "👩‍❤️‍👩"
+                },
+                {
+                    "title": "Smiling Cat With Heart-eyes",
+                    "subtitle": "Smileys & Emotion (cat-face)",
+                    "action": {
+                        "type": "paste",
+                        "value": "😻"
+                    },
+                    "icon": "😻"
+                },
+                {
+                    "title": "Couple With Heart: Dark Skin Tone",
+                    "subtitle": "People & Body (family)",
+                    "action": {
+                        "type": "paste",
+                        "value": "💑🏿"
+                    },
+                    "icon": "💑🏿"
+                },
+                {
+                    "title": "Couple With Heart: Light Skin Tone",
+                    "subtitle": "People & Body (family)",
+                    "action": {
+                        "type": "paste",
+                        "value": "💑🏻"
+                    },
+                    "icon": "💑🏻"
+                },
+                {
+                    "title": "Smiling Face With Heart-eyes",
+                    "subtitle": "Smileys & Emotion (face-affection)",
+                    "action": {
+                        "type": "paste",
+                        "value": "😍"
+                    },
+                    "icon": "😍"
+                },
+                {
+                    "title": "Couple With Heart: Medium Skin Tone",
+                    "subtitle": "People & Body (family)",
+                    "action": {
+                        "type": "paste",
+                        "value": "💑🏽"
+                    },
+                    "icon": "💑🏽"
+                }
+            ]
+        }
+    }
+}

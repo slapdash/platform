@@ -9,8 +9,8 @@ author.name = "Anish De"
 author.profileURL = "https://github.com/AnishDe12020"
 
 readme = """
-This command lets you see the current UNIX timestamp and copy it to your clipboard.
+This command shows the current UNIX timestamp and lets you copy it to the clipboard.
 
-The command is also [available](https://github.com/AnishDe12020/slapcommands) as a Local Command.
+The command is also available as a [Local Command](https://github.com/AnishDe12020/slapcommands).
 """
 

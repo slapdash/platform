@@ -1,0 +1,1 @@
+https://slapdash.com/commands/github-stars

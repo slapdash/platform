@@ -1,0 +1,21 @@
+name = "Search Google"
+description = "Search with google by using your custom Search CX and your Api Key"
+endpointURL = "https://slapdash-commands-manudss.vercel.app/google"
+sourceCodeURL = "https://github.com/manudss/slapdash_commands/tree/main/src/google"
+language = "typescript"
+categories = ["Utilities", "Productivity"]
+
+author.name = "Emmanuel DE SAINT STEBAN"
+author.profileURL = "https://github.com/manudss"
+
+readme = """
+The command lets you quickly search by using google search API from [programmablesearchengine.google.com](https://programmablesearchengine.google.com/controlpanel/all).
+
+You need get an API keys here in Google : [Google Custom Search API](https://console.cloud.google.com/apis/api/customsearch.googleapis.com/quotas)
+
+And Create a Custom Search Engine : [Google Custom Search Engine](https://www.google.com/cse/create/new)
+You can create a resticted custom Search (By giving some few website where to search) or search to the all internet (For this options, there is less quotas !)
+
+Then you need to set the CX and API Key from the Custom Search Engine, at the beginning of the command. (This will be store by Slapdash, and sent to every request).
+Nothing is store in the api.
+"""

@@ -1,0 +1,19 @@
+name = "Search Angular"
+description = "Search in Angular Docs with google custom search and your Api Key"
+endpointURL = "https://slapdash-commands-manudss.vercel.app/google/angular"
+sourceCodeURL = "https://github.com/manudss/slapdash_commands/tree/main/src/google"
+language = "typescript"
+categories = ["Utilities", "Developer Tools", "Business", "Productivity"]
+
+author.name = "Emmanuel DE SAINT STEBAN"
+author.profileURL = "https://github.com/manudss"
+
+readme = """
+The command lets you quickly search in some specicific angular docs website by using google search API from [programmablesearchengine.google.com](https://programmablesearchengine.google.com/controlpanel/all).
+
+You need get an API keys here in Google : [Google Custom Search API](https://console.cloud.google.com/apis/api/customsearch.googleapis.com/quotas)
+
+
+Then you need to set API Key from the Custom Search Engine API, at the beginning of the command. (This will be store by Slapdash, and sent to every request).
+Nothing is store in the api.
+"""

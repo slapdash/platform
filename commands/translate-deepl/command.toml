@@ -1,0 +1,19 @@
+name = "Translate (Deepl)"
+description = "Translate text using the DeepL API"
+endpointURL = "https://slapdash-commands-manudss.vercel.app/google/translate"
+sourceCodeURL = "https://github.com/manudss/slapdash_commands/tree/main/src/translate"
+language = "typescript"
+categories = ["Utilities", "Productivity", "Lifestyle", "Business"]
+
+author.name = "Emmanuel DE SAINT STEBAN"
+author.profileURL = "https://github.com/manudss"
+
+readme = """
+This command translates text using the DeepL API.
+
+You need to provide your API authentication key for Deepl API as found in your [DeepL Pro Account)(https://www.deepl.com/pro-account/)..
+(This will be store by Slapdash, and sent to every request, Nothing is store in the api.)
+
+ You can access the DeepL API with either a [DeepL API Free or DeepL API Pro plan](https://www.deepl.com/pro#developer) .
+ With the DeepL API Free plan, you can translate up to 500,000 characters per month for free.
+"""

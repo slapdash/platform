@@ -1,0 +1,18 @@
+name = "Gitmoji"
+description = "Search for gitmoji icon and copy & paste them directly to your git commit message."
+endpointURL = "https://slapdash-commands-manudss.vercel.app/gitmoji"
+sourceCodeURL = "https://github.com/manudss/slapdash_commands/tree/main/src/gitmoji"
+language = "typescript"
+categories = ["Utilities", "Developer Tools", "Business", "Productivity"]
+
+author.name = "Emmanuel DE SAINT STEBAN"
+author.profileURL = "https://github.com/manudss"
+
+readme = """
+The command lets you quickly search gitmojis icons defined here from [Gitmoji.dev](https://gitmoji.dev).
+
+Copy/Paste git emoji characters, for your commit messages.
+😜 Gitmoji is an emoji guide for GitHub commit messages. Aims to be a standarization cheatsheet - guide for using emojis on GitHub's commit messages.
+
+Using emojis on commit messages provides an easy way of identifying the purpose or intention of a commit with only looking at the emojis used. As there are a lot of different emojis I found the need of creating a guide that can help to use emojis easier.
+"""

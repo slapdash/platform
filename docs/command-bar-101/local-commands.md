@@ -288,7 +288,38 @@ echo json_encode([
 
 ### PowerShell
 
-[PowerShell](https://en.wikipedia.org/wiki/PowerShell) is already pre-installed on Windows. Just create a file with a `.ps1` extension. Here's an example that will empty your recycling bin.
+[PowerShell](https://en.wikipedia.org/wiki/PowerShell) is already pre-installed on Windows. Just create a file with a `.ps1` extension.
+
+Note: Slapdash always runs `PowerShell.exe -ExecutionPolicy ByPass -File <script>`. To support Powershell 6 and above, you'll have to create a .cmd or .ps1 file that acts as a proxy to the `pwsh.exe -File <script>` command.
+
+```
+$response = @{
+    view = @{
+        type = "list";
+        options = @(
+            @{
+                title = "Open Slapdash";
+                action = @{
+                    type = "open-url";
+                    url = "https://slapdash.com"
+                }
+            },
+            @{
+                title = "Copy Heart Emoji";
+                action = @{
+                    type = "copy";
+                    value = "\u2764\ufe0f"
+                }
+            }
+        )
+    }
+}
+
+Write-Host $([System.Text.RegularExpressions.Regex]::Unescape(($response | ConvertTo-Json -Depth 4 -Compress)))
+
+```
+
+Here's an example that will empty your recycling bin.
 
 ```
 Clear-RecycleBin -Force
